@@ -1,0 +1,55 @@
+package,checkable,clickable,content-desc,index,focusable,enabled,resource-id,password,NAF,bounds,focused,checked,long-clickable,progress,text,class,scrollable,selected
+com.particlenews.newsbreak,false,false,,0,false,true,,false,,[0;72][1080;1626],false,false,false,0,,android.view.ViewGroup,false,false
+com.particlenews.newsbreak,false,false,,0,false,true,com.particlenews.newsbreak:id/location_bar,false,,[0;72][1080;186],false,false,false,1,,android.view.ViewGroup,false,false
+com.particlenews.newsbreak,false,false,,0,false,true,com.particlenews.newsbreak:id/txt_location,false,,[48;80][639;177],false,false,false,2,Mountain View,android.widget.TextView,false,false
+com.particlenews.newsbreak,false,true,,1,true,true,com.particlenews.newsbreak:id/search_bar_button,true,false,[834;93][942;165],false,false,false,3,,android.widget.ImageView,false,false
+com.particlenews.newsbreak,false,true,,2,true,true,com.particlenews.newsbreak:id/safty_map_button,true,false,[942;93][1050;165],false,false,false,4,,android.widget.ImageView,false,false
+com.particlenews.newsbreak,false,false,,1,false,true,,false,,[0;186][1080;306],false,false,false,5,,android.view.ViewGroup,false,false
+com.particlenews.newsbreak,false,false,,0,true,true,com.particlenews.newsbreak:id/scroll_view,false,,[36;186][942;306],false,false,false,6,,android.widget.HorizontalScrollView,true,false
+com.particlenews.newsbreak,false,false,,0,false,true,,false,,[57;211][232;280],false,false,false,7,For You,android.widget.TextView,false,false
+com.particlenews.newsbreak,false,false,,0,false,true,,false,,[289;217][392;274],false,false,false,8,Local,android.widget.TextView,false,false
+com.particlenews.newsbreak,false,false,,0,false,true,,false,,[464;217][570;274],false,false,false,9,Deals,android.widget.TextView,false,false
+com.particlenews.newsbreak,false,false,,0,false,true,,false,,[642;217][832;274],false,false,false,10,Headlines,android.widget.TextView,false,false
+com.particlenews.newsbreak,false,false,,0,false,true,,false,,[904;217][942;274],false,false,false,11,World Cup 2022,android.widget.TextView,false,false
+com.particlenews.newsbreak,false,false,,0,false,true,,false,,[36;186][942;306],false,false,false,12,,android.view.View,false,false
+com.particlenews.newsbreak,false,false,,1,false,true,com.particlenews.newsbreak:id/more_left_area_02,false,,[891;186][978;306],false,false,false,13,,android.widget.ImageView,false,false
+com.particlenews.newsbreak,false,true,,2,true,true,com.particlenews.newsbreak:id/more_btn_02,true,false,[978;186][1080;306],false,false,false,14,,android.widget.ImageView,false,false
+com.particlenews.newsbreak,false,false,,1,true,true,com.particlenews.newsbreak:id/navi_pager,false,,[0;306][1080;1626],false,false,false,15,,androidx.viewpager.widget.ViewPager,true,false
+com.particlenews.newsbreak,false,false,,1,false,true,com.particlenews.newsbreak:id/fragment_swipe_refresh,false,,[0;306][1080;1626],false,false,false,16,,android.view.ViewGroup,false,false
+com.particlenews.newsbreak,false,false,,0,true,true,com.particlenews.newsbreak:id/list,false,,[0;306][1080;1626],false,false,false,17,,androidx.recyclerview.widget.RecyclerView,true,false
+com.particlenews.newsbreak,false,false,,0,false,true,,false,,[0;306][1080;307],false,false,false,18,,android.view.View,false,false
+com.particlenews.newsbreak,false,false,,0,false,true,com.particlenews.newsbreak:id/avatar,false,,[48;343][120;415],false,false,false,19,,android.widget.ImageView,false,false
+com.particlenews.newsbreak,false,false,,0,false,true,,false,,[147;351][792;408],false,false,false,20,,android.view.ViewGroup,false,false
+com.particlenews.newsbreak,false,false,,0,false,true,com.particlenews.newsbreak:id/nickname,false,,[147;351][279;408],false,false,false,21,People,android.widget.TextView,false,false
+com.particlenews.newsbreak,false,true,,2,true,true,com.particlenews.newsbreak:id/btn_follow,false,,[792;307][1032;453],false,false,false,22,Follow,android.widget.TextView,false,true
+com.particlenews.newsbreak,false,false,,0,false,true,com.particlenews.newsbreak:id/picture,false,,[0;453][1080;1060],false,false,false,23,,android.widget.ImageView,false,false
+com.particlenews.newsbreak,false,false,,0,false,true,com.particlenews.newsbreak:id/ivLocation,false,,[48;1108][96;1156],false,false,false,24,,android.widget.ImageView,false,false
+com.particlenews.newsbreak,false,false,,1,false,true,com.particlenews.newsbreak:id/tv_source,false,,[108;1108][264;1157],false,false,false,25,California,android.widget.TextView,false,false
+com.particlenews.newsbreak,false,false,,2,false,true,com.particlenews.newsbreak:id/tv_time,false,,[264;1108][372;1157],false,false,false,26,•  13h,android.widget.TextView,false,false
+com.particlenews.newsbreak,false,false,,3,false,true,com.particlenews.newsbreak:id/news_title,false,,[48;1193][1032;1352],false,false,false,27,10 Middle Schoolers Treated for 'Suspected Overdose' in California,android.widget.TextView,false,false
+com.particlenews.newsbreak,false,true,,0,true,true,com.particlenews.newsbreak:id/action_up,true,false,[48;1424][120;1496],false,false,false,28,,android.widget.ImageView,false,false
+com.particlenews.newsbreak,false,true,,1,true,true,com.particlenews.newsbreak:id/cnt_like,false,,[132;1431][180;1488],false,false,false,29,17,android.widget.TextView,false,false
+com.particlenews.newsbreak,false,false,,0,false,true,com.particlenews.newsbreak:id/img_comment,false,,[288;1424][360;1496],false,false,false,30,,android.widget.ImageView,false,false
+com.particlenews.newsbreak,false,false,,1,false,true,com.particlenews.newsbreak:id/txtCommentCount,false,,[372;1431][420;1488],false,false,false,31,17,android.widget.TextView,false,false
+com.particlenews.newsbreak,false,false,,0,false,true,com.particlenews.newsbreak:id/img_share,false,,[528;1424][600;1496],false,false,false,32,,android.widget.ImageView,false,false
+com.particlenews.newsbreak,false,true,,1,true,true,com.particlenews.newsbreak:id/cnt_share,false,,[612;1424][702;1496],false,false,false,33,35,android.widget.TextView,false,false
+com.particlenews.newsbreak,false,false,,3,false,true,,false,,[756;1388][888;1532],false,false,false,34,,android.view.View,false,false
+com.particlenews.newsbreak,false,true,,4,true,true,com.particlenews.newsbreak:id/negativeFeedbackBtn,true,false,[888;1388][1068;1532],false,false,false,35,,android.widget.ImageView,false,false
+com.particlenews.newsbreak,false,false,,0,false,true,,false,,[0;1532][1080;1556],false,false,false,36,,android.view.View,false,false
+com.particlenews.newsbreak,false,true,,0,true,true,com.particlenews.newsbreak:id/ad_social_context,false,,[48;1592][409;1626],false,false,false,37,The Penny Hoarder,android.widget.TextView,false,false
+com.particlenews.newsbreak,false,false,,1,false,true,com.particlenews.newsbreak:id/ad_promoted_dot,false,,[427;1592][441;1626],false,false,false,38,·,android.widget.TextView,false,false
+com.particlenews.newsbreak,false,false,,2,false,true,com.particlenews.newsbreak:id/ad_promoted,false,,[459;1592][511;1626],false,false,false,39,Ad,android.widget.TextView,false,false
+com.particlenews.newsbreak,false,false,,0,false,true,,false,,[60;1626][1020;1776],false,false,false,40,,android.view.ViewGroup,false,false
+com.particlenews.newsbreak,false,false,,0,false,true,com.particlenews.newsbreak:id/navigation_bar_item_icon_view,false,,[145;1641][214;1710],false,false,false,41,,android.widget.ImageView,false,true
+com.particlenews.newsbreak,false,false,,1,false,true,com.particlenews.newsbreak:id/navigation_bar_item_labels_group,false,,[117;1716][243;1776],false,false,false,42,,android.view.ViewGroup,false,true
+com.particlenews.newsbreak,false,false,,0,false,true,com.particlenews.newsbreak:id/navigation_bar_item_large_label_view,false,,[117;1716][243;1765],false,false,false,43,Refresh,android.widget.TextView,false,true
+com.particlenews.newsbreak,false,false,,0,false,true,com.particlenews.newsbreak:id/navigation_bar_item_icon_view,false,,[385;1641][454;1710],false,false,false,44,,android.widget.ImageView,false,false
+com.particlenews.newsbreak,false,false,,1,false,true,com.particlenews.newsbreak:id/navigation_bar_item_labels_group,false,,[341;1716][498;1776],false,false,false,45,,android.view.ViewGroup,false,false
+com.particlenews.newsbreak,false,false,,0,false,true,com.particlenews.newsbreak:id/navigation_bar_item_small_label_view,false,,[341;1716][497;1765],false,false,false,46,Following,android.widget.TextView,false,false
+com.particlenews.newsbreak,false,false,,0,false,true,com.particlenews.newsbreak:id/navigation_bar_item_icon_view,false,,[625;1641][694;1710],false,false,false,47,,android.widget.ImageView,false,false
+com.particlenews.newsbreak,false,false,,1,false,true,com.particlenews.newsbreak:id/navigation_bar_item_labels_group,false,,[556;1716][764;1776],false,false,false,48,,android.view.ViewGroup,false,false
+com.particlenews.newsbreak,false,false,,0,false,true,com.particlenews.newsbreak:id/navigation_bar_item_small_label_view,false,,[556;1716][764;1765],false,false,false,49,Notifications,android.widget.TextView,false,false
+com.particlenews.newsbreak,false,false,,0,false,true,com.particlenews.newsbreak:id/navigation_bar_item_icon_view,false,,[865;1641][934;1710],false,false,false,50,,android.widget.ImageView,false,false
+com.particlenews.newsbreak,false,false,,1,false,true,com.particlenews.newsbreak:id/navigation_bar_item_labels_group,false,,[874;1716][925;1776],false,false,false,51,,android.view.ViewGroup,false,false
+com.particlenews.newsbreak,false,false,,0,false,true,com.particlenews.newsbreak:id/navigation_bar_item_small_label_view,false,,[874;1716][924;1765],false,false,false,52,Me,android.widget.TextView,false,false
+com.particlenews.newsbreak,false,false,,2,false,true,android:id/statusBarBackground,false,,[0;0][1080;72],false,false,false,53,,android.view.View,false,false

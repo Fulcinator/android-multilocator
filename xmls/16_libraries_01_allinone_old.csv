@@ -1,0 +1,31 @@
+package,checkable,clickable,content-desc,index,focusable,enabled,resource-id,password,NAF,bounds,focused,checked,long-clickable,progress,text,class,scrollable,selected
+imoblife.toolbox.full,false,false,,0,false,true,imoblife.toolbox.full:id/titlebar_back_iv,false,,[0;72][168;240],false,false,false,0,,android.widget.TextView,false,false
+imoblife.toolbox.full,false,false,,1,false,true,imoblife.toolbox.full:id/title_tv,false,,[168;119][682;192],false,false,false,1,All-In-One Toolbox,android.widget.TextView,false,false
+imoblife.toolbox.full,false,false,,0,false,true,imoblife.toolbox.full:id/titlebar_ad_iv,false,,[948;120][1020;192],false,false,false,2,,android.widget.ImageView,false,false
+imoblife.toolbox.full,false,false,,1,false,true,,false,,[1005;111][1035;141],false,false,false,3,,android.widget.TextView,false,false
+imoblife.toolbox.full,false,true,,0,true,true,imoblife.toolbox.full:id/percent_view,true,false,[60;757][272;969],false,false,false,4,,android.view.View,false,false
+imoblife.toolbox.full,false,false,,1,false,true,imoblife.toolbox.full:id/percent_text_view,false,,[60;802][272;896],false,false,false,5,,android.view.View,false,false
+imoblife.toolbox.full,false,false,,2,false,true,imoblife.toolbox.full:id/tv_summary,false,,[136;899][196;932],false,false,false,6,ROM,android.widget.TextView,false,false
+imoblife.toolbox.full,false,true,,0,true,true,imoblife.toolbox.full:id/percent_view,true,false,[227;277][854;904],false,false,false,7,,android.view.View,false,false
+imoblife.toolbox.full,false,false,,1,false,true,imoblife.toolbox.full:id/percent_text_view,false,,[227;410][854;670],false,false,false,8,,android.view.View,false,false
+imoblife.toolbox.full,false,false,,2,false,true,imoblife.toolbox.full:id/boost_text_view,false,,[227;472][854;607],false,false,false,9,,android.view.View,false,false
+imoblife.toolbox.full,false,false,,3,false,true,imoblife.toolbox.full:id/tv_info,false,,[378;682][702;734],false,false,false,10,761MB / 1.46GB,android.widget.TextView,false,false
+imoblife.toolbox.full,false,false,,4,false,true,imoblife.toolbox.full:id/tv_summary,false,,[500;764][581;808],false,false,false,11,RAM,android.widget.TextView,false,false
+imoblife.toolbox.full,false,true,,0,true,true,imoblife.toolbox.full:id/percent_view,true,false,[809;757][1021;969],false,false,false,12,,android.view.View,false,false
+imoblife.toolbox.full,false,false,,1,false,true,imoblife.toolbox.full:id/percent_text_view,false,,[809;802][1021;896],false,false,false,13,,android.view.View,false,false
+imoblife.toolbox.full,false,false,,2,false,true,imoblife.toolbox.full:id/tv_summary,false,,[888;899][942;932],false,false,false,14,CPU,android.widget.TextView,false,false
+imoblife.toolbox.full,false,false,,0,false,true,imoblife.toolbox.full:id/main_statusbar_tv,false,,[0;999][1080;1060],false,false,false,15,Too much junk clean up now!,android.widget.TextView,false,false
+imoblife.toolbox.full,false,false,,0,false,true,imoblife.toolbox.full:id/wave_view_test,false,,[0;1060][1080;1776],false,false,false,16,,android.view.View,false,false
+imoblife.toolbox.full,false,false,,1,true,true,imoblife.toolbox.full:id/recycler_view,false,,[0;1203][1080;1776],true,false,false,17,,android.support.v7.widget.RecyclerView,false,false
+imoblife.toolbox.full,false,false,,0,false,true,imoblife.toolbox.full:id/iv_diy,false,,[120;1250][240;1370],false,false,false,18,,android.widget.ImageView,false,false
+imoblife.toolbox.full,false,false,,1,false,true,imoblife.toolbox.full:id/tv_diy_name,false,,[63;1376][297;1425],false,false,false,19,Clean,android.widget.TextView,false,false
+imoblife.toolbox.full,false,false,,0,false,true,imoblife.toolbox.full:id/iv_diy,false,,[480;1250][600;1370],false,false,false,20,,android.widget.ImageView,false,false
+imoblife.toolbox.full,false,false,,1,false,true,imoblife.toolbox.full:id/tv_diy_name,false,,[423;1376][657;1425],false,false,false,21,Boost,android.widget.TextView,false,false
+imoblife.toolbox.full,false,false,,0,false,true,imoblife.toolbox.full:id/iv_diy,false,,[840;1250][960;1370],false,false,false,22,,android.widget.ImageView,false,false
+imoblife.toolbox.full,false,false,,1,false,true,imoblife.toolbox.full:id/tv_diy_name,false,,[783;1376][1017;1425],false,false,false,23,Toolbox,android.widget.TextView,false,false
+imoblife.toolbox.full,false,false,,0,false,true,imoblife.toolbox.full:id/iv_diy,false,,[120;1500][240;1620],false,false,false,24,,android.widget.ImageView,false,false
+imoblife.toolbox.full,false,false,,1,false,true,imoblife.toolbox.full:id/tv_diy_name,false,,[63;1626][297;1675],false,false,false,25,Boot Speedup,android.widget.TextView,false,false
+imoblife.toolbox.full,false,false,,0,false,true,imoblife.toolbox.full:id/iv_diy,false,,[480;1500][600;1620],false,false,false,26,,android.widget.ImageView,false,false
+imoblife.toolbox.full,false,false,,1,false,true,imoblife.toolbox.full:id/tv_diy_name,false,,[423;1626][657;1675],false,false,false,27,CPU Cooler,android.widget.TextView,false,false
+imoblife.toolbox.full,false,false,,0,false,true,imoblife.toolbox.full:id/iv_diy,false,,[840;1500][960;1620],false,false,false,28,,android.widget.ImageView,false,false
+imoblife.toolbox.full,false,false,,1,false,true,imoblife.toolbox.full:id/tv_diy_name,false,,[783;1626][1017;1675],false,false,false,29,File Manager,android.widget.TextView,false,false

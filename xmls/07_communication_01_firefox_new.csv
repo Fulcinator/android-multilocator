@@ -1,0 +1,36 @@
+package,checkable,clickable,content-desc,index,focusable,enabled,resource-id,password,NAF,bounds,focused,checked,long-clickable,progress,text,class,scrollable,selected
+org.mozilla.firefox,false,false,,0,false,true,org.mozilla.firefox:id/homeLayout,false,,[0;72][1080;1776],false,false,false,0,,android.view.ViewGroup,false,false
+org.mozilla.firefox,false,false,,0,false,true,org.mozilla.firefox:id/wordmarkLogo,false,,[48;126][164;246],false,false,false,1,,android.widget.ImageView,false,false
+org.mozilla.firefox,false,false,,1,false,true,org.mozilla.firefox:id/wordmarkText,false,,[194;156][709;210],false,false,false,2,,android.widget.ImageView,false,false
+org.mozilla.firefox,false,true,Enable private browsing,1,true,true,org.mozilla.firefox:id/privateBrowsingButton,false,,[900;114][1044;258],false,false,false,3,,android.widget.ImageButton,false,false
+org.mozilla.firefox,false,false,,1,true,true,org.mozilla.firefox:id/sessionControlRecyclerView,false,,[0;342][1080;1776],true,false,false,4,,androidx.recyclerview.widget.RecyclerView,true,false
+org.mozilla.firefox,false,false,,0,false,true,org.mozilla.firefox:id/top_sites_pager,false,,[48;414][1032;750],false,false,false,5,,androidx.viewpager.widget.ViewPager,true,false
+org.mozilla.firefox,false,false,,0,true,true,,false,,[48;414][1032;750],false,false,false,6,,androidx.recyclerview.widget.RecyclerView,false,false
+org.mozilla.firefox,false,false,,0,true,true,org.mozilla.firefox:id/top_sites_list,false,,[48;414][1032;750],false,false,false,7,,androidx.recyclerview.widget.RecyclerView,false,false
+org.mozilla.firefox,false,true,,0,true,true,org.mozilla.firefox:id/top_site_item,false,,[48;414][294;714],false,false,true,8,,android.view.ViewGroup,false,false
+org.mozilla.firefox,false,false,,0,false,true,org.mozilla.firefox:id/favicon_card,false,,[81;426][261;606],false,false,false,9,,androidx.cardview.widget.CardView,false,false
+org.mozilla.firefox,false,false,,0,false,true,org.mozilla.firefox:id/favicon_image,false,,[117;462][225;570],false,false,false,10,,android.widget.ImageView,false,false
+org.mozilla.firefox,false,false,,1,false,true,org.mozilla.firefox:id/top_site_title,false,,[93;624][250;673],false,false,false,11,Google,android.widget.TextView,false,false
+org.mozilla.firefox,false,true,,1,true,true,org.mozilla.firefox:id/top_site_item,false,,[294;414][540;714],false,false,true,12,,android.view.ViewGroup,false,false
+org.mozilla.firefox,false,false,,0,false,true,org.mozilla.firefox:id/favicon_card,false,,[327;426][507;606],false,false,false,13,,androidx.cardview.widget.CardView,false,false
+org.mozilla.firefox,false,false,,0,false,true,org.mozilla.firefox:id/favicon_image,false,,[363;462][471;570],false,false,false,14,,android.widget.ImageView,false,false
+org.mozilla.firefox,false,false,,1,false,true,org.mozilla.firefox:id/top_site_title,false,,[300;624][534;673],false,false,false,15,Top Articles,android.widget.TextView,false,false
+org.mozilla.firefox,false,true,,2,true,true,org.mozilla.firefox:id/top_site_item,false,,[540;414][786;714],false,false,true,16,,android.view.ViewGroup,false,false
+org.mozilla.firefox,false,false,,0,false,true,org.mozilla.firefox:id/favicon_card,false,,[573;426][753;606],false,false,false,17,,androidx.cardview.widget.CardView,false,false
+org.mozilla.firefox,false,false,,0,false,true,org.mozilla.firefox:id/favicon_image,false,,[609;462][717;570],false,false,false,18,,android.widget.ImageView,false,false
+org.mozilla.firefox,false,false,,1,false,true,org.mozilla.firefox:id/top_site_title,false,,[564;624][762;673],false,false,false,19,Wikipedia,android.widget.TextView,false,false
+org.mozilla.firefox,false,false,,2,false,true,org.mozilla.firefox:id/no_collections_wrapper,false,,[48;870][1032;1198],false,false,false,20,,android.view.ViewGroup,false,false
+org.mozilla.firefox,false,false,,0,false,true,org.mozilla.firefox:id/no_collections_header,false,,[96;918][335;983],false,false,false,21,Collections,android.widget.TextView,false,false
+org.mozilla.firefox,false,true,Remove,1,true,true,org.mozilla.firefox:id/remove_collection_placeholder,false,,[924;921][984;981],false,false,false,22,,android.widget.ImageButton,false,false
+org.mozilla.firefox,false,false,,2,false,true,org.mozilla.firefox:id/no_collections_description,false,,[96;995][984;1150],false,false,false,23,Collect the things that matter to you. Group together similar searches; sites; and tabs for quick access later.,android.widget.TextView,false,false
+org.mozilla.firefox,false,false,,3,false,true,,false,,[0;1234][1080;1498],false,false,false,24,,android.view.View,false,false
+org.mozilla.firefox,false,false,,2,false,true,org.mozilla.firefox:id/toolbarLayout,false,,[0;1605][1080;1776],false,false,false,25,,android.view.ViewGroup,false,false
+org.mozilla.firefox,false,false,,0,false,true,org.mozilla.firefox:id/bottomBarShadow,false,,[0;1605][1080;1608],false,false,false,26,,android.view.View,false,false
+org.mozilla.firefox,false,false,,1,false,true,org.mozilla.firefox:id/bottom_bar,false,,[0;1608][1080;1776],false,false,false,27,,android.view.View,false,false
+org.mozilla.firefox,false,false,,0,false,true,org.mozilla.firefox:id/search_engine_icon,false,,[48;1656][120;1728],false,false,false,28,,android.widget.ImageView,false,false
+org.mozilla.firefox,false,false,,1,false,true,org.mozilla.firefox:id/toolbar,false,,[156;1661][631;1722],false,false,false,29,Search or enter address,android.widget.TextView,false,false
+org.mozilla.firefox,false,false,The tab counter toolbar button.,0,false,true,org.mozilla.firefox:id/counter_box,false,,[864;1656][936;1728],false,false,false,30,,android.widget.ImageView,false,false
+org.mozilla.firefox,false,false,,1,false,true,org.mozilla.firefox:id/counter_text,false,,[889;1665][910;1714],false,false,false,31,0,android.widget.TextView,false,false
+org.mozilla.firefox,false,false,Highlighted,0,false,true,org.mozilla.firefox:id/notification_dot,false,,[972;1620][1080;1764],false,false,false,32,,android.widget.ImageView,false,false
+org.mozilla.firefox,false,false,Menu,1,false,true,org.mozilla.firefox:id/icon,false,,[972;1620][1080;1764],false,false,false,33,,android.widget.ImageView,false,false
+org.mozilla.firefox,false,false,,1,false,true,android:id/navigationBarBackground,false,,[0;0][0;0],false,false,false,34,,android.view.View,false,false

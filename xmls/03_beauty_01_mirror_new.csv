@@ -1,0 +1,25 @@
+package,checkable,clickable,content-desc,index,focusable,enabled,resource-id,password,NAF,bounds,focused,checked,long-clickable,progress,text,class,scrollable,selected
+mmapps.mirror.free,false,false,,0,false,true,mmapps.mirror.free:id/in_house_background,false,,[0;0][1080;150],false,false,false,0,,android.widget.ImageView,false,false
+mmapps.mirror.free,false,false,,1,false,true,mmapps.mirror.free:id/in_house_left_image,false,,[0;0][387;150],false,false,false,1,,android.widget.ImageView,false,false
+mmapps.mirror.free,false,false,,0,false,true,mmapps.mirror.free:id/in_house_app_name,false,,[411;8][1032;76],false,false,false,2,Timer Plus with Stopwatch,android.widget.TextView,false,false
+mmapps.mirror.free,false,false,,1,false,true,mmapps.mirror.free:id/in_house_install_view,false,,[387;76][1032;141],false,false,false,3,INSTALL,android.widget.TextView,false,false
+mmapps.mirror.free,false,false,,1,false,true,,false,,[0;150][1080;153],false,false,false,4,,android.view.View,false,false
+mmapps.mirror.free,false,true,,0,true,true,,false,,[0;153][1080;1776],false,false,false,5,,android.view.ViewGroup,false,false
+mmapps.mirror.free,false,false,,1,false,true,,false,,[0;153][1080;1440],false,false,false,6,,android.view.View,false,false
+mmapps.mirror.free,false,false,,1,false,true,mmapps.mirror.free:id/preview_border,false,,[0;153][1080;1440],false,false,false,7,,android.view.View,false,false
+mmapps.mirror.free,false,true,,1,true,true,mmapps.mirror.free:id/hamburger_button,true,false,[0;153][177;357],false,false,false,8,,android.widget.ImageButton,false,false
+mmapps.mirror.free,false,true,,2,true,true,mmapps.mirror.free:id/light_bulb_button,true,false,[900;153][1080;369],false,false,false,9,,android.widget.ImageButton,false,false
+mmapps.mirror.free,false,false,,3,false,true,mmapps.mirror.free:id/exposure_bar,false,,[162;1254][918;1404],false,false,false,10,,android.widget.SeekBar,false,false
+mmapps.mirror.free,false,false,,4,false,true,mmapps.mirror.free:id/zoom_bar_container,false,,[936;316][1044;1289],false,false,false,11,,android.view.ViewGroup,false,false
+mmapps.mirror.free,false,false,,0,false,true,mmapps.mirror.free:id/zoom_bar,false,,[936;316][1044;1289],false,false,false,12,,android.widget.SeekBar,false,false
+mmapps.mirror.free,false,true,,5,true,true,mmapps.mirror.free:id/bottom_container,true,false,[0;1440][1080;1776],false,false,false,13,,android.view.View,false,false
+mmapps.mirror.free,false,false,,0,false,true,,false,,[0;1440][1080;1566],false,false,false,14,,android.view.ViewGroup,false,false
+mmapps.mirror.free,false,false,,0,true,true,mmapps.mirror.free:id/pickerRV,false,,[0;1440][1080;1566],true,false,false,15,,androidx.recyclerview.widget.RecyclerView,true,false
+mmapps.mirror.free,false,true,,0,true,true,mmapps.mirror.free:id/textView,false,,[399;1478][681;1545],false,false,false,16,MIRROR,android.widget.TextView,false,false
+mmapps.mirror.free,false,true,,0,true,true,mmapps.mirror.free:id/textView,false,,[681;1478][834;1545],false,false,false,17,3D,android.widget.TextView,false,false
+mmapps.mirror.free,false,false,,1,false,true,mmapps.mirror.free:id/arrow,false,,[525;1452][555;1470],false,false,false,18,,android.widget.ImageView,false,false
+mmapps.mirror.free,false,false,,7,false,true,,false,,[0;1542][1080;1776],false,false,false,19,,android.view.ViewGroup,false,false
+mmapps.mirror.free,false,false,,0,false,true,mmapps.mirror.free:id/gallery_button,false,,[57;1590][195;1728],false,false,false,20,,android.widget.ImageView,false,false
+mmapps.mirror.free,false,false,,0,false,true,,false,,[447;1566][633;1752],false,false,false,21,,android.widget.ImageView,false,false
+mmapps.mirror.free,false,false,,1,false,true,,false,,[453;1572][627;1746],false,false,false,22,,android.widget.ImageView,false,false
+mmapps.mirror.free,false,false,,1,false,true,android:id/navigationBarBackground,false,,[0;0][0;0],false,false,false,23,,android.view.View,false,false

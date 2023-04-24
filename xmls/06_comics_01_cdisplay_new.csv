@@ -1,0 +1,39 @@
+package,checkable,clickable,content-desc,index,focusable,enabled,resource-id,password,NAF,bounds,focused,checked,long-clickable,progress,text,class,scrollable,selected
+com.progdigy.cdisplay.free,false,false,,0,false,true,,false,,[0;72][1080;1776],false,false,false,0,,android.widget.ScrollView,true,false
+com.progdigy.cdisplay.free,false,false,,0,false,true,com.progdigy.cdisplay.free:id/refresh,false,,[0;72][1080;1608],false,false,false,1,,android.view.ViewGroup,false,false
+com.progdigy.cdisplay.free,false,false,,0,true,true,android:id/list,false,,[0;72][1080;1608],true,false,false,2,,androidx.recyclerview.widget.RecyclerView,true,false
+com.progdigy.cdisplay.free,false,true,,0,true,true,,false,,[0;72][1080;230],false,false,true,3,,androidx.cardview.widget.CardView,false,false
+com.progdigy.cdisplay.free,false,false,,0,false,true,android:id/icon,false,,[24;115][96;187],false,false,false,4,,android.widget.ImageView,false,false
+com.progdigy.cdisplay.free,false,false,,0,false,true,android:id/title,false,,[144;90][1056;163],false,false,false,5,Purchase Full Version,android.widget.TextView,false,false
+com.progdigy.cdisplay.free,false,false,,1,false,true,com.progdigy.cdisplay.free:id/promoted,false,,[839;163][1056;212],false,false,false,6,↗ Advertising,android.widget.TextView,false,false
+com.progdigy.cdisplay.free,false,false,,1,false,true,,false,,[0;230][1080;359],false,false,false,7,Device Storage,android.widget.TextView,false,false
+com.progdigy.cdisplay.free,false,true,,2,true,true,,false,,[0;359][1080;525],false,false,true,8,,androidx.cardview.widget.CardView,false,false
+com.progdigy.cdisplay.free,false,false,,0,false,true,android:id/icon,false,,[24;406][96;478],false,false,false,9,,android.widget.ImageView,false,false
+com.progdigy.cdisplay.free,false,false,,0,false,true,android:id/title,false,,[144;377][1056;450],false,false,false,10,Internal shared storage,android.widget.TextView,false,false
+com.progdigy.cdisplay.free,false,false,,1,false,true,android:id/summary,false,,[144;450][1056;507],false,false,false,11,Available 551 MB,android.widget.TextView,false,false
+com.progdigy.cdisplay.free,false,false,,3,false,true,,false,,[0;525][1080;654],false,false,false,12,Locations,android.widget.TextView,false,false
+com.progdigy.cdisplay.free,false,true,,4,true,true,,false,,[0;654][1080;882],false,false,true,13,,androidx.cardview.widget.CardView,false,false
+com.progdigy.cdisplay.free,false,false,,0,false,true,android:id/icon,false,,[24;732][96;804],false,false,false,14,,android.widget.ImageView,false,false
+com.progdigy.cdisplay.free,false,false,,0,false,true,android:id/title,false,,[144;731][1056;804],false,false,false,15,Comics,android.widget.TextView,false,false
+com.progdigy.cdisplay.free,false,false,,1,false,true,com.progdigy.cdisplay.free:id/tags,false,,[990;786][1080;882],false,false,false,16,,android.view.ViewGroup,false,false
+com.progdigy.cdisplay.free,false,false,,0,true,true,,false,,[990;786][1080;858],false,false,false,17,,android.view.View,false,false
+com.progdigy.cdisplay.free,false,false,,5,false,true,,false,,[0;882][1080;1011],false,false,false,18,Library,android.widget.TextView,false,false
+com.progdigy.cdisplay.free,false,true,,6,true,true,,false,,[0;1011][1080;1167],false,false,true,19,,androidx.cardview.widget.CardView,false,false
+com.progdigy.cdisplay.free,false,false,,0,false,true,android:id/icon,false,,[24;1053][96;1125],false,false,false,20,,android.widget.ImageView,false,false
+com.progdigy.cdisplay.free,false,false,,0,false,true,android:id/title,false,,[144;1052][1056;1125],false,false,false,21,Reading,android.widget.TextView,false,false
+com.progdigy.cdisplay.free,false,true,,7,true,true,,false,,[0;1167][1080;1323],false,false,true,22,,androidx.cardview.widget.CardView,false,false
+com.progdigy.cdisplay.free,false,false,,0,false,true,android:id/icon,false,,[24;1209][96;1281],false,false,false,23,,android.widget.ImageView,false,false
+com.progdigy.cdisplay.free,false,false,,0,false,true,android:id/title,false,,[144;1208][1056;1281],false,false,false,24,Series,android.widget.TextView,false,false
+com.progdigy.cdisplay.free,false,true,,8,true,true,,false,,[0;1323][1080;1479],false,false,true,25,,androidx.cardview.widget.CardView,false,false
+com.progdigy.cdisplay.free,false,false,,0,false,true,android:id/icon,false,,[24;1365][96;1437],false,false,false,26,,android.widget.ImageView,false,false
+com.progdigy.cdisplay.free,false,false,,0,false,true,android:id/title,false,,[144;1364][1056;1437],false,false,false,27,Folders,android.widget.TextView,false,false
+com.progdigy.cdisplay.free,false,true,,9,true,true,,false,,[0;1479][1080;1608],false,false,true,28,,androidx.cardview.widget.CardView,false,false
+com.progdigy.cdisplay.free,false,false,,0,false,true,android:id/icon,false,,[24;1521][96;1593],false,false,false,29,,android.widget.ImageView,false,false
+com.progdigy.cdisplay.free,false,false,,0,false,true,android:id/title,false,,[144;1520][1056;1593],false,false,false,30,Read,android.widget.TextView,false,false
+com.progdigy.cdisplay.free,false,true,,2,true,true,com.progdigy.cdisplay.free:id/floatingActionButton,true,false,[876;1398][1044;1566],false,false,false,31,,android.widget.ImageButton,false,false
+com.progdigy.cdisplay.free,false,false,,3,false,true,com.progdigy.cdisplay.free:id/bottomappbar,false,,[0;1608][1080;1776],false,false,false,32,,android.view.ViewGroup,false,false
+com.progdigy.cdisplay.free,false,true,Navigate up,0,true,true,,false,,[0;1608][168;1776],false,false,false,33,,android.widget.ImageButton,false,false
+com.progdigy.cdisplay.free,false,true,Search,0,true,true,com.progdigy.cdisplay.free:id/search_button,false,,[792;1620][936;1764],false,false,false,34,,android.widget.ImageView,false,false
+com.progdigy.cdisplay.free,false,true,Settings,1,true,true,,false,,[936;1620][1080;1764],false,false,false,35,,android.widget.TextView,false,false
+com.progdigy.cdisplay.free,false,false,,1,false,true,android:id/statusBarBackground,false,,[0;0][1080;72],false,false,false,36,,android.view.View,false,false
+com.progdigy.cdisplay.free,false,false,,2,false,true,android:id/navigationBarBackground,false,,[0;0][0;0],false,false,false,37,,android.view.View,false,false

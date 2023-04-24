@@ -1,0 +1,44 @@
+package,checkable,clickable,content-desc,index,focusable,enabled,resource-id,password,NAF,bounds,focused,checked,long-clickable,progress,text,class,scrollable,selected
+com.servicemagic.consumer,false,false,,0,false,true,com.servicemagic.consumer:id/bottom_nav_root,false,,[0;0][1080;1608],false,false,false,0,,android.view.ViewGroup,false,false
+com.servicemagic.consumer,false,false,,0,false,true,com.servicemagic.consumer:id/homeRedesignSwipeRefresh,false,,[0;0][1080;1608],false,false,false,1,,android.view.ViewGroup,false,false
+com.servicemagic.consumer,false,false,,0,true,true,com.servicemagic.consumer:id/homeRedesignRecyclerView,false,,[0;0][1080;1608],true,false,false,2,,androidx.recyclerview.widget.RecyclerView,true,false
+com.servicemagic.consumer,false,false,,0,false,true,,false,,[0;0][1080;812],false,false,false,3,,android.view.ViewGroup,false,false
+com.servicemagic.consumer,false,false,,0,false,true,,false,,[0;0][1080;812],false,false,false,4,,android.widget.ImageView,false,false
+com.servicemagic.consumer,false,false,,1,false,true,,false,,[0;0][1080;96],false,false,false,5,,android.view.View,false,false
+com.servicemagic.consumer,false,false,,2,false,true,com.servicemagic.consumer:id/welcome_back_header,false,,[72;96][780;428],false,false,false,6,Your home for everything home,android.widget.TextView,false,false
+com.servicemagic.consumer,false,false,,0,false,true,com.servicemagic.consumer:id/search_mag_icon,false,,[96;572][192;644],false,false,false,7,,android.widget.ImageView,false,false
+com.servicemagic.consumer,false,true,,0,true,true,com.servicemagic.consumer:id/search_src_text,false,,[192;554][1020;662],false,false,true,8,What can we help you with today?,android.widget.EditText,false,false
+com.servicemagic.consumer,false,false,,0,true,true,com.servicemagic.consumer:id/carousel_recycler_view,false,,[30;908][1080;1224],false,false,false,9,,androidx.recyclerview.widget.RecyclerView,true,false
+com.servicemagic.consumer,false,false,,0,false,true,,false,,[78;908][1028;1224],false,false,false,10,,android.view.ViewGroup,false,false
+com.servicemagic.consumer,false,false,,0,false,true,com.servicemagic.consumer:id/carouselItemImage,false,,[126;1018][222;1114],false,false,false,11,,android.widget.ImageView,false,false
+com.servicemagic.consumer,false,false,,0,false,true,com.servicemagic.consumer:id/carouselItemTitle,false,,[270;968][812;1152],false,false,false,12,Save 20% on hundreds of home services for just $29.99 per year,android.widget.TextView,false,false
+com.servicemagic.consumer,false,false,,0,false,true,com.servicemagic.consumer:id/carouselItemImageRight,false,,[908;1030][980;1102],false,false,false,13,,android.widget.ImageView,false,false
+com.servicemagic.consumer,false,false,,0,false,true,,false,,[1076;908][1080;1224],false,false,false,14,,android.view.ViewGroup,false,false
+com.servicemagic.consumer,false,false,,0,false,true,,false,,[408;1272][480;1284],false,false,false,15,,android.view.View,false,false
+com.servicemagic.consumer,false,false,,1,false,true,,false,,[504;1272][576;1284],false,false,false,16,,android.view.View,false,false
+com.servicemagic.consumer,false,false,,2,false,true,,false,,[600;1272][672;1284],false,false,false,17,,android.view.View,false,false
+com.servicemagic.consumer,false,false,,0,false,true,com.servicemagic.consumer:id/title,false,,[72;1398][813;1464],false,false,false,18,Browse by category,android.widget.TextView,false,false
+com.servicemagic.consumer,false,true,,1,true,true,com.servicemagic.consumer:id/category_view_all_button,false,,[813;1380][1032;1486],false,false,false,19,View all,android.widget.TextView,false,false
+com.servicemagic.consumer,false,false,,1,true,true,com.servicemagic.consumer:id/category_list,false,,[0;1510][1080;1608],false,false,false,20,,androidx.recyclerview.widget.RecyclerView,true,false
+com.servicemagic.consumer,false,false,,0,false,true,com.servicemagic.consumer:id/category_image,false,,[96;1534][336;1608],false,false,false,21,,android.widget.ImageView,false,false
+com.servicemagic.consumer,false,false,,0,false,true,com.servicemagic.consumer:id/category_image,false,,[384;1534][624;1608],false,false,false,22,,android.widget.ImageView,false,false
+com.servicemagic.consumer,false,false,,0,false,true,com.servicemagic.consumer:id/category_image,false,,[672;1534][912;1608],false,false,false,23,,android.widget.ImageView,false,false
+com.servicemagic.consumer,false,false,,0,false,true,com.servicemagic.consumer:id/category_image,false,,[960;1534][1080;1608],false,false,false,24,,android.widget.ImageView,false,false
+com.servicemagic.consumer,false,false,,1,false,true,com.servicemagic.consumer:id/toolbar,false,,[0;0][1080;1608],false,false,false,25,,android.view.ViewGroup,false,false
+com.servicemagic.consumer,false,false,,0,false,true,com.servicemagic.consumer:id/toolbarContainer,false,,[0;0][1080;1608],false,false,false,26,,android.view.ViewGroup,false,false
+com.servicemagic.consumer,false,false,,0,false,true,,false,,[0;1608][1080;1776],false,false,false,27,,android.view.ViewGroup,false,false
+com.servicemagic.consumer,false,true,,0,true,true,com.servicemagic.consumer:id/bottom_nav_home_button,false,,[0;1608][270;1776],false,false,false,28,,android.view.ViewGroup,false,true
+com.servicemagic.consumer,false,false,,0,false,true,,false,,[0;1632][270;1704],false,false,false,29,,android.widget.ImageView,false,true
+com.servicemagic.consumer,false,false,,1,false,true,,false,,[96;1715][175;1752],false,false,false,30,Home,android.widget.TextView,false,true
+com.servicemagic.consumer,false,false,,1,false,true,com.servicemagic.consumer:id/top_shadow,false,,[0;1608][1080;1611],false,false,false,31,,android.widget.ImageView,false,false
+com.servicemagic.consumer,false,true,,2,true,true,com.servicemagic.consumer:id/bottom_nav_projects_button,false,,[270;1608][540;1776],false,false,false,32,,android.view.ViewGroup,false,false
+com.servicemagic.consumer,false,false,,0,false,true,com.servicemagic.consumer:id/project_image,false,,[369;1632][441;1704],false,false,false,33,,android.widget.ImageView,false,false
+com.servicemagic.consumer,false,false,,1,false,true,,false,,[350;1715][460;1752],false,false,false,34,Projects,android.widget.TextView,false,false
+com.servicemagic.consumer,false,true,,3,true,true,com.servicemagic.consumer:id/bottom_nav_inbox_button,false,,[540;1608][810;1776],false,false,false,35,,android.view.ViewGroup,false,false
+com.servicemagic.consumer,false,false,,0,false,true,com.servicemagic.consumer:id/bottom_nav_inbox_icon,false,,[639;1632][711;1704],false,false,false,36,,android.widget.ImageView,false,false
+com.servicemagic.consumer,false,false,,1,false,true,,false,,[638;1715][712;1752],false,false,false,37,Inbox,android.widget.TextView,false,false
+com.servicemagic.consumer,false,true,,4,true,true,com.servicemagic.consumer:id/bottom_nav_more_button,false,,[810;1608][1080;1776],false,false,false,38,,android.view.ViewGroup,false,false
+com.servicemagic.consumer,false,false,,0,false,true,,false,,[810;1632][1080;1704],false,false,false,39,,android.widget.ImageView,false,false
+com.servicemagic.consumer,false,false,,1,false,true,,false,,[911;1715][979;1752],false,false,false,40,More,android.widget.TextView,false,false
+com.servicemagic.consumer,false,false,,1,false,true,android:id/statusBarBackground,false,,[0;0][1080;72],false,false,false,41,,android.view.View,false,false
+com.servicemagic.consumer,false,false,,2,false,true,android:id/navigationBarBackground,false,,[0;0][0;0],false,false,false,42,,android.view.View,false,false

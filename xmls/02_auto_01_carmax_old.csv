@@ -1,0 +1,25 @@
+package,checkable,clickable,content-desc,index,focusable,enabled,resource-id,password,NAF,bounds,focused,checked,long-clickable,progress,text,class,scrollable,selected
+com.carmax.carmax,false,false,,0,false,true,com.carmax.carmax:id/coordinator_layout,false,,[0;72][1080;1776],false,false,false,0,,android.view.ViewGroup,false,false
+com.carmax.carmax,false,false,,0,false,true,com.carmax.carmax:id/parent_view,false,,[0;72][1080;1776],false,false,false,1,,android.view.ViewGroup,false,false
+com.carmax.carmax,false,true,,0,true,true,com.carmax.carmax:id/left_action,true,false,[27;84][171;228],false,false,false,2,,android.widget.ImageView,false,false
+com.carmax.carmax,false,true,,0,true,true,com.carmax.carmax:id/search_bar_text,false,,[231;84][1065;228],false,false,false,3,Keyword or Stock Number,android.widget.EditText,false,false
+com.carmax.carmax,false,true,Search,0,true,true,com.carmax.carmax:id/search_bar_mic_or_ex,false,,[909;84][1053;228],false,false,false,4,,android.widget.ImageView,false,false
+com.carmax.carmax,false,false,,1,false,true,com.carmax.carmax:id/coordinator,false,,[0;72][1080;1776],false,false,false,5,,android.view.ViewGroup,false,false
+com.carmax.carmax,false,false,,0,true,true,com.carmax.carmax:id/modules,false,,[0;240][1080;1776],true,false,false,6,,android.support.v7.widget.RecyclerView,true,false
+com.carmax.carmax,false,false,,0,false,true,com.carmax.carmax:id/search_title,false,,[160;360][920;472],false,false,false,7,Welcome to CarMax,android.widget.TextView,false,false
+com.carmax.carmax,false,false,,1,false,true,com.carmax.carmax:id/search_description,false,,[96;472][984;594],false,false,false,8,Browse our stores nationwide by make; model; price; or feature.,android.widget.TextView,false,false
+com.carmax.carmax,false,false,,0,false,true,com.carmax.carmax:id/text,false,,[372;744][707;805],false,false,false,9,MAKE & MODEL,android.widget.TextView,false,false
+com.carmax.carmax,false,false,,0,false,true,com.carmax.carmax:id/text,false,,[365;901][714;962],false,false,false,10,SHOP ALL CARS,android.widget.TextView,false,false
+com.carmax.carmax,false,false,,1,false,true,,false,,[0;240][1080;1112],false,false,false,11,,android.widget.ImageView,false,false
+com.carmax.carmax,false,false,,0,false,true,com.carmax.carmax:id/title,false,,[92;1255][988;1352],false,false,false,12,Browse By Type,android.widget.TextView,false,false
+com.carmax.carmax,false,false,,0,false,true,,false,,[153;1460][321;1574],false,false,false,13,,android.widget.ImageView,false,false
+com.carmax.carmax,false,false,,1,false,true,com.carmax.carmax:id/convertibles_title,false,,[126;1574][348;1627],false,false,false,14,Convertibles,android.widget.TextView,false,false
+com.carmax.carmax,false,false,,0,false,true,,false,,[470;1460][638;1574],false,false,false,15,,android.widget.ImageView,false,false
+com.carmax.carmax,false,false,,1,false,true,com.carmax.carmax:id/coupes_title,false,,[487;1574][620;1627],false,false,false,16,Coupes,android.widget.TextView,false,false
+com.carmax.carmax,false,false,,0,false,true,,false,,[773;1460][941;1574],false,false,false,17,,android.widget.ImageView,false,false
+com.carmax.carmax,false,false,,1,false,true,com.carmax.carmax:id/crossovers_title,false,,[758;1574][956;1627],false,false,false,18,Crossovers,android.widget.TextView,false,false
+com.carmax.carmax,false,false,,0,false,true,,false,,[153;1699][321;1776],false,false,false,19,,android.widget.ImageView,false,false
+com.carmax.carmax,false,false,,0,false,true,,false,,[470;1699][638;1776],false,false,false,20,,android.widget.ImageView,false,false
+com.carmax.carmax,false,false,,0,false,true,,false,,[773;1699][941;1776],false,false,false,21,,android.widget.ImageView,false,false
+com.carmax.carmax,false,false,,1,false,true,android:id/statusBarBackground,false,,[0;0][1080;72],false,false,false,22,,android.view.View,false,false
+com.carmax.carmax,false,false,,3,false,true,android:id/navigationBarBackground,false,,[0;0][0;0],false,false,false,23,,android.view.View,false,false

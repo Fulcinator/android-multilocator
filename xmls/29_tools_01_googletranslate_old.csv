@@ -1,0 +1,27 @@
+package,checkable,clickable,content-desc,index,focusable,enabled,resource-id,password,NAF,bounds,focused,checked,long-clickable,progress,text,class,scrollable,selected
+com.google.android.apps.translate,false,false,,0,true,true,android:id/list,false,,[0;72][1080;1776],true,false,false,0,,android.widget.ListView,false,false
+com.google.android.apps.translate,false,false,,0,false,true,com.google.android.apps.translate:id/img_card_image,false,,[24;876][288;1234],false,false,false,1,,android.widget.ImageView,false,false
+com.google.android.apps.translate,false,false,,0,false,true,com.google.android.apps.translate:id/img_card_title_normal,false,,[336;924][774;989],false,false,false,2,NEW Tap to Translate,android.widget.TextView,false,false
+com.google.android.apps.translate,false,false,,1,false,true,com.google.android.apps.translate:id/img_card_txt_body,false,,[336;989][1008;1111],false,false,false,3,Now Google Translate works in any app,android.widget.TextView,false,false
+com.google.android.apps.translate,false,false,,2,false,true,com.google.android.apps.translate:id/img_card_txt_bottom1,false,,[336;1129][593;1186],false,false,false,4,TAKE A TOUR,android.widget.TextView,false,false
+com.google.android.apps.translate,false,false,,0,false,true,com.google.android.apps.translate:id/img_card_image,false,,[24;1266][288;1559],false,false,false,5,,android.widget.ImageView,false,false
+com.google.android.apps.translate,false,false,,0,false,true,com.google.android.apps.translate:id/img_card_txt_body,false,,[336;1314][1008;1436],false,false,false,6,Get the new version of Google Translate,android.widget.TextView,false,false
+com.google.android.apps.translate,false,false,,1,false,true,com.google.android.apps.translate:id/img_card_txt_bottom1,false,,[336;1454][493;1511],false,false,false,7,UPDATE,android.widget.TextView,false,false
+com.google.android.apps.translate,false,false,,0,false,true,com.google.android.apps.translate:id/toolbar,false,,[0;72][1080;240],false,false,false,8,,android.view.ViewGroup,false,false
+com.google.android.apps.translate,false,true,Open navigation drawer,0,true,true,,false,,[0;72][168;240],false,false,false,9,,android.widget.ImageButton,false,false
+com.google.android.apps.translate,false,false,Google logo,0,false,true,com.google.android.apps.translate:id/toolbar_logo_image,false,,[216;72][436;240],false,false,false,10,,android.widget.ImageView,false,false
+com.google.android.apps.translate,false,false,,1,false,true,com.google.android.apps.translate:id/toolbar_logo_text,false,,[436;72][703;237],false,false,false,11,Translate,android.widget.TextView,false,false
+com.google.android.apps.translate,false,false,Original language: English.,0,false,true,com.google.android.apps.translate:id/picker1,false,,[48;240][275;384],false,false,false,12,English,android.widget.TextView,false,false
+com.google.android.apps.translate,false,true,Swap languages,1,true,true,com.google.android.apps.translate:id/btn_lang_picker_swap,false,,[468;240][612;384],false,false,true,13,,android.widget.ImageView,false,false
+com.google.android.apps.translate,false,false,Translated language: Spanish.,0,false,true,com.google.android.apps.translate:id/picker2,false,,[800;240][1044;384],false,false,false,14,Spanish,android.widget.TextView,false,false
+com.google.android.apps.translate,false,false,,0,false,true,com.google.android.apps.translate:id/img_cursor,false,,[48;428][50;500],false,false,false,15,,android.widget.ImageView,false,false
+com.google.android.apps.translate,false,false,,1,false,true,com.google.android.apps.translate:id/touch_to_type_text,false,,[50;420][527;508],false,false,false,16,Tap to enter text,android.widget.TextView,false,false
+com.google.android.apps.translate,false,true,Camera,0,true,true,com.google.android.apps.translate:id/btn_camera,false,,[0;696][360;840],false,false,false,17,,android.widget.Button,false,false
+com.google.android.apps.translate,false,false,,0,false,true,,false,,[0;696][144;840],false,false,false,18,,android.widget.ImageView,false,false
+com.google.android.apps.translate,false,true,Speech,1,true,true,com.google.android.apps.translate:id/btn_speech,false,,[360;696][720;840],false,false,false,19,,android.widget.Button,false,false
+com.google.android.apps.translate,false,false,,0,false,true,,false,,[468;696][612;840],false,false,false,20,,android.widget.ImageView,false,false
+com.google.android.apps.translate,false,true,Handwriting,2,true,true,com.google.android.apps.translate:id/btn_handwriting,false,,[720;696][1080;840],false,false,false,21,,android.widget.Button,false,false
+com.google.android.apps.translate,false,false,,0,false,true,,false,,[936;696][1080;840],false,false,false,22,,android.widget.ImageView,false,false
+com.google.android.apps.translate,false,false,,2,false,true,com.google.android.apps.translate:id/bottom_shadow,false,,[0;840][1080;852],false,false,false,23,,android.widget.ImageView,false,false
+com.google.android.apps.translate,false,false,,1,false,true,android:id/statusBarBackground,false,,[0;0][1080;72],false,false,false,24,,android.view.View,false,false
+com.google.android.apps.translate,false,false,,2,false,true,android:id/navigationBarBackground,false,,[0;0][0;0],false,false,false,25,,android.view.View,false,false

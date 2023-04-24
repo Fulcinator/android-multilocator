@@ -1,0 +1,50 @@
+package,checkable,clickable,content-desc,index,focusable,enabled,resource-id,password,NAF,bounds,focused,checked,long-clickable,progress,text,class,scrollable,selected
+org.mozilla.firefox,false,false,,0,true,true,org.mozilla.firefox:id/home_pager,false,,[0;240][1080;1776],false,false,false,0,,android.support.v4.view.ViewPager,true,false
+org.mozilla.firefox,false,false,,0,true,true,,false,,[0;240][1080;384],false,false,false,1,,android.widget.HorizontalScrollView,false,false
+org.mozilla.firefox,false,true,,0,true,true,,false,,[0;240][343;384],false,false,false,2,TOP SITES,android.widget.TextView,false,false
+org.mozilla.firefox,false,true,,1,true,true,,false,,[343;240][702;384],false,false,false,3,BOOKMARKS,android.widget.TextView,false,false
+org.mozilla.firefox,false,true,,2,true,true,,false,,[702;240][1002;384],false,false,false,4,HISTORY,android.widget.TextView,false,false
+org.mozilla.firefox,false,false,,0,true,true,org.mozilla.firefox:id/activity_stream_main_recyclerview,false,,[0;384][1080;1776],false,false,false,5,,android.support.v7.widget.RecyclerView,true,false
+org.mozilla.firefox,false,true,Top Sites,0,true,true,org.mozilla.firefox:id/topsites_pager,false,,[0;414][1080;938],false,false,true,6,,android.support.v4.view.ViewPager,false,false
+org.mozilla.firefox,false,false,,0,true,true,,false,,[0;414][1080;938],true,false,false,7,,android.support.v7.widget.RecyclerView,false,false
+org.mozilla.firefox,false,false,,0,false,true,org.mozilla.firefox:id/favicon,false,,[30;414][262;646],false,false,false,8,,android.widget.ImageView,false,false
+org.mozilla.firefox,false,false,,1,false,true,org.mozilla.firefox:id/title,false,,[30;567][262;646],false,false,false,9,facebook,android.widget.TextView,false,false
+org.mozilla.firefox,false,false,,0,false,true,org.mozilla.firefox:id/favicon,false,,[292;414][524;646],false,false,false,10,,android.widget.ImageView,false,false
+org.mozilla.firefox,false,false,,1,false,true,org.mozilla.firefox:id/title,false,,[292;567][524;646],false,false,false,11,youtube,android.widget.TextView,false,false
+org.mozilla.firefox,false,false,,0,false,true,org.mozilla.firefox:id/favicon,false,,[555;414][787;646],false,false,false,12,,android.widget.ImageView,false,false
+org.mozilla.firefox,false,false,,1,false,true,org.mozilla.firefox:id/title,false,,[555;567][787;646],false,false,false,13,amazon,android.widget.TextView,false,false
+org.mozilla.firefox,false,false,,0,false,true,org.mozilla.firefox:id/favicon,false,,[817;414][1049;646],false,false,false,14,,android.widget.ImageView,false,false
+org.mozilla.firefox,false,false,,1,false,true,org.mozilla.firefox:id/title,false,,[817;567][1049;646],false,false,false,15,wikipedia,android.widget.TextView,false,false
+org.mozilla.firefox,false,false,,0,false,true,org.mozilla.firefox:id/favicon,false,,[30;676][262;908],false,false,false,16,,android.widget.ImageView,false,false
+org.mozilla.firefox,false,false,,1,false,true,org.mozilla.firefox:id/title,false,,[30;829][262;908],false,false,false,17,twitter,android.widget.TextView,false,false
+org.mozilla.firefox,false,false,,0,false,true,org.mozilla.firefox:id/title_highlights,false,,[30;971][819;1044],false,false,false,18,Recommended by Pocket,android.widget.TextView,false,false
+org.mozilla.firefox,false,true,,1,true,true,org.mozilla.firefox:id/title_link,false,,[849;941][996;1074],false,false,false,19,MORE,android.widget.TextView,false,false
+org.mozilla.firefox,false,true,,2,true,true,org.mozilla.firefox:id/arrow_link,true,false,[996;941][1050;1074],false,false,false,20,,android.widget.ImageView,false,false
+org.mozilla.firefox,false,false,,0,false,true,org.mozilla.firefox:id/image_view,false,,[30;1107][262;1281],false,false,false,21,,android.widget.ImageView,false,false
+org.mozilla.firefox,false,false,,1,false,true,org.mozilla.firefox:id/page_domain,false,,[262;1077][984;1156],false,false,false,22,getpocket,android.widget.TextView,false,false
+org.mozilla.firefox,false,false,,2,false,true,org.mozilla.firefox:id/page_title,false,,[262;1156][984;1213],false,false,false,23,Growing Up With Steve Miller,android.widget.TextView,false,false
+org.mozilla.firefox,false,false,,0,false,true,org.mozilla.firefox:id/page_source_icon,false,,[292;1238][328;1274],false,false,false,24,,android.widget.ImageView,false,false
+org.mozilla.firefox,false,false,,1,false,true,org.mozilla.firefox:id/page_source,false,,[334;1232][1050;1281],false,false,false,25,Trending,android.widget.TextView,false,false
+org.mozilla.firefox,false,true,Menu,4,true,true,org.mozilla.firefox:id/menu,false,,[984;1077][1080;1221],false,false,false,26,,android.widget.ImageView,false,false
+org.mozilla.firefox,false,false,,0,false,true,org.mozilla.firefox:id/image_view,false,,[30;1344][262;1518],false,false,false,27,,android.widget.ImageView,false,false
+org.mozilla.firefox,false,false,,1,false,true,org.mozilla.firefox:id/page_domain,false,,[262;1314][984;1393],false,false,false,28,getpocket,android.widget.TextView,false,false
+org.mozilla.firefox,false,false,,2,false,true,org.mozilla.firefox:id/page_title,false,,[262;1393][984;1499],false,false,false,29,How to Create a Charcuterie Board the French Way,android.widget.TextView,false,false
+org.mozilla.firefox,false,true,Menu,3,true,true,org.mozilla.firefox:id/menu,false,,[984;1314][1080;1458],false,false,false,30,,android.widget.ImageView,false,false
+org.mozilla.firefox,false,false,,0,false,true,org.mozilla.firefox:id/page_source_icon,false,,[292;1517][328;1553],false,false,false,31,,android.widget.ImageView,false,false
+org.mozilla.firefox,false,false,,1,false,true,org.mozilla.firefox:id/page_source,false,,[334;1511][1050;1560],false,false,false,32,Trending,android.widget.TextView,false,false
+org.mozilla.firefox,false,false,,0,false,true,org.mozilla.firefox:id/image_view,false,,[30;1623][262;1776],false,false,false,33,,android.widget.ImageView,false,false
+org.mozilla.firefox,false,false,,1,false,true,org.mozilla.firefox:id/page_domain,false,,[262;1593][984;1672],false,false,false,34,theverge,android.widget.TextView,false,false
+org.mozilla.firefox,false,false,,2,false,true,org.mozilla.firefox:id/page_title,false,,[262;1672][984;1776],false,false,false,35,This Is Why Streaming Netflix; Disney Plus; and HBO Max Keeps Getting More Expensive,android.widget.TextView,false,false
+org.mozilla.firefox,false,true,Menu,3,true,true,org.mozilla.firefox:id/menu,false,,[984;1593][1080;1737],false,false,false,36,,android.widget.ImageView,false,false
+org.mozilla.firefox,false,true,,0,true,true,org.mozilla.firefox:id/browser_actionbar,false,,[0;72][1080;240],false,false,false,37,,android.widget.ViewFlipper,false,false
+org.mozilla.firefox,false,true,Site Security,0,true,true,org.mozilla.firefox:id/site_security,false,,[30;108][126;204],false,false,false,38,,android.widget.ImageButton,false,false
+org.mozilla.firefox,false,false,,1,true,true,org.mozilla.firefox:id/url_bar_title_scroll_view,false,,[126;108][837;204],false,false,false,39,,android.widget.HorizontalScrollView,false,false
+org.mozilla.firefox,false,true,,0,true,true,org.mozilla.firefox:id/url_bar_title,false,,[126;108][837;204],false,false,true,40,Search or enter address,android.widget.TextView,false,false
+org.mozilla.firefox,false,false,,1,false,true,org.mozilla.firefox:id/url_bar_entry,false,,[15;96][837;216],false,false,false,41,,android.widget.ImageView,false,false
+org.mozilla.firefox,false,true,1 tab,2,true,true,org.mozilla.firefox:id/tabs,false,,[837;72][963;240],false,false,false,42,,android.widget.ImageButton,false,false
+org.mozilla.firefox,false,false,,0,false,true,org.mozilla.firefox:id/counter_box,false,,[870;122][930;182],false,false,false,43,,android.widget.ImageView,false,false
+org.mozilla.firefox,false,false,,1,false,true,org.mozilla.firefox:id/counter_text,false,,[889;127][910;176],false,false,false,44,1,android.widget.TextView,false,false
+org.mozilla.firefox,false,false,,1,false,true,org.mozilla.firefox:id/counter_bar,false,,[870;185][930;191],false,false,false,45,,android.widget.ImageView,false,false
+org.mozilla.firefox,false,true,Menu,4,true,true,org.mozilla.firefox:id/menu,false,,[954;72][1080;240],false,false,false,46,,android.widget.ImageButton,false,false
+org.mozilla.firefox,false,false,,1,false,true,android:id/statusBarBackground,false,,[0;0][1080;72],false,false,false,47,,android.view.View,false,false
+org.mozilla.firefox,false,false,,2,false,true,android:id/navigationBarBackground,false,,[0;0][0;0],false,false,false,48,,android.view.View,false,false

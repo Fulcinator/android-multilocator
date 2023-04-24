@@ -1,0 +1,56 @@
+package,checkable,clickable,content-desc,index,focusable,enabled,resource-id,password,NAF,bounds,focused,checked,long-clickable,progress,text,class,scrollable,selected
+com.gametime.gametime,false,false,,1,false,true,,false,,[0;72][1080;1776],false,false,false,0,,android.view.ViewGroup,false,false
+com.gametime.gametime,false,false,,0,false,true,,false,,[0;72][1080;1776],false,false,false,1,,android.view.ViewGroup,false,false
+com.gametime.gametime,false,false,,0,false,true,,false,,[0;72][1080;1776],false,false,false,2,,android.view.ViewGroup,false,false
+com.gametime.gametime,false,false,,0,false,true,,false,,[0;72][1080;1776],false,false,false,3,,android.view.ViewGroup,false,false
+com.gametime.gametime,false,false,,1,false,true,,false,,[0;72][1080;1776],false,false,false,4,,android.view.ViewGroup,false,false
+com.gametime.gametime,false,false,,0,false,true,,false,,[0;72][1080;1776],false,false,false,5,,android.view.ViewGroup,false,false
+com.gametime.gametime,false,false,,0,false,true,,false,,[0;72][1080;1776],false,false,false,6,,android.view.ViewGroup,false,false
+com.gametime.gametime,false,false,,0,false,true,,false,,[0;72][1080;1776],false,false,false,7,,android.view.ViewGroup,false,false
+com.gametime.gametime,false,false,,1,false,true,,false,,[0;72][1080;1629],false,false,false,8,,android.view.ViewGroup,false,false
+com.gametime.gametime,false,false,,0,false,true,,false,,[0;72][1080;1629],false,false,false,9,,android.view.ViewGroup,false,false
+com.gametime.gametime,false,false,,0,false,true,,false,,[0;72][1080;1629],false,false,false,10,,android.view.ViewGroup,false,false
+com.gametime.gametime,false,false,,0,false,true,,false,,[0;72][1080;1629],false,false,false,11,,android.view.ViewGroup,false,false
+com.gametime.gametime,false,false,,0,false,true,,false,,[0;72][1080;1629],false,false,false,12,,android.view.ViewGroup,false,false
+com.gametime.gametime,false,false,,1,false,true,,false,,[0;72][1080;1629],false,false,false,13,,android.view.ViewGroup,false,false
+com.gametime.gametime,false,false,,0,false,true,,false,,[0;72][1080;1629],false,false,false,14,,android.view.ViewGroup,false,false
+com.gametime.gametime,false,false,,0,false,true,,false,,[0;72][1080;1629],false,false,false,15,,android.view.ViewGroup,false,false
+com.gametime.gametime,false,false,,0,false,true,,false,,[0;72][1080;1629],false,false,false,16,,android.view.ViewGroup,false,false
+com.gametime.gametime,false,false,,1,false,true,,false,,[0;72][1080;1629],false,false,false,17,,android.view.ViewGroup,false,false
+com.gametime.gametime,false,false,,0,false,true,,false,,[0;72][1080;258],false,false,false,18,,android.view.ViewGroup,false,false
+com.gametime.gametime,false,false,,0,false,true,,false,,[48;120][879;234],false,false,false,19,Sell,android.widget.TextView,false,false
+com.gametime.gametime,false,true,,1,true,true,NavigationButtonTouchable,false,,[879;120][1032;234],false,false,false,20,,android.view.ViewGroup,false,false
+com.gametime.gametime,false,false,,0,false,true,,false,,[879;146][1032;209],false,false,false,21,History,android.widget.TextView,false,false
+com.gametime.gametime,false,false,,1,false,true,,false,,[0;258][1080;1629],false,false,false,22,,android.view.ViewGroup,false,false
+com.gametime.gametime,false,false,,0,false,true,,false,,[0;258][1080;1629],false,false,false,23,,android.view.ViewGroup,false,false
+com.gametime.gametime,false,false,,0,false,true,,false,,[0;258][1080;1413],false,false,false,24,,android.view.ViewGroup,false,false
+com.gametime.gametime,false,false,,0,true,true,,false,,[0;258][1080;1245],false,false,false,25,,android.widget.HorizontalScrollView,true,false
+com.gametime.gametime,false,false,,0,false,true,,false,,[0;258][1080;1197],false,false,false,26,,android.view.ViewGroup,false,false
+com.gametime.gametime,false,false,,0,false,true,,false,,[219;397][861;566],false,false,false,27,,android.widget.ImageView,false,false
+com.gametime.gametime,false,false,,1,false,true,,false,,[99;566][982;824],false,false,false,28,Outsmart the market,android.widget.TextView,false,false
+com.gametime.gametime,false,false,,4,false,true,,false,,[85;824][995;1059],false,false,false,29,The market moves fast. Our Price Assist algorithm constantly updates prices to get you the best payout.,android.widget.TextView,false,false
+com.gametime.gametime,false,false,,1,false,true,,false,,[480;1317][504;1341],false,false,false,30,,android.view.ViewGroup,false,false
+com.gametime.gametime,false,false,,2,false,true,,false,,[528;1317][552;1341],false,false,false,31,,android.view.ViewGroup,false,false
+com.gametime.gametime,false,false,,3,false,true,,false,,[576;1317][600;1341],false,false,false,32,,android.view.ViewGroup,false,false
+com.gametime.gametime,false,true,,1,true,true,,false,,[273;1437][807;1581],false,false,false,33,,android.view.ViewGroup,false,false
+com.gametime.gametime,false,false,,0,false,true,,false,,[273;1437][807;1581],false,false,false,34,,android.view.ViewGroup,false,false
+com.gametime.gametime,false,false,,0,false,true,,false,,[321;1478][759;1541],false,false,false,35,A D D   T I C K E T S,android.widget.TextView,false,false
+com.gametime.gametime,false,false,,2,false,true,,false,,[0;1629][1080;1776],false,false,false,36,,android.view.ViewGroup,false,false
+com.gametime.gametime,false,true,Buy; tab; 1 of 4,0,true,true,,false,,[0;1654][270;1776],false,false,false,37,,android.widget.Button,false,false
+com.gametime.gametime,false,false,,0,false,true,,false,,[0;1654][270;1716],false,false,false,38,,android.view.ViewGroup,false,false
+com.gametime.gametime,false,false,,0,false,true,BaseIcon,false,,[99;1654][171;1716],false,false,false,39,,android.widget.ImageView,false,false
+com.gametime.gametime,false,false,,2,false,true,,false,,[110;1716][160;1776],false,false,false,40,Buy,android.widget.TextView,false,false
+com.gametime.gametime,false,true,Sell; tab; 2 of 4,1,true,true,,false,,[270;1654][540;1776],false,false,false,41,,android.widget.Button,false,true
+com.gametime.gametime,false,false,,1,false,true,,false,,[270;1654][540;1716],false,false,false,42,,android.view.ViewGroup,false,true
+com.gametime.gametime,false,false,,0,false,true,BaseIcon,false,,[369;1654][441;1716],false,false,false,43,,android.widget.ImageView,false,true
+com.gametime.gametime,false,false,,2,false,true,,false,,[381;1716][429;1776],false,false,false,44,Sell,android.widget.TextView,false,true
+com.gametime.gametime,false,true,Tickets; tab; 3 of 4,2,true,true,,false,,[540;1654][810;1776],false,false,false,45,,android.widget.Button,false,false
+com.gametime.gametime,false,false,,0,false,true,,false,,[540;1654][810;1716],false,false,false,46,,android.view.ViewGroup,false,false
+com.gametime.gametime,false,false,,0,false,true,BaseIcon,false,,[639;1654][711;1716],false,false,false,47,,android.widget.ImageView,false,false
+com.gametime.gametime,false,false,,2,false,true,,false,,[627;1716][724;1776],false,false,false,48,Tickets,android.widget.TextView,false,false
+com.gametime.gametime,false,true,Profile; tab; 4 of 4,3,true,true,,false,,[810;1654][1080;1776],false,false,false,49,,android.widget.Button,false,false
+com.gametime.gametime,false,false,,0,false,true,,false,,[810;1654][1080;1716],false,false,false,50,,android.view.ViewGroup,false,false
+com.gametime.gametime,false,false,,0,false,true,BaseIcon,false,,[909;1654][981;1716],false,false,false,51,,android.widget.ImageView,false,false
+com.gametime.gametime,false,false,,2,false,true,,false,,[902;1716][988;1776],false,false,false,52,Profile,android.widget.TextView,false,false
+com.gametime.gametime,false,false,,1,false,true,android:id/statusBarBackground,false,,[0;0][1080;72],false,false,false,53,,android.view.View,false,false
+com.gametime.gametime,false,false,,2,false,true,android:id/navigationBarBackground,false,,[0;0][0;0],false,false,false,54,,android.view.View,false,false

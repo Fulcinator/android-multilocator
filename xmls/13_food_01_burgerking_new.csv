@@ -1,0 +1,153 @@
+package,checkable,clickable,content-desc,index,focusable,enabled,resource-id,password,NAF,bounds,focused,checked,long-clickable,progress,text,class,scrollable,selected
+de.burgerking.kingfinder,false,false,,0,false,true,,false,,[0;72][1080;1776],false,false,false,0,,android.view.ViewGroup,false,false
+de.burgerking.kingfinder,false,false,,0,false,true,,false,,[0;72][1080;1776],false,false,false,1,,android.webkit.WebView,false,false
+de.burgerking.kingfinder,false,false,,0,true,true,,false,,[0;72][1080;1776],true,false,false,2,Burger King,android.webkit.WebView,true,false
+de.burgerking.kingfinder,false,true,,0,false,true,,false,,[0;72][1080;1776],false,false,false,3,,android.view.View,false,false
+de.burgerking.kingfinder,false,true,,0,false,true,root,false,,[0;72][1080;1776],false,false,false,4,,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,0,false,true,,false,,[0;72][1080;1776],false,false,false,5,,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,0,false,true,,false,,[0;72][1080;1776],false,false,false,6,,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,0,false,true,,false,,[0;72][1080;1776],false,false,false,7,,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,0,false,true,,false,,[0;72][1080;1776],false,false,false,8,,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,0,false,true,,false,,[0;72][1080;240],false,false,false,9,,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,0,false,true,,false,,[0;72][1080;240],false,false,false,10,Primäre Navigation,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,0,false,true,,false,,[0;72][1080;240],false,false,false,11,,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,0,false,true,,false,,[48;144][1080;312],false,false,false,12,,android.view.View,false,false
+de.burgerking.kingfinder,false,true,,1,true,true,,false,,[0;72][3;75],false,false,false,13,Zum Inhalt springen,android.view.View,false,false
+de.burgerking.kingfinder,false,true,,2,true,true,,false,,[465;72][615;216],false,false,false,14,Burger King Logo,android.view.View,false,false
+de.burgerking.kingfinder,false,true,,3,true,true,,false,,[777;99][1032;189],false,false,false,15,MyBK,android.widget.Button,false,false
+de.burgerking.kingfinder,false,false,,1,false,true,,false,,[0;240][1080;1425],false,false,false,16,,android.view.View,true,false
+de.burgerking.kingfinder,false,false,,0,false,true,,false,,[0;240][1080;1425],false,false,false,17,,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,0,false,true,main,false,,[0;240][1080;1425],false,false,false,18,,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,0,false,true,,false,,[0;240][1080;1425],false,false,false,19,,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,0,false,true,,false,,[0;240][1080;1425],false,false,false,20,,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,0,false,true,,false,,[0;240][1080;1425],false,false,false,21,,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,0,false,true,,false,,[0;240][1080;240],false,false,false,22,,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,1,false,true,,false,,[0;240][1080;1425],false,false,false,23,,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,0,false,true,,false,,[63;288][1017;1221],false,false,false,24,,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,0,false,true,card-29-all-copy,false,,[111;810][969;1041],false,false,false,25,,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,0,false,true,,false,,[108;807][114;813],false,false,false,26,Adventskalender,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,1,false,true,,false,,[111;810][612;870],false,false,false,27,Unser Adventskalender,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,2,false,true,,false,,[111;894][969;1041],false,false,false,28,Hol dir ab dem 01.12. mit jedem Menü Gewinn-Codes für unseren Adventskalender und gewinne mega Preise! Jeder Code gewinnt!,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,1,false,true,,false,,[111;1074][501;1173],false,false,false,29,,android.view.View,false,false
+de.burgerking.kingfinder,false,true,,0,true,true,,false,,[111;1074][501;1173],false,false,false,30,Jetzt teilnehmen,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,1,false,true,,false,,[63;1266][1017;1425],false,false,false,31,,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,0,false,true,card-30-all-copy,false,,[111;1422][969;1425],false,false,false,32,,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,0,false,true,,false,,[108;1422][114;1425],false,false,false,33,Lieferung,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,1,false,true,,false,,[111;1422][561;1425],false,false,false,34,Kostenlose Lieferung,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,2,false,true,,false,,[111;1422][969;1425],false,false,false,35,APP-etit auf mehr? Lass dir dein Lieblings-Menü jetzt kostenlos nach Hause liefern. Nur über die BK App & Web.,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,1,false,true,,false,,[111;1422][459;1425],false,false,false,36,,android.view.View,false,false
+de.burgerking.kingfinder,false,true,,0,true,true,,false,,[111;1422][459;1425],false,false,false,37,Jetzt bestellen,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,2,false,true,,false,,[63;1422][1017;1425],false,false,false,38,,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,0,false,true,card-31-all-copy,false,,[111;1422][969;1425],false,false,false,39,,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,0,false,true,,false,,[108;1422][114;1425],false,false,false,40,Coupons,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,1,false,true,,false,,[111;1422][774;1425],false,false,false,41,Profitiere von unseren Coupons,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,2,false,true,,false,,[111;1422][969;1425],false,false,false,42,Löse deine Coupons ein und profitiere von Sonderangeboten. (*Nur in teilenehmenden Restaurants.),android.view.View,false,false
+de.burgerking.kingfinder,false,false,,1,false,true,,false,,[111;1422][447;1425],false,false,false,43,,android.view.View,false,false
+de.burgerking.kingfinder,false,true,,0,true,true,,false,,[111;1422][447;1425],false,false,false,44,Jetzt einlösen,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,3,false,true,,false,,[63;1422][1017;1425],false,false,false,45,,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,0,false,true,card-32-all-copy,false,,[111;1422][969;1425],false,false,false,46,,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,0,false,true,,false,,[108;1422][114;1425],false,false,false,47,Dein Job bei BK,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,1,false,true,,false,,[111;1422][420;1425],false,false,false,48,Join the Team!,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,2,false,true,,false,,[111;1422][969;1425],false,false,false,49,Werde jetzt Teil unseres Teams; denn bei uns wird es nie langweilig! Bewirb dich und Mach dein King bei Burger King®,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,1,false,true,,false,,[111;1422][477;1425],false,false,false,50,,android.view.View,false,false
+de.burgerking.kingfinder,false,true,,0,true,true,,false,,[111;1422][477;1425],false,false,false,51,Jetzt bewerben,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,4,false,true,,false,,[63;1422][1017;1425],false,false,false,52,,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,0,false,true,card-33-all-copy,false,,[111;1422][969;1425],false,false,false,53,,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,0,false,true,,false,,[108;1422][114;1425],false,false,false,54,Plant-based,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,1,false,true,,false,,[111;1422][744;1425],false,false,false,55,0% Fleisch. 100% Geschmack.,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,2,false,true,,false,,[111;1422][969;1425],false,false,false,56,Früher Beef; heute Plant-based. Den echten BK-Geschmack gibt es bei uns auch ohne Fleisch.,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,1,false,true,,false,,[111;1422][462;1425],false,false,false,57,,android.view.View,false,false
+de.burgerking.kingfinder,false,true,,0,true,true,,false,,[111;1422][462;1425],false,false,false,58,Mehr erfahren,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,5,false,true,,false,,[63;1422][1017;1425],false,false,false,59,,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,0,false,true,card-34-all-copy,false,,[111;1422][969;1425],false,false,false,60,,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,0,false,true,,false,,[108;1422][114;1425],false,false,false,61,Cheddar Cheese Lover,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,1,false,true,,false,,[111;1422][423;1425],false,false,false,62,Cheese Lovers,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,2,false,true,,false,,[111;1422][969;1425],false,false,false,63,Darf’s noch mehr Cheese sein? Probier jetzt unsere neuen Cheese Lovers. Nur für begrenzte Zeit!,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,1,false,true,,false,,[111;1422][462;1425],false,false,false,64,,android.view.View,false,false
+de.burgerking.kingfinder,false,true,,0,true,true,,false,,[111;1422][462;1425],false,false,false,65,Mehr erfahren,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,6,false,true,,false,,[63;1422][1017;1425],false,false,false,66,,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,0,false,true,card-35-all-copy,false,,[111;1422][969;1425],false,false,false,67,,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,0,false,true,,false,,[108;1422][114;1425],false,false,false,68,King’s Selection King´s Chorizo,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,1,false,true,,false,,[111;1422][447;1425],false,false,false,69,King’s Selection,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,2,false,true,,false,,[111;1422][969;1425],false,false,false,70,Der neue Star in unserer King’s Selection: der King’s Chorizo! Mit luftgetrockneter Chorizo; pikanter Salsa Brava & knackigem Rucola.,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,1,false,true,,false,,[111;1422][462;1425],false,false,false,71,,android.view.View,false,false
+de.burgerking.kingfinder,false,true,,0,true,true,,false,,[111;1422][462;1425],false,false,false,72,Mehr erfahren,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,7,false,true,,false,,[63;1422][1017;1425],false,false,false,73,,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,0,false,true,card-36-all-copy,false,,[111;1422][969;1425],false,false,false,74,,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,0,false,true,,false,,[108;1422][114;1425],false,false,false,75,Shake Oreo,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,1,false,true,,false,,[111;1422][405;1425],false,false,false,76,Shake it Baby!,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,2,false,true,,false,,[111;1422][969;1425],false,false,false,77,Jetzt neu bei BK: die cremigen Oreo® Shakes. Schmeckt das ganze Jahr und auch besonders gut im Winter.,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,1,false,true,,false,,[111;1422][459;1425],false,false,false,78,,android.view.View,false,false
+de.burgerking.kingfinder,false,true,,0,true,true,,false,,[111;1422][459;1425],false,false,false,79,Jetzt bestellen,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,8,false,true,,false,,[63;1422][1017;1425],false,false,false,80,,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,0,false,true,card-37-all-copy,false,,[111;1422][969;1425],false,false,false,81,,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,0,false,true,,false,,[108;1422][114;1425],false,false,false,82,King Jr.,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,1,false,true,,false,,[111;1422][486;1425],false,false,false,83,Genuss mit Lustig,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,2,false,true,,false,,[111;1422][969;1425],false,false,false,84,Bei Burger King® gibt es jetzt zu jedem King Jr.® Meal coole Subway Surfers® Spiele. Solange der Vorrat reicht.,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,1,false,true,,false,,[111;1422][462;1425],false,false,false,85,,android.view.View,false,false
+de.burgerking.kingfinder,false,true,,0,true,true,,false,,[111;1422][462;1425],false,false,false,86,Mehr erfahren,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,9,false,true,,false,,[63;1422][1017;1425],false,false,false,87,,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,0,false,true,card-38-all-copy,false,,[111;1422][969;1425],false,false,false,88,,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,0,false,true,,false,,[108;1422][114;1425],false,false,false,89,King ist wer an sich arbeitet.,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,1,false,true,,false,,[111;1422][717;1425],false,false,false,90,King ist; wer an sich arbeitet.,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,2,false,true,,false,,[111;1422][969;1425],false,false,false,91,Das ist unsere feste Überzeugung. Und die leben wir jeden Tag.,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,1,false,true,,false,,[111;1422][462;1425],false,false,false,92,,android.view.View,false,false
+de.burgerking.kingfinder,false,true,,0,true,true,,false,,[111;1422][462;1425],false,false,false,93,Mehr erfahren,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,10,false,true,,false,,[63;1422][1017;1425],false,false,false,94,,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,0,false,true,card-39-all-copy,false,,[111;1422][969;1425],false,false,false,95,,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,0,false,true,,false,,[108;1422][114;1425],false,false,false,96,King Deals,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,1,false,true,,false,,[111;1422][669;1425],false,false,false,97,Deal or no deal? King Deal!,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,2,false,true,,false,,[111;1422][969;1425],false,false,false,98,Mach den Deal mit unseren King Deals! Ob knuspriges Chicken oder frisch gegrilltes Beef – hier kommen alle Geschmäcker auf ihre Kosten!,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,1,false,true,,false,,[111;1422][462;1425],false,false,false,99,,android.view.View,false,false
+de.burgerking.kingfinder,false,true,,0,true,true,,false,,[111;1422][462;1425],false,false,false,100,Mehr erfahren,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,11,false,true,,false,,[63;1422][1017;1425],false,false,false,101,,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,0,false,true,card-40-all-copy,false,,[111;1422][969;1425],false,false,false,102,,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,0,false,true,,false,,[108;1422][114;1425],false,false,false,103,King des Monats,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,1,false,true,,false,,[111;1422][459;1425],false,false,false,104,King des Monats,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,2,false,true,,false,,[111;1422][969;1425],false,false,false,105,Hol dir jetzt den Big KIng® oder den Plant-based Big KIng® im Menü für nur 4;99€!,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,1,false,true,,false,,[111;1422][459;1425],false,false,false,106,,android.view.View,false,false
+de.burgerking.kingfinder,false,true,,0,true,true,,false,,[111;1422][459;1425],false,false,false,107,Jetzt bestellen,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,12,false,true,,false,,[63;1422][1017;1425],false,false,false,108,,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,0,false,true,card-41-all-copy,false,,[111;1422][969;1425],false,false,false,109,,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,0,false,true,,false,,[108;1422][114;1425],false,false,false,110,MyBK Coupons,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,1,false,true,,false,,[111;1422][828;1425],false,false,false,111,Coupons nach deinem Geschmack,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,2,false,true,,false,,[111;1422][969;1425],false,false,false,112,Lust auf noch mehr und exklusivere Coupons? Dann registriere dich bei MyBK und setze deine Präferenzen.,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,1,false,true,,false,,[111;1422][507;1425],false,false,false,113,,android.view.View,false,false
+de.burgerking.kingfinder,false,true,,0,true,true,,false,,[111;1422][507;1425],false,false,false,114,Jetzt registrieren,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,1,false,true,,false,,[0;1422][1080;1425],false,false,false,115,,android.view.View,false,false
+de.burgerking.kingfinder,false,true,,0,true,true,,false,,[336;1422][411;1425],false,false,false,116,Folge uns auf Instagram Link öffnet in neuer Registerkarte,android.view.View,false,false
+de.burgerking.kingfinder,false,true,,1,true,true,,false,,[447;1422][522;1425],false,false,false,117,Folge uns auf Facebook Link öffnet in neuer Registerkarte,android.view.View,false,false
+de.burgerking.kingfinder,false,true,,2,true,true,,false,,[558;1422][633;1425],false,false,false,118,Folge uns auf YouTube Link öffnet in neuer Registerkarte,android.view.View,false,false
+de.burgerking.kingfinder,false,true,,3,true,true,,false,,[669;1422][744;1425],false,false,false,119,Folge uns auf TikTok Link öffnet in neuer Registerkarte,android.view.View,false,false
+de.burgerking.kingfinder,false,true,,4,true,true,,false,,[87;1422][333;1425],false,false,false,120,Impressum,android.view.View,false,false
+de.burgerking.kingfinder,false,true,,5,true,true,,false,,[330;1422][642;1425],false,false,false,121,Datenschutz,android.view.View,false,false
+de.burgerking.kingfinder,false,true,,6,true,true,,false,,[639;1422][852;1425],false,false,false,122,Kontakt,android.view.View,false,false
+de.burgerking.kingfinder,false,true,,7,true,true,,false,,[849;1422][993;1425],false,false,false,123,AGB,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,2,false,true,,false,,[0;1425][1080;1776],false,false,false,124,,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,0,false,true,,false,,[0;1425][1080;1425],false,false,false,125,,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,1,false,true,,false,,[0;1425][1080;1776],false,false,false,126,,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,0,false,true,,false,,[0;1425][1080;1623],false,false,false,127,,android.view.View,false,false
+de.burgerking.kingfinder,false,true,,0,true,true,,false,,[0;1449][816;1599],false,false,false,128,Verfügbarkeit prüfen Einen Ort auswählen,android.widget.Button,false,false
+de.burgerking.kingfinder,false,false,,1,false,true,bottom-service-heading,false,,[126;1449][816;1521],false,false,false,129,Verfügbarkeit prüfen,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,2,false,true,bottom-service-details,false,,[126;1521][816;1599],false,false,false,130,,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,0,false,true,,false,,[156;1521][639;1593],false,false,false,131,Einen Ort auswählen,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,1,false,true,,false,,[156;1593][786;1599],false,false,false,132,,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,3,false,true,,false,,[813;1479][1059;1569],false,false,false,133,,android.view.View,false,false
+de.burgerking.kingfinder,false,true,,0,true,true,bottom-service-button,false,,[813;1479][1059;1569],false,false,false,134,0 Warenkorb gesamt,android.widget.Button,false,false
+de.burgerking.kingfinder,false,false,,1,false,true,,false,,[0;1623][1080;1776],false,false,false,135,,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,0,false,true,,false,,[0;1626][1080;1776],false,false,false,136,,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,0,false,true,,false,,[0;1626][1080;1776],false,false,false,137,,android.view.View,false,false
+de.burgerking.kingfinder,false,true,,0,true,true,,false,,[45;1626][144;1776],false,false,false,138,Home,android.view.View,false,false
+de.burgerking.kingfinder,false,true,,0,true,true,,false,,[45;1626][144;1776],false,false,false,139,Home,android.view.View,false,false
+de.burgerking.kingfinder,false,true,,1,true,true,,false,,[234;1626][330;1776],false,false,false,140,Menü,android.view.View,false,false
+de.burgerking.kingfinder,false,true,,0,true,true,,false,,[234;1626][330;1776],false,false,false,141,Menü,android.view.View,false,false
+de.burgerking.kingfinder,false,true,,2,true,true,,false,,[417;1626][570;1776],false,false,false,142,Coupons,android.view.View,false,false
+de.burgerking.kingfinder,false,true,,0,true,true,,false,,[417;1626][570;1776],false,false,false,143,Coupons,android.view.View,false,false
+de.burgerking.kingfinder,false,true,,3,true,true,,false,,[660;1626][858;1776],false,false,false,144,King Finder,android.view.View,false,false
+de.burgerking.kingfinder,false,true,,0,true,true,,false,,[660;1626][858;1776],false,false,false,145,King Finder,android.view.View,false,false
+de.burgerking.kingfinder,false,true,,4,true,true,,false,,[945;1626][1035;1776],false,false,false,146,Mehr,android.view.View,false,false
+de.burgerking.kingfinder,false,true,,0,true,true,,false,,[945;1626][1035;1776],false,false,false,147,Mehr,android.view.View,false,false
+de.burgerking.kingfinder,false,true,,1,false,true,,true,false,[0;1773][1080;1776],false,false,false,148,,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,2,false,true,a11y-status-message,false,,[0;1773][3;1776],false,false,false,149,,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,1,false,true,android:id/statusBarBackground,false,,[0;0][1080;72],false,false,false,150,,android.view.View,false,false
+de.burgerking.kingfinder,false,false,,2,false,true,android:id/navigationBarBackground,false,,[0;0][0;0],false,false,false,151,,android.view.View,false,false

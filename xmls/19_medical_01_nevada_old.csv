@@ -1,0 +1,26 @@
+package,checkable,clickable,content-desc,index,focusable,enabled,resource-id,password,NAF,bounds,focused,checked,long-clickable,progress,text,class,scrollable,selected
+gov.nv.dhhs.en,false,false,,0,false,true,,false,,[0;0][1080;1776],false,false,false,0,,android.view.View,false,false
+gov.nv.dhhs.en,false,false,,0,false,true,,false,,[0;0][1080;1776],false,false,false,1,,android.view.View,false,false
+gov.nv.dhhs.en,false,false,,0,false,true,,false,,[0;0][1080;1776],false,false,false,2,,android.view.View,false,false
+gov.nv.dhhs.en,false,false,,0,false,true,,false,,[0;0][1080;1776],false,false,false,3,,android.view.View,false,false
+gov.nv.dhhs.en,false,false,,0,false,true,,false,,[0;0][1080;240],false,false,false,4,,android.view.View,false,false
+gov.nv.dhhs.en,false,false,COVID Trace,0,true,true,,false,,[302;96][779;216],false,false,false,5,,android.widget.ImageView,false,false
+gov.nv.dhhs.en,false,false,,1,false,true,,false,,[45;240][1035;1596],false,false,false,6,,android.view.View,false,false
+gov.nv.dhhs.en,false,false,,0,true,true,,false,,[45;240][1035;1596],false,false,false,7,,android.view.View,true,false
+gov.nv.dhhs.en,false,true,Exposure Notification is OFF COVID Trace cannot alert you to potential COVID-19 exposures. Tap here to turn on Exposure Notifications.,0,true,true,,false,,[45;240][1035;661],false,false,false,8,,android.widget.ImageView,false,false
+gov.nv.dhhs.en,false,false,,1,false,true,,false,,[45;661][1035;721],false,false,false,9,,android.view.View,false,false
+gov.nv.dhhs.en,false,false,Division of Public & Behavioral Health,2,true,true,,false,,[45;721][1035;763],false,false,false,10,,android.view.View,false,false
+gov.nv.dhhs.en,false,false,,3,false,true,,false,,[45;763][1035;793],false,false,false,11,,android.view.View,false,false
+gov.nv.dhhs.en,false,false,Tips & Resources,4,true,true,,false,,[45;793][1035;850],false,false,false,12,,android.view.View,false,false
+gov.nv.dhhs.en,false,false,,5,false,true,,false,,[45;850][1035;880],false,false,false,13,,android.view.View,false,false
+gov.nv.dhhs.en,false,false,,6,false,true,,false,,[45;880][1035;1138],false,false,false,14,,android.view.View,false,false
+gov.nv.dhhs.en,false,true,Share the COVID Trace app Help Protect Nevada by sharing COVID Trace with friends and family.,0,true,true,,false,,[45;880][1035;1138],false,false,false,15,,android.widget.ImageView,false,false
+gov.nv.dhhs.en,false,false,,7,false,true,,false,,[45;1138][1035;1168],false,false,false,16,,android.view.View,false,false
+gov.nv.dhhs.en,false,false,,8,false,true,,false,,[45;1168][1035;1596],false,false,false,17,,android.view.View,false,false
+gov.nv.dhhs.en,false,true,How To Protect Yourself & Others Learn the latest information from the CDC about how to keep yourself and others safe. Learn more,0,true,true,,false,,[45;1168][1035;1596],false,false,false,18,,android.widget.ImageView,false,false
+gov.nv.dhhs.en,false,false,,2,false,true,,false,,[0;1596][1080;1776],false,false,false,19,,android.view.View,false,false
+gov.nv.dhhs.en,false,true,Exposures Exposures Tab 1 of 3,0,true,true,,false,,[0;1596][360;1776],false,false,false,20,,android.widget.ImageView,false,true
+gov.nv.dhhs.en,false,true,Notify Others Notify Others Tab 2 of 3,1,true,true,,false,,[360;1596][720;1776],false,false,false,21,,android.widget.ImageView,false,false
+gov.nv.dhhs.en,false,true,Share Share Tab 3 of 3,2,true,true,,false,,[720;1596][1080;1776],false,false,false,22,,android.widget.ImageView,false,false
+gov.nv.dhhs.en,false,false,,1,false,true,android:id/statusBarBackground,false,,[0;0][1080;72],false,false,false,23,,android.view.View,false,false
+gov.nv.dhhs.en,false,false,,2,false,true,android:id/navigationBarBackground,false,,[0;0][0;0],false,false,false,24,,android.view.View,false,false

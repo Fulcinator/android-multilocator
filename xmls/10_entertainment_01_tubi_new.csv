@@ -1,0 +1,27 @@
+package,checkable,clickable,content-desc,index,focusable,enabled,resource-id,password,NAF,bounds,focused,checked,long-clickable,progress,text,class,scrollable,selected
+com.tubitv,false,false,,0,false,true,com.tubitv:id/root_layout,false,,[0;72][1080;1776],false,false,false,0,,android.view.ViewGroup,false,false
+com.tubitv,false,false,,1,true,true,android:id/tabhost,false,,[0;72][1080;1776],false,false,false,1,,android.widget.TabHost,false,false
+com.tubitv,false,false,,0,false,true,,false,,[0;72][1080;1776],false,false,false,2,,android.view.ViewGroup,false,false
+com.tubitv,false,false,,0,true,true,com.tubitv:id/fragment_home_list_category_recycler,false,,[0;72][1080;1615],true,false,false,3,,androidx.recyclerview.widget.RecyclerView,false,false
+com.tubitv,false,false,,0,false,true,com.tubitv:id/fragment_home_list_category_loading_progress,false,,[0;783][1080;903],false,false,false,4,,android.widget.ImageView,false,false
+com.tubitv,false,false,,0,false,true,com.tubitv:id/root_layout,false,,[0;72][1080;210],false,false,false,5,,android.view.ViewGroup,false,false
+com.tubitv,false,false,,0,true,true,com.tubitv:id/titlebar_scrollable_filter_layout,false,,[0;72][1079;210],false,false,false,6,,android.widget.HorizontalScrollView,false,false
+com.tubitv,false,false,,0,false,true,com.tubitv:id/chip_group,false,,[0;72][1079;210],false,false,false,7,,android.view.ViewGroup,false,false
+com.tubitv,true,true,,0,true,true,com.tubitv:id/chip_all,false,,[46;72][221;210],false,true,false,8,All,android.widget.CompoundButton,false,false
+com.tubitv,true,true,,1,true,true,com.tubitv:id/chip_tv_shows,false,,[358;72][649;210],false,false,false,9,TV Shows,android.widget.CompoundButton,false,false
+com.tubitv,true,true,,2,true,true,com.tubitv:id/chip_movies,false,,[786;72][1033;210],false,false,false,10,Movies,android.widget.CompoundButton,false,false
+com.tubitv,false,false,,1,false,true,,false,,[0;72][1080;1615],false,false,false,11,,android.view.View,false,false
+com.tubitv,false,true,Cast. Disconnected,3,true,true,com.tubitv:id/view_tubi_controller_chromecast_ib_new,false,,[919;1419][1057;1557],false,false,false,12,,android.view.View,false,false
+com.tubitv,false,false,,5,false,true,android:id/tabs,false,,[0;1615][1080;1776],false,false,false,13,,android.widget.TabWidget,false,false
+com.tubitv,false,true,,0,true,true,,false,,[0;1615][360;1776],false,false,false,14,,android.view.ViewGroup,false,true
+com.tubitv,false,false,,0,false,true,com.tubitv:id/pulse_view,false,,[0;1615][360;1776],false,false,false,15,,android.view.View,false,true
+com.tubitv,false,false,,1,false,true,com.tubitv:id/icon_image_view,false,,[146;1638][215;1707],false,false,false,16,,android.widget.ImageView,false,true
+com.tubitv,false,false,,2,false,true,com.tubitv:id/title_text_view,false,,[134;1724][226;1774],false,false,false,17,Home,android.widget.TextView,false,true
+com.tubitv,false,true,,1,true,true,,false,,[360;1615][720;1776],false,false,false,18,,android.view.ViewGroup,false,false
+com.tubitv,false,false,,0,false,true,com.tubitv:id/pulse_view,false,,[360;1615][720;1776],false,false,false,19,,android.view.View,false,false
+com.tubitv,false,false,,1,false,true,com.tubitv:id/icon_image_view,false,,[506;1638][575;1707],false,false,false,20,,android.widget.ImageView,false,false
+com.tubitv,false,false,,2,false,true,com.tubitv:id/title_text_view,false,,[481;1725][599;1772],false,false,false,21,Explore,android.widget.TextView,false,false
+com.tubitv,false,true,,2,true,true,,false,,[720;1615][1080;1776],false,false,false,22,,android.view.ViewGroup,false,false
+com.tubitv,false,false,,0,false,true,com.tubitv:id/pulse_view,false,,[720;1615][1080;1776],false,false,false,23,,android.view.View,false,false
+com.tubitv,false,false,,1,false,true,com.tubitv:id/icon_image_view,false,,[866;1638][935;1707],false,false,false,24,,android.widget.ImageView,false,false
+com.tubitv,false,false,,2,false,true,com.tubitv:id/title_text_view,false,,[833;1725][967;1772],false,false,false,25,My Stuff,android.widget.TextView,false,false

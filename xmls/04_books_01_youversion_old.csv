@@ -1,0 +1,32 @@
+package,checkable,clickable,content-desc,index,focusable,enabled,resource-id,password,NAF,bounds,focused,checked,long-clickable,progress,text,class,scrollable,selected
+com.sirma.mobile.bible.android,false,false,,0,false,true,com.sirma.mobile.bible.android:id/main_content,false,,[0;72][1080;1776],false,false,false,0,,android.view.ViewGroup,false,false
+com.sirma.mobile.bible.android,false,false,,0,false,true,com.sirma.mobile.bible.android:id/toolbar,false,,[0;72][1080;240],false,false,false,1,,android.view.ViewGroup,false,false
+com.sirma.mobile.bible.android,false,true,Navigate up,0,true,true,,false,,[0;72][168;240],false,false,false,2,,android.widget.ImageButton,false,false
+com.sirma.mobile.bible.android,false,false,,0,false,true,,false,,[168;132][519;180],false,false,false,3,,android.widget.ImageView,false,false
+com.sirma.mobile.bible.android,false,true,Friends,0,true,true,com.sirma.mobile.bible.android:id/action_friends,false,,[792;84][936;228],false,false,true,4,,android.widget.TextView,false,false
+com.sirma.mobile.bible.android,false,true,Notifications,1,true,true,com.sirma.mobile.bible.android:id/action_notifications,false,,[936;84][1080;228],false,false,true,5,,android.widget.TextView,false,false
+com.sirma.mobile.bible.android,false,false,,1,true,true,com.sirma.mobile.bible.android:id/tabs,false,,[18;240][1080;384],false,false,false,6,,android.widget.HorizontalScrollView,true,false
+com.sirma.mobile.bible.android,false,true,,0,true,true,,false,,[18;240][234;384],false,false,false,7,,android.support.v7.app.b,false,true
+com.sirma.mobile.bible.android,false,false,,0,false,true,,false,,[66;283][186;340],false,false,false,8,HOME,android.widget.TextView,false,true
+com.sirma.mobile.bible.android,false,true,,1,true,true,,false,,[234;240][450;384],false,false,false,9,,android.support.v7.app.b,false,false
+com.sirma.mobile.bible.android,false,false,,0,false,true,,false,,[289;283][394;340],false,false,false,10,READ,android.widget.TextView,false,false
+com.sirma.mobile.bible.android,false,true,,2,true,true,,false,,[450;240][666;384],false,false,false,11,,android.support.v7.app.b,false,false
+com.sirma.mobile.bible.android,false,false,,0,false,true,,false,,[491;283][624;340],false,false,false,12,PLANS,android.widget.TextView,false,false
+com.sirma.mobile.bible.android,false,true,,3,true,true,,false,,[666;240][882;384],false,false,false,13,,android.support.v7.app.b,false,false
+com.sirma.mobile.bible.android,false,false,,0,false,true,,false,,[702;283][846;340],false,false,false,14,VIDEOS,android.widget.TextView,false,false
+com.sirma.mobile.bible.android,false,true,,4,true,true,,false,,[882;240][1080;384],false,false,false,15,,android.support.v7.app.b,false,false
+com.sirma.mobile.bible.android,false,false,,0,false,true,,false,,[947;283][1033;340],false,false,false,16,LIVE,android.widget.TextView,false,false
+com.sirma.mobile.bible.android,false,false,,0,false,true,com.sirma.mobile.bible.android:id/swipe_refresh_layout,false,,[0;384][1080;1776],false,false,false,17,,android.view.ViewGroup,false,false
+com.sirma.mobile.bible.android,false,false,,0,true,true,com.sirma.mobile.bible.android:id/view_pager,false,,[0;384][1080;1776],false,false,false,18,,android.support.v4.view.ViewPager,true,false
+com.sirma.mobile.bible.android,false,false,,0,true,true,com.sirma.mobile.bible.android:id/moments,false,,[0;384][1080;1776],true,false,false,19,,android.support.v7.widget.RecyclerView,false,false
+com.sirma.mobile.bible.android,false,false,,0,false,true,com.sirma.mobile.bible.android:id/day,false,,[68;461][158;551],false,false,false,20,,android.widget.ImageView,false,false
+com.sirma.mobile.bible.android,false,false,,0,false,true,,false,,[194;449][499;506],false,false,false,21,Verse of the Day,android.widget.TextView,false,false
+com.sirma.mobile.bible.android,false,false,,1,false,true,com.sirma.mobile.bible.android:id/verse_reference,false,,[194;506][540;563],false,false,false,22,Psalms 42:11 KJV,android.widget.TextView,false,false
+com.sirma.mobile.bible.android,false,false,,2,false,true,com.sirma.mobile.bible.android:id/time,false,,[915;449][1012;498],false,false,false,23,Today,android.widget.TextView,false,false
+com.sirma.mobile.bible.android,false,false,,0,false,true,com.sirma.mobile.bible.android:id/verse,false,,[68;611][247;668],false,false,false,24,Loading…,android.widget.TextView,false,false
+com.sirma.mobile.bible.android,false,true,,0,true,true,com.sirma.mobile.bible.android:id/view_all,false,,[20;791][300;944],false,false,false,25,VIEW ALL,android.widget.TextView,false,false
+com.sirma.mobile.bible.android,false,true,,1,true,true,com.sirma.mobile.bible.android:id/btn_settings,true,false,[594;791][762;944],false,false,false,26,,android.widget.ImageButton,false,false
+com.sirma.mobile.bible.android,false,true,,2,true,true,com.sirma.mobile.bible.android:id/btn_image_share,true,false,[762;791][911;944],false,false,false,27,,android.widget.ImageButton,false,false
+com.sirma.mobile.bible.android,false,true,,3,true,true,com.sirma.mobile.bible.android:id/btn_share,true,false,[911;791][1060;944],false,false,false,28,,android.widget.ImageButton,false,false
+com.sirma.mobile.bible.android,false,false,,1,false,true,android:id/statusBarBackground,false,,[0;0][1080;72],false,false,false,29,,android.view.View,false,false
+com.sirma.mobile.bible.android,false,false,,2,false,true,android:id/navigationBarBackground,false,,[0;0][0;0],false,false,false,30,,android.view.View,false,false

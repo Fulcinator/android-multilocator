@@ -1,0 +1,63 @@
+package,checkable,clickable,content-desc,index,focusable,enabled,resource-id,password,NAF,bounds,focused,checked,long-clickable,progress,text,class,scrollable,selected
+com.walmart.android,false,false,,0,false,true,com.walmart.android:id/living_design_base_activity_root,false,,[0;72][1080;1776],false,false,false,0,,android.view.ViewGroup,false,false
+com.walmart.android,false,false,,0,false,true,,false,,[0;72][1080;240],false,false,false,1,,android.view.ViewGroup,false,false
+com.walmart.android,false,true,,0,true,true,com.walmart.android:id/integration_toolbar_auth_title,false,,[48;123][195;187],false,false,false,2,Sign In,android.widget.TextView,false,false
+com.walmart.android,false,false,,2,false,true,com.walmart.android:id/integration_toolbar_walmart_icon,false,,[492;108][588;204],false,false,false,3,,android.widget.ImageView,false,false
+com.walmart.android,false,false,,1,false,true,com.walmart.android:id/toolbar,false,,[0;72][1080;240],false,false,false,4,,android.view.ViewGroup,false,false
+com.walmart.android,false,true,,0,true,true,com.walmart.android:id/cart_summary_view,false,,[888;72][1080;240],false,false,false,5,,android.view.ViewGroup,false,false
+com.walmart.android,false,false,,0,false,true,,false,,[888;72][1080;240],false,false,false,6,,android.view.ViewGroup,false,false
+com.walmart.android,false,false,Cart contains 0 items; order total is $0.00,0,false,true,com.walmart.android:id/cart_summary_icon,false,,[954;125][1026;197],false,false,false,7,,android.widget.ImageView,false,false
+com.walmart.android,false,false,,1,false,true,com.walmart.android:id/cart_summary_count,false,,[1008;111][1056;161],false,false,false,8,0,android.widget.TextView,false,false
+com.walmart.android,false,false,,2,false,true,com.walmart.android:id/cart_summary_subtotal,false,,[953;200][1026;240],false,false,false,9,$0.00,android.widget.TextView,false,false
+com.walmart.android,false,true,,1,true,true,com.walmart.android:id/search_api_view,false,,[48;264][1032;384],false,false,false,10,,android.view.ViewGroup,false,false
+com.walmart.android,false,true,,0,false,true,com.walmart.android:id/search_view,false,,[96;264][1008;384],false,false,false,11,Search Walmart,android.widget.EditText,false,false
+com.walmart.android,false,true,scan barcodes qr codes and more,1,true,true,com.walmart.android:id/search_view_scanner_entry_point,false,,[912;288][1032;360],false,false,false,12,,android.widget.ImageButton,false,false
+com.walmart.android,false,false,,0,true,true,com.walmart.android:id/content_container_main_module,false,,[0;408][1080;528],false,false,false,13,,androidx.recyclerview.widget.RecyclerView,false,false
+com.walmart.android,false,false,,0,false,true,com.walmart.android:id/global_intent_center_internal_view,false,,[0;408][1080;528],false,false,false,14,,android.view.ViewGroup,false,false
+com.walmart.android,false,false,,0,false,true,com.walmart.android:id/global_intent_center_collapsed_view,false,,[0;408][1080;528],false,false,false,15,,android.view.ViewGroup,false,false
+com.walmart.android,false,false,,0,false,true,com.walmart.android:id/global_intent_center_collapsed_icon,false,,[48;432][120;504],false,false,false,16,,android.widget.ImageView,false,false
+com.walmart.android,false,false,How do you want your items?; header,1,false,true,com.walmart.android:id/global_intent_center_collapsed_content,false,,[144;440][681;497],false,false,false,17,How do you want your items?,android.widget.TextView,false,false
+com.walmart.android,false,false,,2,false,true,com.walmart.android:id/global_intent_center_collapsed_divider,false,,[705;444][708;492],false,false,false,18,,android.view.View,false,false
+com.walmart.android,false,false,,3,false,true,com.walmart.android:id/global_intent_center_collapsed_location,false,,[732;440][960;496],false,false,false,19,95829,android.widget.TextView,false,false
+com.walmart.android,false,true,How do you want your items?; 95829; collapsed,4,true,true,com.walmart.android:id/global_intent_center_collapsed_chevron,false,,[960;432][1080;504],false,false,false,20,,android.widget.ImageView,false,false
+com.walmart.android,false,false,,0,true,true,com.walmart.android:id/content_container_main_module,false,,[0;528][1080;1776],false,false,false,21,,androidx.recyclerview.widget.RecyclerView,true,false
+com.walmart.android,false,false,,0,true,true,com.walmart.android:id/tempo_shared_sub_nav_view,false,,[0;528][1080;657],true,false,false,22,,androidx.recyclerview.widget.RecyclerView,true,false
+com.walmart.android,false,true,,0,true,true,com.walmart.android:id/tempo_shared_sub_nav_cell,false,,[24;528][314;657],false,false,false,23,,android.view.ViewGroup,false,false
+com.walmart.android,false,false,,0,false,true,com.walmart.android:id/tempo_shared_sub_nav_cell_title,false,,[48;564][287;621],false,false,false,24,Departments,android.widget.TextView,false,false
+com.walmart.android,false,false,,1,false,true,com.walmart.android:id/tempo_shared_sub_nav_divider,false,,[311;564][314;621],false,false,false,25,,android.view.View,false,false
+com.walmart.android,false,true,,1,true,true,com.walmart.android:id/tempo_shared_sub_nav_cell,false,,[314;528][623;657],false,false,false,26,,android.view.ViewGroup,false,false
+com.walmart.android,false,false,,0,false,true,com.walmart.android:id/tempo_shared_sub_nav_cell_title,false,,[338;564][596;621],false,false,false,27,Deals for days,android.widget.TextView,false,false
+com.walmart.android,false,true,,2,true,true,com.walmart.android:id/tempo_shared_sub_nav_cell,false,,[623;528][1046;657],false,false,false,28,,android.view.ViewGroup,false,false
+com.walmart.android,false,false,,0,false,true,com.walmart.android:id/tempo_shared_sub_nav_cell_title,false,,[647;564][1019;621],false,false,false,29,Top Toys; Low Prices,android.widget.TextView,false,false
+com.walmart.android,false,true,,3,true,true,com.walmart.android:id/tempo_shared_sub_nav_cell,false,,[1046;528][1080;657],false,false,false,30,,android.view.ViewGroup,false,false
+com.walmart.android,false,false,,0,false,true,,false,,[0;657][1080;873],false,false,false,31,,android.view.ViewGroup,false,false
+com.walmart.android,false,false,,0,false,true,,false,,[0;657][1080;873],false,false,false,32,,android.view.ViewGroup,false,false
+com.walmart.android,false,false,,0,false,true,com.walmart.android:id/bookslot_title,false,,[48;699][713;765],false,false,false,33,Reserve pickup or delivery,android.widget.TextView,false,false
+com.walmart.android,false,true,,1,true,true,com.walmart.android:id/bookslot_cta,false,,[761;699][1032;795],false,false,false,34,See times,android.widget.Button,false,false
+com.walmart.android,false,false,,2,false,true,com.walmart.android:id/hero_pov_view,false,,[0;921][1080;1776],false,false,false,35,,android.view.ViewGroup,false,false
+com.walmart.android,false,false,,0,true,true,com.walmart.android:id/hero_pov_module_recycler_view,false,,[24;921][1056;1776],false,false,false,36,,androidx.recyclerview.widget.RecyclerView,true,false
+com.walmart.android,false,true,,0,true,true,com.walmart.android:id/hero_pov_story_view,false,,[48;945][1032;1776],false,false,false,37,Page 5 of 5; multi-page view.Swipe with two fingers to switch pages.,androidx.cardview.widget.CardView,false,false
+com.walmart.android,false,false,,0,false,true,com.walmart.android:id/hero_pov_layout,false,,[48;945][1032;1776],false,false,false,38,,android.view.ViewGroup,false,false
+com.walmart.android,false,false,You can save $1;300+,0,false,true,com.walmart.android:id/hero_pov_story_image,false,,[48;945][1032;1499],false,false,false,39,,android.widget.ImageView,false,false
+com.walmart.android,false,false,,1,false,true,com.walmart.android:id/hero_pov_story_overlay,false,,[48;1499][1032;1776],false,false,false,40,,android.view.View,false,false
+com.walmart.android,false,false,,2,false,true,com.walmart.android:id/hero_pov_story_eyebrow,false,,[96;1547][816;1603],false,false,false,41,Join Walmart+,android.widget.TextView,false,false
+com.walmart.android,false,false,,3,false,true,com.walmart.android:id/hero_pov_story_heading,false,,[96;1603][816;1677],false,false,false,42,You can save $1;300+ a year!*,android.widget.TextView,false,false
+com.walmart.android,false,false,,4,false,true,com.walmart.android:id/hero_pov_story_subheading,false,,[96;1701][744;1776],false,false,false,43,Start saving with free delivery; Walmart Rewards & more,android.widget.TextView,false,false
+com.walmart.android,false,false,,0,false,true,,false,,[0;1608][1080;1776],false,false,false,44,,android.view.ViewGroup,false,false
+com.walmart.android,false,false,,0,false,true,com.walmart.android:id/navigation_bar_item_icon_view,false,,[72;1632][144;1704],false,false,false,45,,android.widget.ImageView,false,true
+com.walmart.android,false,false,,1,false,true,com.walmart.android:id/navigation_bar_item_labels_group,false,,[67;1708][149;1776],false,false,false,46,,android.view.ViewGroup,false,true
+com.walmart.android,false,false,,0,false,true,com.walmart.android:id/navigation_bar_item_large_label_view,false,,[67;1708][149;1756],false,false,false,47,Shop,android.widget.TextView,false,true
+com.walmart.android,false,false,,0,false,true,com.walmart.android:id/navigation_bar_item_icon_view,false,,[288;1632][360;1704],false,false,false,48,,android.widget.ImageView,false,false
+com.walmart.android,false,false,,1,false,true,com.walmart.android:id/navigation_bar_item_labels_group,false,,[245;1708][402;1776],false,false,false,49,,android.view.ViewGroup,false,false
+com.walmart.android,false,false,,0,false,true,com.walmart.android:id/navigation_bar_item_small_label_view,false,,[245;1708][402;1756],false,false,false,50,My Items,android.widget.TextView,false,false
+com.walmart.android,false,false,,0,false,true,com.walmart.android:id/navigation_bar_item_icon_view,false,,[504;1632][576;1704],false,false,false,51,,android.widget.ImageView,false,false
+com.walmart.android,false,false,,1,false,true,com.walmart.android:id/navigation_bar_item_labels_group,false,,[484;1708][595;1776],false,false,false,52,,android.view.ViewGroup,false,false
+com.walmart.android,false,false,,0,false,true,com.walmart.android:id/navigation_bar_item_small_label_view,false,,[484;1708][595;1756],false,false,false,53,Search,android.widget.TextView,false,false
+com.walmart.android,false,false,,0,false,true,com.walmart.android:id/navigation_bar_item_icon_view,false,,[720;1632][792;1704],false,false,false,54,,android.widget.ImageView,false,false
+com.walmart.android,false,false,,1,false,true,com.walmart.android:id/navigation_bar_item_labels_group,false,,[687;1708][825;1776],false,false,false,55,,android.view.ViewGroup,false,false
+com.walmart.android,false,false,,0,false,true,com.walmart.android:id/navigation_bar_item_small_label_view,false,,[687;1708][825;1756],false,false,false,56,Services,android.widget.TextView,false,false
+com.walmart.android,false,false,,0,false,true,com.walmart.android:id/navigation_bar_item_icon_view,false,,[936;1632][1008;1704],false,false,false,57,,android.widget.ImageView,false,false
+com.walmart.android,false,false,,1,false,true,com.walmart.android:id/navigation_bar_item_labels_group,false,,[902;1708][1041;1776],false,false,false,58,,android.view.ViewGroup,false,false
+com.walmart.android,false,false,,0,false,true,com.walmart.android:id/navigation_bar_item_small_label_view,false,,[902;1708][1041;1756],false,false,false,59,Account,android.widget.TextView,false,false
+com.walmart.android,false,false,,1,false,true,android:id/statusBarBackground,false,,[0;0][1080;72],false,false,false,60,,android.view.View,false,false
+com.walmart.android,false,false,,2,false,true,android:id/navigationBarBackground,false,,[0;0][0;0],false,false,false,61,,android.view.View,false,false

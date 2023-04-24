@@ -1,0 +1,58 @@
+package,checkable,clickable,content-desc,index,focusable,enabled,resource-id,password,NAF,bounds,focused,checked,long-clickable,progress,text,class,scrollable,selected
+com.particlenews.newsbreak,false,false,,0,false,true,,false,,[0;0][1080;1776],false,false,false,0,,android.view.ViewGroup,false,false
+com.particlenews.newsbreak,false,false,,0,false,true,com.particlenews.newsbreak:id/toolbar,false,,[0;72][1080;204],false,false,false,1,,android.view.ViewGroup,false,false
+com.particlenews.newsbreak,false,false,,0,false,true,com.particlenews.newsbreak:id/imv_profile,false,,[63;120][117;156],false,false,false,2,,android.widget.ImageView,false,false
+com.particlenews.newsbreak,false,false,,1,false,true,com.particlenews.newsbreak:id/app_header_txt,false,,[180;100][511;175],false,false,false,3,News Break,android.widget.TextView,false,false
+com.particlenews.newsbreak,false,false,,0,false,true,com.particlenews.newsbreak:id/imv_explore,false,,[840;111][894;165],false,false,false,4,,android.widget.ImageView,false,false
+com.particlenews.newsbreak,false,false,,0,false,true,com.particlenews.newsbreak:id/img_gift,false,,[960;111][1011;165],false,false,false,5,,android.widget.ImageView,false,false
+com.particlenews.newsbreak,false,false,,0,true,true,com.particlenews.newsbreak:id/navi_tabs,false,,[0;204][1080;324],false,false,false,6,,android.widget.HorizontalScrollView,true,false
+com.particlenews.newsbreak,false,true,,0,true,true,,false,,[0;204][2;324],false,false,false,7,,android.support.v7.app.ActionBar$a,false,false
+com.particlenews.newsbreak,false,true,,1,true,true,,false,,[2;204][226;324],false,false,false,8,,android.support.v7.app.ActionBar$a,false,true
+com.particlenews.newsbreak,false,false,,0,false,true,com.particlenews.newsbreak:id/title,false,,[17;234][211;294],false,false,false,9,For You,android.widget.TextView,false,true
+com.particlenews.newsbreak,false,true,,2,true,true,,false,,[226;204][548;324],false,false,false,10,,android.support.v7.app.ActionBar$a,false,false
+com.particlenews.newsbreak,false,false,,0,false,true,com.particlenews.newsbreak:id/title,false,,[241;234][533;294],false,false,false,11,Coronavirus,android.widget.TextView,false,false
+com.particlenews.newsbreak,false,true,,3,true,true,,false,,[548;204][855;324],false,false,false,12,,android.support.v7.app.ActionBar$a,false,false
+com.particlenews.newsbreak,false,false,,0,false,true,com.particlenews.newsbreak:id/title,false,,[563;234][840;294],false,false,false,13,Local News,android.widget.TextView,false,false
+com.particlenews.newsbreak,false,true,,4,true,true,,false,,[855;204][1080;324],false,false,false,14,,android.support.v7.app.ActionBar$a,false,false
+com.particlenews.newsbreak,false,false,,0,false,true,com.particlenews.newsbreak:id/title,false,,[870;234][1080;294],false,false,false,15,Headlines,android.widget.TextView,false,false
+com.particlenews.newsbreak,false,false,,1,true,true,com.particlenews.newsbreak:id/navi_pager,false,,[0;324][1080;1776],false,false,false,16,,android.support.v4.view.ViewPager,true,false
+com.particlenews.newsbreak,false,false,,1,false,true,com.particlenews.newsbreak:id/fragment_swipe_refresh,false,,[0;324][1080;1776],false,false,false,17,,android.view.ViewGroup,false,false
+com.particlenews.newsbreak,false,false,,0,true,true,com.particlenews.newsbreak:id/list,false,,[0;324][1080;1776],true,false,false,18,,android.support.v7.widget.RecyclerView,true,false
+com.particlenews.newsbreak,false,false,,0,false,true,com.particlenews.newsbreak:id/ivChannel,false,,[30;354][72;396],false,false,false,19,,android.widget.ImageView,false,false
+com.particlenews.newsbreak,false,false,,1,false,true,com.particlenews.newsbreak:id/txtChannel,false,,[87;354][322;399],false,false,false,20,Mountain View,android.widget.TextView,false,false
+com.particlenews.newsbreak,false,false,,0,false,true,com.particlenews.newsbreak:id/news_title,false,,[30;429][630;591],false,false,false,21,Mountain View police search for 2 suspects in attempted car theft,android.widget.TextView,false,false
+com.particlenews.newsbreak,false,false,,1,false,true,,false,,[30;591][33;594],false,false,false,22,,android.view.View,false,false
+com.particlenews.newsbreak,false,false,,0,false,true,com.particlenews.newsbreak:id/news_source,false,,[30;626][279;664],false,false,false,23,KRON4 News - 12h,android.widget.TextView,false,false
+com.particlenews.newsbreak,false,false,,1,false,true,com.particlenews.newsbreak:id/txtCommentCount,false,,[279;624][375;666],false,false,false,24,2,android.widget.TextView,false,false
+com.particlenews.newsbreak,false,false,,0,false,true,com.particlenews.newsbreak:id/click_absorber,false,,[540;399][648;588],false,false,false,25,,android.view.View,false,false
+com.particlenews.newsbreak,false,true,,1,true,true,com.particlenews.newsbreak:id/negativeFeedbackBtn,true,false,[540;588][648;696],false,false,false,26,,android.widget.ImageView,false,false
+com.particlenews.newsbreak,false,false,,0,false,true,com.particlenews.newsbreak:id/news_image,false,,[678;429][1050;666],false,false,false,27,,android.widget.ImageView,false,false
+com.particlenews.newsbreak,false,false,,2,false,true,com.particlenews.newsbreak:id/divider,false,,[0;708][1080;711],false,false,false,28,,android.view.View,false,false
+com.particlenews.newsbreak,false,false,,0,false,true,com.particlenews.newsbreak:id/ivChannel,false,,[30;741][72;783],false,false,false,29,,android.widget.ImageView,false,false
+com.particlenews.newsbreak,false,false,,1,false,true,com.particlenews.newsbreak:id/txtChannel,false,,[87;741][175;786],false,false,false,30,News,android.widget.TextView,false,false
+com.particlenews.newsbreak,false,false,,0,false,true,com.particlenews.newsbreak:id/news_title,false,,[30;816][630;978],false,false,false,31,Santa Clara County families to receive $1;000 monthly in guaranteed income program,android.widget.TextView,false,false
+com.particlenews.newsbreak,false,false,,1,false,true,,false,,[30;978][33;981],false,false,false,32,,android.view.View,false,false
+com.particlenews.newsbreak,false,false,,0,false,true,com.particlenews.newsbreak:id/news_source,false,,[30;1013][251;1051],false,false,false,33,KTVU FOX 2 - 1d,android.widget.TextView,false,false
+com.particlenews.newsbreak,false,false,,1,false,true,com.particlenews.newsbreak:id/txtCommentCount,false,,[251;1011][349;1053],false,false,false,34,11,android.widget.TextView,false,false
+com.particlenews.newsbreak,false,false,,0,false,true,com.particlenews.newsbreak:id/click_absorber,false,,[540;786][648;975],false,false,false,35,,android.view.View,false,false
+com.particlenews.newsbreak,false,true,,1,true,true,com.particlenews.newsbreak:id/negativeFeedbackBtn,true,false,[540;975][648;1083],false,false,false,36,,android.widget.ImageView,false,false
+com.particlenews.newsbreak,false,false,,0,false,true,com.particlenews.newsbreak:id/news_image,false,,[678;816][1050;1053],false,false,false,37,,android.widget.ImageView,false,false
+com.particlenews.newsbreak,false,false,,2,false,true,com.particlenews.newsbreak:id/divider,false,,[0;1095][1080;1098],false,false,false,38,,android.view.View,false,false
+com.particlenews.newsbreak,false,false,,0,false,true,com.particlenews.newsbreak:id/ivChannel,false,,[30;1128][72;1170],false,false,false,39,,android.widget.ImageView,false,false
+com.particlenews.newsbreak,false,false,,1,false,true,com.particlenews.newsbreak:id/txtChannel,false,,[87;1128][175;1173],false,false,false,40,News,android.widget.TextView,false,false
+com.particlenews.newsbreak,false,false,,0,false,true,com.particlenews.newsbreak:id/news_title,false,,[30;1203][630;1314],false,false,false,41,Sunnyvale man dies day after crash on Highway 237,android.widget.TextView,false,false
+com.particlenews.newsbreak,false,false,,1,false,true,,false,,[30;1314][33;1372],false,false,false,42,,android.view.View,false,false
+com.particlenews.newsbreak,false,false,,0,false,true,com.particlenews.newsbreak:id/news_source,false,,[30;1402][351;1440],false,false,false,43,CBS San Francisco - 14h,android.widget.TextView,false,false
+com.particlenews.newsbreak,false,false,,0,false,true,com.particlenews.newsbreak:id/click_absorber,false,,[540;1173][648;1362],false,false,false,44,,android.view.View,false,false
+com.particlenews.newsbreak,false,true,,1,true,true,com.particlenews.newsbreak:id/negativeFeedbackBtn,true,false,[540;1362][648;1470],false,false,false,45,,android.widget.ImageView,false,false
+com.particlenews.newsbreak,false,false,,0,false,true,com.particlenews.newsbreak:id/news_image,false,,[678;1203][1050;1440],false,false,false,46,,android.widget.ImageView,false,false
+com.particlenews.newsbreak,false,false,,2,false,true,com.particlenews.newsbreak:id/divider,false,,[0;1482][1080;1485],false,false,false,47,,android.view.View,false,false
+com.particlenews.newsbreak,false,false,,0,false,true,com.particlenews.newsbreak:id/ivChannel,false,,[30;1515][72;1557],false,false,false,48,,android.widget.ImageView,false,false
+com.particlenews.newsbreak,false,false,,1,false,true,com.particlenews.newsbreak:id/txtChannel,false,,[87;1515][175;1560],false,false,false,49,News,android.widget.TextView,false,false
+com.particlenews.newsbreak,false,false,,0,false,true,com.particlenews.newsbreak:id/news_title,false,,[30;1590][630;1752],false,false,false,50,Californians receiving inflation relief payments; but confusion arises about cards and issuing bank,android.widget.TextView,false,false
+com.particlenews.newsbreak,false,false,,1,false,true,,false,,[30;1752][33;1755],false,false,false,51,,android.view.View,false,false
+com.particlenews.newsbreak,false,false,,0,false,true,com.particlenews.newsbreak:id/click_absorber,false,,[540;1560][648;1749],false,false,false,52,,android.view.View,false,false
+com.particlenews.newsbreak,false,true,,1,true,true,com.particlenews.newsbreak:id/negativeFeedbackBtn,true,false,[540;1749][648;1776],false,false,false,53,,android.widget.ImageView,false,false
+com.particlenews.newsbreak,false,false,,0,false,true,com.particlenews.newsbreak:id/news_image,false,,[678;1590][1050;1776],false,false,false,54,,android.widget.ImageView,false,false
+com.particlenews.newsbreak,false,false,,1,false,true,android:id/statusBarBackground,false,,[0;0][1080;72],false,false,false,55,,android.view.View,false,false
+com.particlenews.newsbreak,false,false,,2,false,true,android:id/navigationBarBackground,false,,[0;0][0;0],false,false,false,56,,android.view.View,false,false

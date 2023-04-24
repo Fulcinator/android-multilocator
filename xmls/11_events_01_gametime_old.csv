@@ -1,0 +1,31 @@
+package,checkable,clickable,content-desc,index,focusable,enabled,resource-id,password,NAF,bounds,focused,checked,long-clickable,progress,text,class,scrollable,selected
+com.gametime.gametime,false,false,,0,false,true,com.gametime.gametime:id/homeCoordinatorLayout,false,,[0;72][1080;1776],false,false,false,0,,android.view.ViewGroup,false,false
+com.gametime.gametime,false,false,,0,false,true,com.gametime.gametime:id/toolbar_actionbar,false,,[0;72][1080;240],false,false,false,1,,android.view.ViewGroup,false,false
+com.gametime.gametime,false,false,,0,false,true,com.gametime.gametime:id/id_title_text,false,,[48;119][138;192],false,false,false,2,Sell,android.widget.TextView,false,false
+com.gametime.gametime,false,false,,1,false,true,,false,,[138;72][1080;240],false,false,false,3,,android.view.View,false,false
+com.gametime.gametime,false,false,,0,true,true,com.gametime.gametime:id/scroll_view,false,,[0;240][1080;1776],false,false,false,4,,android.widget.ScrollView,false,false
+com.gametime.gametime,false,false,,0,false,true,com.gametime.gametime:id/available_tickets_to_sell_title,false,,[72;312][1008;361],false,false,false,5,ADD TICKETS TO SELL,android.widget.TextView,false,false
+com.gametime.gametime,false,false,,1,true,true,com.gametime.gametime:id/available_sell_recycler_view,false,,[24;409][1056;937],false,false,false,6,,android.support.v7.widget.RecyclerView,true,false
+com.gametime.gametime,false,false,,0,false,true,com.gametime.gametime:id/icon,false,,[108;457][180;583],false,false,false,7,,android.widget.ImageView,false,false
+com.gametime.gametime,false,false,,1,false,true,com.gametime.gametime:id/title,false,,[108;607][516;680],false,false,false,8,Sell Stress-Free,android.widget.TextView,false,false
+com.gametime.gametime,false,false,,2,false,true,com.gametime.gametime:id/description,false,,[108;704][516;855],false,false,false,9,We constantly update the price to maximize your payout.,android.widget.TextView,false,false
+com.gametime.gametime,false,false,,0,false,true,com.gametime.gametime:id/icon,false,,[636;457][756;583],false,false,false,10,,android.widget.ImageView,false,false
+com.gametime.gametime,false,false,,1,false,true,com.gametime.gametime:id/title,false,,[636;607][1044;680],false,false,false,11,Snap and Sell,android.widget.TextView,false,false
+com.gametime.gametime,false,false,,2,false,true,com.gametime.gametime:id/description,false,,[636;704][1044;805],false,false,false,12,Just take a picture of your ticket. That's it!,android.widget.TextView,false,false
+com.gametime.gametime,false,false,,0,false,true,com.gametime.gametime:id/upload_icon,false,,[360;1039][432;1111],false,false,false,13,,android.widget.ImageView,false,false
+com.gametime.gametime,false,false,,1,false,true,com.gametime.gametime:id/upload_tickets,false,,[480;1044][719;1105],false,false,false,14,Add Tickets,android.widget.TextView,false,false
+com.gametime.gametime,false,false,,2,true,true,com.gametime.gametime:id/tabs,false,,[0;1608][1080;1776],false,false,false,15,,android.widget.HorizontalScrollView,false,false
+com.gametime.gametime,false,true,,0,true,true,,false,,[0;1608][270;1776],false,false,false,16,,android.support.v7.app.ActionBar$c,false,false
+com.gametime.gametime,false,false,,0,false,true,com.gametime.gametime:id/tab_icon,false,,[99;1630][171;1705],false,false,false,17,,android.widget.ImageView,false,false
+com.gametime.gametime,false,false,,1,false,true,com.gametime.gametime:id/tab_title,false,,[104;1705][165;1754],false,false,false,18,Buy,android.widget.TextView,false,false
+com.gametime.gametime,false,true,,1,true,true,,false,,[270;1608][540;1776],false,false,false,19,,android.support.v7.app.ActionBar$c,false,true
+com.gametime.gametime,false,false,,0,false,true,com.gametime.gametime:id/tab_icon,false,,[369;1631][441;1703],false,false,false,20,,android.widget.ImageView,false,false
+com.gametime.gametime,false,false,,1,false,true,com.gametime.gametime:id/tab_title,false,,[374;1703][435;1752],false,false,false,21,Sell,android.widget.TextView,false,false
+com.gametime.gametime,false,true,,2,true,true,,false,,[540;1608][810;1776],false,false,false,22,,android.support.v7.app.ActionBar$c,false,false
+com.gametime.gametime,false,false,,0,false,true,com.gametime.gametime:id/tab_icon,false,,[639;1631][711;1703],false,false,false,23,,android.widget.ImageView,false,false
+com.gametime.gametime,false,false,,1,false,true,com.gametime.gametime:id/tab_title,false,,[614;1703][735;1752],false,false,false,24,Friends,android.widget.TextView,false,false
+com.gametime.gametime,false,true,,3,true,true,,false,,[810;1608][1080;1776],false,false,false,25,,android.support.v7.app.ActionBar$c,false,false
+com.gametime.gametime,false,false,,0,false,true,com.gametime.gametime:id/tab_icon,false,,[909;1631][981;1703],false,false,false,26,,android.widget.ImageView,false,false
+com.gametime.gametime,false,false,,1,false,true,com.gametime.gametime:id/tab_title,false,,[855;1703][1034;1752],false,false,false,27,My Tickets,android.widget.TextView,false,false
+com.gametime.gametime,false,false,,1,false,true,android:id/statusBarBackground,false,,[0;0][1080;72],false,false,false,28,,android.view.View,false,false
+com.gametime.gametime,false,false,,2,false,true,android:id/navigationBarBackground,false,,[0;0][0;0],false,false,false,29,,android.view.View,false,false

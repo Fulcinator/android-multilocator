@@ -1,0 +1,57 @@
+package,checkable,clickable,content-desc,index,focusable,enabled,resource-id,password,NAF,bounds,focused,checked,long-clickable,progress,text,class,scrollable,selected
+com.thetransitapp.droid,false,false,,0,false,true,com.thetransitapp.droid:id/dragToDismissLayout,false,,[0;0][1080;1776],false,false,false,0,,android.view.ViewGroup,false,false
+com.thetransitapp.droid,false,false,,0,false,true,,false,,[15;639][195;705],false,false,false,1,,android.widget.ImageView,false,false
+com.thetransitapp.droid,false,true,Google Map,1,true,true,,false,,[0;0][1080;1332],false,false,false,2,,android.view.View,false,false
+com.thetransitapp.droid,false,false,,0,true,true,com.thetransitapp.droid:id/routes_recycler,false,,[0;0][1080;1776],false,false,false,3,,androidx.recyclerview.widget.RecyclerView,true,false
+com.thetransitapp.droid,false,false,,0,false,true,com.thetransitapp.droid:id/routeItemContent,false,,[0;900][1080;1200],false,false,false,4,,android.view.ViewGroup,false,false
+com.thetransitapp.droid,false,false,,0,true,true,com.thetransitapp.droid:id/pager,false,,[0;900][1080;1182],false,false,false,5,,androidx.recyclerview.widget.RecyclerView,true,false
+com.thetransitapp.droid,false,false,,0,false,true,,false,,[0;900][1080;1182],false,false,false,6,,android.view.ViewGroup,false,false
+com.thetransitapp.droid,false,false,,0,false,true,com.thetransitapp.droid:id/routeDirectionImg,false,,[36;1060][78;1102],false,false,false,7,,android.widget.ImageView,false,false
+com.thetransitapp.droid,false,false,,1,false,true,com.thetransitapp.droid:id/routeName,false,,[93;1054][432;1108],false,false,false,8,Foothill College,android.widget.TextView,false,false
+com.thetransitapp.droid,false,false,,2,false,true,com.thetransitapp.droid:id/routeNamePadding,false,,[27;1108][1080;1120],false,false,false,9,,android.view.View,false,false
+com.thetransitapp.droid,false,false,,0,false,true,com.thetransitapp.droid:id/routeItemMinuteInclude,false,,[924;965][1080;1117],false,false,false,10,,android.view.ViewGroup,false,false
+com.thetransitapp.droid,false,false,,0,false,true,com.thetransitapp.droid:id/routeTime,false,,[924;971][1024;1084],false,false,false,11,14,android.widget.TextView,false,false
+com.thetransitapp.droid,false,false,,1,false,true,com.thetransitapp.droid:id/routeRealtimeSymbol,false,,[1021;965][1051;995],false,false,false,12,,android.widget.ImageView,false,false
+com.thetransitapp.droid,false,false,,2,false,true,com.thetransitapp.droid:id/routeMinutes,false,,[924;1081][1023;1114],false,false,false,13,minutes,android.widget.TextView,false,false
+com.thetransitapp.droid,false,false,,4,false,true,com.thetransitapp.droid:id/routeStopName,false,,[36;1120][373;1161],false,false,false,14,Charleston / Google,android.widget.TextView,false,false
+com.thetransitapp.droid,false,false,,1,false,true,com.thetransitapp.droid:id/pagination,false,,[0;924][1080;954],false,false,false,15,,android.widget.ImageView,false,false
+com.thetransitapp.droid,false,false,40 40,2,false,true,com.thetransitapp.droid:id/serviceNameView,false,,[30;918][196;1050],false,false,false,16,,android.view.ViewGroup,false,false
+com.thetransitapp.droid,false,false,,0,false,true,com.thetransitapp.droid:id/name,false,,[30;918][196;1050],false,false,false,17,40,android.widget.TextView,false,false
+com.thetransitapp.droid,false,false,,0,false,true,com.thetransitapp.droid:id/routeItemContent,false,,[0;1200][1080;1500],false,false,false,18,,android.view.ViewGroup,false,false
+com.thetransitapp.droid,false,false,,0,true,true,com.thetransitapp.droid:id/pager,false,,[0;1200][1080;1482],false,false,false,19,,androidx.recyclerview.widget.RecyclerView,true,false
+com.thetransitapp.droid,false,false,,0,false,true,,false,,[0;1200][1080;1482],false,false,false,20,,android.view.ViewGroup,false,false
+com.thetransitapp.droid,false,false,,0,false,true,com.thetransitapp.droid:id/routeDirectionImg,false,,[36;1360][78;1402],false,false,false,21,,android.widget.ImageView,false,false
+com.thetransitapp.droid,false,false,,1,false,true,com.thetransitapp.droid:id/routeName,false,,[93;1354][426;1408],false,false,false,22,Orange Shuttle,android.widget.TextView,false,false
+com.thetransitapp.droid,false,false,,2,false,true,com.thetransitapp.droid:id/routeNamePadding,false,,[27;1408][1080;1420],false,false,false,23,,android.view.View,false,false
+com.thetransitapp.droid,false,false,,0,false,true,com.thetransitapp.droid:id/routeItemMinuteInclude,false,,[924;1265][1080;1417],false,false,false,24,,android.view.ViewGroup,false,false
+com.thetransitapp.droid,false,false,,0,false,true,com.thetransitapp.droid:id/routeTime,false,,[924;1271][1038;1384],false,false,false,25,82,android.widget.TextView,false,false
+com.thetransitapp.droid,false,false,,1,false,true,com.thetransitapp.droid:id/routeMinutes,false,,[924;1381][1023;1414],false,false,false,26,minutes,android.widget.TextView,false,false
+com.thetransitapp.droid,false,false,,4,false,true,com.thetransitapp.droid:id/routeStopName,false,,[36;1420][373;1461],false,false,false,27,Charleston / Google,android.widget.TextView,false,false
+com.thetransitapp.droid,false,false,,1,false,true,com.thetransitapp.droid:id/pagination,false,,[0;1224][1080;1254],false,false,false,28,,android.widget.ImageView,false,false
+com.thetransitapp.droid,false,false,ACE Orange ACE Orange,2,false,true,com.thetransitapp.droid:id/serviceNameView,false,,[30;1218][713;1350],false,false,false,29,,android.view.ViewGroup,false,false
+com.thetransitapp.droid,false,false,,0,false,true,com.thetransitapp.droid:id/name,false,,[30;1218][713;1350],false,false,false,30,ACE Orange,android.widget.TextView,false,false
+com.thetransitapp.droid,false,false,,0,false,true,com.thetransitapp.droid:id/routeItemContent,false,,[0;1500][1080;1776],false,false,false,31,,android.view.ViewGroup,false,false
+com.thetransitapp.droid,false,false,,0,true,true,com.thetransitapp.droid:id/pager,false,,[0;1500][1080;1776],false,false,false,32,,androidx.recyclerview.widget.RecyclerView,false,false
+com.thetransitapp.droid,false,false,,0,false,true,,false,,[0;1500][1080;1776],false,false,false,33,,android.view.ViewGroup,false,false
+com.thetransitapp.droid,false,false,,0,false,true,com.thetransitapp.droid:id/routeDirectionImg,false,,[36;1660][78;1702],false,false,false,34,,android.widget.ImageView,false,false
+com.thetransitapp.droid,false,false,,1,false,true,com.thetransitapp.droid:id/routeName,false,,[93;1654][743;1708],false,false,false,35,Mountain View Transit Center,android.widget.TextView,false,false
+com.thetransitapp.droid,false,false,,2,false,true,com.thetransitapp.droid:id/routeNamePadding,false,,[27;1708][1080;1720],false,false,false,36,,android.view.View,false,false
+com.thetransitapp.droid,false,false,,0,false,true,com.thetransitapp.droid:id/routeItemMinuteInclude,false,,[924;1565][1080;1717],false,false,false,37,,android.view.ViewGroup,false,false
+com.thetransitapp.droid,false,false,,0,false,true,com.thetransitapp.droid:id/routeTime,false,,[924;1571][1021;1684],false,false,false,38,13,android.widget.TextView,false,false
+com.thetransitapp.droid,false,false,,1,false,true,com.thetransitapp.droid:id/routeRealtimeSymbol,false,,[1018;1565][1048;1595],false,false,false,39,,android.widget.ImageView,false,false
+com.thetransitapp.droid,false,false,,2,false,true,com.thetransitapp.droid:id/routeMinutes,false,,[924;1681][1023;1714],false,false,false,40,minutes,android.widget.TextView,false,false
+com.thetransitapp.droid,false,false,,4,false,true,com.thetransitapp.droid:id/routeStopName,false,,[36;1720][415;1761],false,false,false,41,Stierlin Court (Google),android.widget.TextView,false,false
+com.thetransitapp.droid,false,false,,1,false,true,com.thetransitapp.droid:id/pagination,false,,[0;1524][1080;1554],false,false,false,42,,android.widget.ImageView,false,false
+com.thetransitapp.droid,false,false,B B,2,false,true,com.thetransitapp.droid:id/serviceNameView,false,,[30;1518][115;1650],false,false,false,43,,android.view.ViewGroup,false,false
+com.thetransitapp.droid,false,false,,0,false,true,com.thetransitapp.droid:id/name,false,,[30;1518][115;1650],false,false,false,44,B,android.widget.TextView,false,false
+com.thetransitapp.droid,false,false,,0,false,true,com.thetransitapp.droid:id/shadow_line_view,false,,[0;879][1080;888],false,false,false,45,,android.view.View,false,false
+com.thetransitapp.droid,false,false,Settings,0,true,true,com.thetransitapp.droid:id/settingsContainer,false,,[54;120][222;288],false,false,false,46,,android.widget.ImageButton,false,false
+com.thetransitapp.droid,false,true,,3,true,true,com.thetransitapp.droid:id/floating_search_bar,false,,[72;738][1008;906],false,false,false,47,,android.view.ViewGroup,false,false
+com.thetransitapp.droid,false,true,Search for a transit line or destination to plan a trip,0,true,true,com.thetransitapp.droid:id/search_container_layout,false,,[72;738][834;906],false,false,false,48,,android.view.View,false,false
+com.thetransitapp.droid,false,false,,1,false,true,com.thetransitapp.droid:id/leftImage,false,,[120;797][174;851],false,false,false,49,,android.widget.ImageView,false,false
+com.thetransitapp.droid,false,false,,2,false,true,com.thetransitapp.droid:id/title,false,,[198;787][471;854],false,false,false,50,Where to?,android.widget.TextView,false,false
+com.thetransitapp.droid,false,false,,3,false,true,com.thetransitapp.droid:id/rightDivider,false,,[831;762][834;882],false,false,false,51,,android.view.View,false,false
+com.thetransitapp.droid,false,false,,0,false,true,com.thetransitapp.droid:id/eta_logo,false,,[888;786][954;852],false,false,false,52,,android.widget.ImageView,false,false
+com.thetransitapp.droid,false,false,Set your home address to get directions.,1,false,true,com.thetransitapp.droid:id/favorite_missing,false,,[927;828][954;858],false,false,false,53,,android.widget.ImageView,false,false
+com.thetransitapp.droid,false,false,,1,false,true,android:id/statusBarBackground,false,,[0;0][1080;72],false,false,false,54,,android.view.View,false,false
+com.thetransitapp.droid,false,false,,2,false,true,android:id/navigationBarBackground,false,,[0;0][0;0],false,false,false,55,,android.view.View,false,false

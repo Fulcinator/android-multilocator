@@ -1,0 +1,50 @@
+package,checkable,clickable,content-desc,index,focusable,enabled,resource-id,password,NAF,bounds,focused,checked,long-clickable,progress,text,class,scrollable,selected
+com.foxsports.android,false,false,,0,false,true,,false,,[0;0][1080;1776],false,false,false,0,,android.view.ViewGroup,false,false
+com.foxsports.android,false,false,,0,false,true,com.foxsports.android:id/toolbar_main,false,,[0;72][1080;240],false,false,false,1,,android.view.ViewGroup,false,false
+com.foxsports.android,false,true,,0,true,true,com.foxsports.android:id/fs_logo,true,false,[48;118][201;193],false,false,false,2,,android.widget.ImageView,false,false
+com.foxsports.android,false,true,Search,0,true,true,com.foxsports.android:id/menu_item_for_you_search,false,,[792;84][936;228],false,false,false,3,,android.widget.TextView,false,false
+com.foxsports.android,false,true,Account,1,true,true,com.foxsports.android:id/menu_item_for_you_account,false,,[936;84][1080;228],false,false,false,4,,android.widget.TextView,false,false
+com.foxsports.android,false,false,,1,false,true,,false,,[0;240][1080;1608],false,false,false,5,,android.view.ViewGroup,false,false
+com.foxsports.android,false,false,,0,false,true,com.foxsports.android:id/for_you_feed_swipe_refresh,false,,[0;240][1080;1608],false,false,false,6,,android.view.ViewGroup,false,false
+com.foxsports.android,false,false,,0,false,true,,false,,[0;240][1080;1608],false,false,false,7,,android.view.ViewGroup,false,false
+com.foxsports.android,false,false,,0,true,true,com.foxsports.android:id/for_you_content_recycler,false,,[0;240][1080;1608],false,false,false,8,,androidx.recyclerview.widget.RecyclerView,true,false
+com.foxsports.android,false,false,,0,false,true,com.foxsports.android:id/for_you_nav_bars_carousel_container,false,,[0;276][1080;405],false,false,false,9,,android.view.ViewGroup,false,false
+com.foxsports.android,false,false,,0,true,true,com.foxsports.android:id/nav_bars_carousel_list,false,,[0;276][1080;366],true,false,false,10,,androidx.recyclerview.widget.RecyclerView,true,false
+com.foxsports.android,false,true,,0,true,true,com.foxsports.android:id/explore_nav_bar_pill,false,,[72;276][277;366],false,false,false,11,NFL,android.widget.Button,false,false
+com.foxsports.android,false,true,,1,true,true,com.foxsports.android:id/explore_nav_bar_pill,false,,[301;276][568;366],false,false,false,12,NCAAFB,android.widget.Button,false,false
+com.foxsports.android,false,true,,2,true,true,com.foxsports.android:id/explore_nav_bar_pill,false,,[592;276][1080;366],false,false,false,13,FIFA WORLD CUP 2022™,android.widget.Button,false,false
+com.foxsports.android,false,false,,1,false,true,com.foxsports.android:id/nav_bars_carousel_list_bot_divider,false,,[0;402][1080;405],false,false,false,14,,android.view.View,false,false
+com.foxsports.android,false,false,,0,true,true,com.foxsports.android:id/story_cards_carousel_list,false,,[0;453][1080;1608],false,false,false,15,,androidx.recyclerview.widget.RecyclerView,true,false
+com.foxsports.android,false,true,,0,true,true,,false,,[72;453][762;1608],false,false,false,16,,androidx.cardview.widget.CardView,false,false
+com.foxsports.android,false,false,,0,false,true,,false,,[72;453][762;1608],false,false,false,17,,android.view.ViewGroup,false,false
+com.foxsports.android,false,false,,0,false,true,com.foxsports.android:id/story_card_image,false,,[72;453][762;1608],false,false,false,18,,android.widget.ImageView,false,false
+com.foxsports.android,false,false,,1,false,true,,false,,[72;1199][762;1608],false,false,false,19,,android.view.View,false,false
+com.foxsports.android,false,false,,2,false,true,com.foxsports.android:id/story_headline,false,,[132;1199][702;1530],false,false,false,20,WORLD CUP 2022 HIGHLIGHTS: BELGIUM BOUNCED AFTER DRAW WITH CROATIA,android.widget.TextView,false,false
+com.foxsports.android,false,false,,3,false,true,com.foxsports.android:id/story_update_time,false,,[132;1566][380;1605],false,false,false,21,11 MINUTES AGO,android.widget.TextView,false,false
+com.foxsports.android,false,true,,1,true,true,,false,,[822;453][1080;1608],false,false,false,22,,androidx.cardview.widget.CardView,false,false
+com.foxsports.android,false,false,,0,false,true,,false,,[822;453][1080;1608],false,false,false,23,,android.view.ViewGroup,false,false
+com.foxsports.android,false,false,,0,false,true,com.foxsports.android:id/story_card_image,false,,[822;453][1080;1608],false,false,false,24,,android.widget.ImageView,false,false
+com.foxsports.android,false,false,,1,false,true,,false,,[822;1199][1080;1608],false,false,false,25,,android.view.View,false,false
+com.foxsports.android,false,false,,2,false,true,com.foxsports.android:id/story_headline,false,,[882;1199][1080;1530],false,false,false,26,WORLD CUP GROUP SCENARIOS: WHAT DOES EACH TEAM NEED TO ADVANCE?,android.widget.TextView,false,false
+com.foxsports.android,false,false,,3,false,true,com.foxsports.android:id/story_update_time,false,,[882;1566][1073;1605],false,false,false,27,1 HOUR AGO,android.widget.TextView,false,false
+com.foxsports.android,false,false,,1,false,true,com.foxsports.android:id/bottom_nav_wrapper,false,,[0;1608][1080;1776],false,false,false,28,,android.view.ViewGroup,false,false
+com.foxsports.android,false,false,,0,false,true,,false,,[0;1608][1080;1776],false,false,false,29,,android.view.ViewGroup,false,false
+com.foxsports.android,false,false,,0,false,true,com.foxsports.android:id/icon,false,,[72;1632][144;1704],false,false,false,30,,android.widget.ImageView,false,true
+com.foxsports.android,false,false,,1,false,true,,false,,[57;1707][159;1776],false,false,false,31,,android.view.ViewGroup,false,true
+com.foxsports.android,false,false,,0,false,true,com.foxsports.android:id/largeLabel,false,,[57;1707][159;1756],false,false,false,32,Home,android.widget.TextView,false,true
+com.foxsports.android,false,false,,0,false,true,com.foxsports.android:id/icon,false,,[288;1632][360;1704],false,false,false,33,,android.widget.ImageView,false,false
+com.foxsports.android,false,false,,1,false,true,,false,,[265;1707][382;1776],false,false,false,34,,android.view.ViewGroup,false,false
+com.foxsports.android,false,false,,0,false,true,com.foxsports.android:id/smallLabel,false,,[265;1707][382;1756],false,false,false,35,Scores,android.widget.TextView,false,false
+com.foxsports.android,false,false,,0,false,true,com.foxsports.android:id/icon,false,,[504;1632][576;1704],false,false,false,36,,android.widget.ImageView,false,false
+com.foxsports.android,false,false,,1,false,true,,false,,[486;1707][593;1776],false,false,false,37,,android.view.ViewGroup,false,false
+com.foxsports.android,false,false,,0,false,true,com.foxsports.android:id/smallLabel,false,,[486;1707][593;1756],false,false,false,38,Watch,android.widget.TextView,false,false
+com.foxsports.android,false,false,,0,false,true,com.foxsports.android:id/icon,false,,[720;1632][792;1704],false,false,false,39,,android.widget.ImageView,false,false
+com.foxsports.android,false,false,,1,false,true,,false,,[712;1707][800;1776],false,false,false,40,,android.view.ViewGroup,false,false
+com.foxsports.android,false,false,,0,false,true,com.foxsports.android:id/smallLabel,false,,[712;1707][800;1756],false,false,false,41,Odds,android.widget.TextView,false,false
+com.foxsports.android,false,false,,0,false,true,com.foxsports.android:id/icon,false,,[936;1632][1008;1704],false,false,false,42,,android.widget.ImageView,false,false
+com.foxsports.android,false,false,,1,false,true,,false,,[885;1707][1059;1776],false,false,false,43,,android.view.ViewGroup,false,false
+com.foxsports.android,false,false,,0,false,true,com.foxsports.android:id/smallLabel,false,,[885;1707][1059;1756],false,false,false,44,World Cup,android.widget.TextView,false,false
+com.foxsports.android,false,false,,1,false,true,com.foxsports.android:id/bottom_nav_divider,false,,[0;1608][1080;1611],false,false,false,45,,android.view.View,false,false
+com.foxsports.android,false,false,,0,false,true,com.foxsports.android:id/tooltip_title,false,,[277;1380][877;1442],false,false,false,46,,android.widget.TextView,false,false
+com.foxsports.android,false,false,,1,false,true,com.foxsports.android:id/tooltip_body,false,,[202;1457][952;1506],false,false,false,47,,android.widget.TextView,false,false
+com.foxsports.android,false,false,,1,false,true,android:id/navigationBarBackground,false,,[0;0][0;0],false,false,false,48,,android.view.View,false,false

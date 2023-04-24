@@ -1,0 +1,36 @@
+package,checkable,clickable,content-desc,index,focusable,enabled,resource-id,password,NAF,bounds,focused,checked,long-clickable,progress,text,class,scrollable,selected
+com.hp.printercontrol,false,false,,0,false,true,,false,,[0;72][1080;1776],false,false,false,0,,android.view.ViewGroup,false,false
+com.hp.printercontrol,false,false,,0,false,true,com.hp.printercontrol:id/topAppBar,false,,[0;72][1080;240],false,false,false,1,,android.view.ViewGroup,false,false
+com.hp.printercontrol,false,false,,0,false,true,,false,,[48;115][314;196],false,false,false,2,HP Smart,android.widget.TextView,false,false
+com.hp.printercontrol,false,true,Notifications,0,true,true,com.hp.printercontrol:id/action_notification,false,,[927;84][1080;228],false,false,false,3,,android.widget.Button,false,false
+com.hp.printercontrol,false,false,,0,false,true,com.hp.printercontrol:id/generic_swipe_container,false,,[0;240][1080;1776],false,false,false,4,,android.view.ViewGroup,false,false
+com.hp.printercontrol,false,false,,1,false,true,com.hp.printercontrol:id/home_layout,false,,[0;240][1080;1776],false,false,false,5,,android.view.ViewGroup,false,false
+com.hp.printercontrol,false,false,,0,true,true,,false,,[0;240][1080;1776],false,false,false,6,,android.widget.ScrollView,true,false
+com.hp.printercontrol,false,false,,0,false,true,com.hp.printercontrol:id/carouselViewPager,false,,[0;240][1080;776],false,false,false,7,,androidx.viewpager.widget.ViewPager,true,false
+com.hp.printercontrol,false,false,,0,true,true,,false,,[0;240][1080;776],false,false,false,8,,androidx.recyclerview.widget.RecyclerView,false,false
+com.hp.printercontrol,false,true,,0,true,true,com.hp.printercontrol:id/carouselAddPrinterLayout,false,,[75;251][1005;752],false,false,false,9,,android.view.ViewGroup,false,false
+com.hp.printercontrol,false,false,Printer Info,0,false,true,com.hp.printercontrol:id/iconImageView,false,,[480;394][600;514],false,false,false,10,,android.widget.ImageView,false,false
+com.hp.printercontrol,false,false,,1,false,true,com.hp.printercontrol:id/addPrinterButton,false,,[99;544][981;609],false,false,false,11,Add Your First Printer,android.widget.TextView,false,false
+com.hp.printercontrol,false,false,,1,false,true,com.hp.printercontrol:id/my_recycler_view,false,,[0;825][1080;1583],false,false,false,12,,androidx.recyclerview.widget.RecyclerView,false,false
+com.hp.printercontrol,false,false,,0,false,true,com.hp.printercontrol:id/card_frame,false,,[108;903][480;1144],false,false,false,13,,android.view.ViewGroup,false,false
+com.hp.printercontrol,false,false,,0,false,true,com.hp.printercontrol:id/tile_image,false,,[108;903][276;1035],false,false,false,14,,android.widget.ImageView,false,false
+com.hp.printercontrol,false,false,,1,false,true,com.hp.printercontrol:id/tile_title,false,,[108;1035][374;1144],false,false,false,15,Camera Scan,android.widget.TextView,false,false
+com.hp.printercontrol,false,false,,0,false,true,com.hp.printercontrol:id/card_frame,false,,[600;903][972;1144],false,false,false,16,,android.view.ViewGroup,false,false
+com.hp.printercontrol,false,false,,0,false,true,com.hp.printercontrol:id/tile_image,false,,[600;903][734;1035],false,false,false,17,,android.widget.ImageView,false,false
+com.hp.printercontrol,false,false,,1,false,true,com.hp.printercontrol:id/tile_title,false,,[600;1035][851;1144],false,false,false,18,Print Photos,android.widget.TextView,false,false
+com.hp.printercontrol,false,false,,0,false,true,com.hp.printercontrol:id/card_frame,false,,[108;1264][480;1505],false,false,false,19,,android.view.ViewGroup,false,false
+com.hp.printercontrol,false,false,,0,false,true,com.hp.printercontrol:id/tile_image,false,,[108;1264][242;1396],false,false,false,20,,android.widget.ImageView,false,false
+com.hp.printercontrol,false,false,,1,false,true,com.hp.printercontrol:id/tile_title,false,,[108;1396][446;1505],false,false,false,21,Print Documents,android.widget.TextView,false,false
+com.hp.printercontrol,false,true,,2,true,true,com.hp.printercontrol:id/personalizeButton,false,,[298;1646][782;1776],false,false,false,22,Personalize Tiles,android.widget.Button,false,false
+com.hp.printercontrol,false,false,,0,false,true,,false,,[0;1608][1080;1776],false,false,false,23,,android.view.ViewGroup,false,false
+com.hp.printercontrol,false,false,,0,false,true,com.hp.printercontrol:id/navigation_bar_item_icon_view,false,,[144;1632][216;1704],false,false,false,24,,android.widget.ImageView,false,true
+com.hp.printercontrol,false,false,,1,false,true,com.hp.printercontrol:id/navigation_bar_item_labels_group,false,,[134;1714][226;1776],false,false,false,25,,android.view.ViewGroup,false,true
+com.hp.printercontrol,false,false,,0,false,true,com.hp.printercontrol:id/navigation_bar_item_large_label_view,false,,[134;1714][226;1755],false,false,false,26,Sign In,android.widget.TextView,false,true
+com.hp.printercontrol,false,false,,0,false,true,com.hp.printercontrol:id/navigation_bar_item_icon_view,false,,[504;1632][576;1704],false,false,false,27,,android.widget.ImageView,false,false
+com.hp.printercontrol,false,false,,1,false,true,com.hp.printercontrol:id/navigation_bar_item_labels_group,false,,[435;1714][644;1776],false,false,false,28,,android.view.ViewGroup,false,false
+com.hp.printercontrol,false,false,,0,false,true,com.hp.printercontrol:id/navigation_bar_item_small_label_view,false,,[435;1714][644;1755],false,false,false,29,Create Account,android.widget.TextView,false,false
+com.hp.printercontrol,false,false,,0,false,true,com.hp.printercontrol:id/navigation_bar_item_icon_view,false,,[864;1632][936;1704],false,false,false,30,,android.widget.ImageView,false,false
+com.hp.printercontrol,false,false,,1,false,true,com.hp.printercontrol:id/navigation_bar_item_labels_group,false,,[814;1714][986;1776],false,false,false,31,,android.view.ViewGroup,false,false
+com.hp.printercontrol,false,false,,0,false,true,com.hp.printercontrol:id/navigation_bar_item_small_label_view,false,,[814;1714][986;1755],false,false,false,32,App Settings,android.widget.TextView,false,false
+com.hp.printercontrol,false,false,,1,false,true,android:id/statusBarBackground,false,,[0;0][1080;72],false,false,false,33,,android.view.View,false,false
+com.hp.printercontrol,false,false,,2,false,true,android:id/navigationBarBackground,false,,[0;0][0;0],false,false,false,34,,android.view.View,false,false

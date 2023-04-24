@@ -1,0 +1,23 @@
+package,checkable,clickable,content-desc,index,focusable,enabled,resource-id,password,NAF,bounds,focused,checked,long-clickable,progress,text,class,scrollable,selected
+com.pinterest,false,false,,1,false,true,com.pinterest:id/coordinator,false,,[0;72][1080;1776],false,false,false,0,,android.view.ViewGroup,false,false
+com.pinterest,false,false,,0,false,true,,false,,[0;72][1080;1776],false,false,false,1,,android.view.ViewGroup,false,false
+com.pinterest,false,false,,0,true,true,com.pinterest.homeFeed:id/multi_tab_home_tab_bar,false,,[48;72][176;240],false,false,false,2,,android.widget.HorizontalScrollView,false,false
+com.pinterest,false,false,,0,false,true,,false,,[84;126][140;191],false,false,false,3,All,android.widget.TextView,false,true
+com.pinterest,false,false,,1,true,true,,false,,[0;240][1080;1776],false,false,false,4,,androidx.viewpager.widget.ViewPager,false,false
+com.pinterest,false,false,,0,false,true,com.pinterest.homeFeed:id/dynamic_home_container,false,,[0;240][1080;1776],false,false,false,5,,android.view.ViewGroup,false,false
+com.pinterest,false,false,,0,false,true,com.pinterest.homeFeed:id/homefeed_swipe_container,false,,[0;240][1080;1776],false,false,false,6,,android.view.ViewGroup,false,false
+com.pinterest,false,true,,0,true,true,com.pinterest:id/recycler_adapter_view,false,,[0;240][1080;1776],false,false,false,7,,androidx.recyclerview.widget.RecyclerView,true,false
+com.pinterest,false,true,Video pin from StoriesABC:; Title: This will make people with less hair look more beautiful.,0,true,true,com.pinterest:id/lego_pin_grid_cell_id,false,,[24;252][528;1244],false,false,false,8,,android.view.View,false,false
+com.pinterest,false,false,,0,false,true,com.pinterest:id/simple_exoplayer_view,false,,[24;252][528;1148],false,false,false,9,,android.view.View,false,false
+com.pinterest,false,true,Pin from 𝐴𝑏𝑒𝑛𝑐̧☆𝑎𝑑𝑎,1,true,true,com.pinterest:id/lego_pin_grid_cell_id,false,,[552;252][1056;964],false,false,false,10,,android.view.View,false,false
+com.pinterest,false,true,Pin from Felipe Alexandre,2,true,true,com.pinterest:id/lego_pin_grid_cell_id,false,,[24;1268][528;1776],false,false,false,11,,android.view.View,false,false
+com.pinterest,false,true,Pin from besti.it; Title: Mia nonna è pronta per combattere l'ISIS | BESTI.it - immagini divertenti; foto; barzellette; video,3,true,true,com.pinterest:id/lego_pin_grid_cell_id,false,,[552;988][1056;1740],false,false,false,12,,android.view.View,false,false
+com.pinterest,false,true,Pin from quadradosm; Title: Giannis Antetokounmpo NBA FINALS GAME 6,4,true,true,com.pinterest:id/lego_pin_grid_cell_id,false,,[552;1764][1056;1776],false,false,false,13,,android.view.View,false,false
+com.pinterest,false,false,,0,false,true,com.pinterest:id/tab_icon,false,,[120;1668][192;1740],false,false,false,14,,android.widget.ImageView,false,true
+com.pinterest,false,false,,0,false,true,com.pinterest:id/tab_icon,false,,[312;1668][384;1740],false,false,false,15,,android.widget.ImageView,false,false
+com.pinterest,false,false,,0,false,true,com.pinterest:id/tab_icon,false,,[504;1668][576;1740],false,false,false,16,,android.widget.ImageView,false,false
+com.pinterest,false,false,,0,false,true,com.pinterest:id/tab_icon,false,,[696;1668][768;1740],false,false,false,17,,android.widget.ImageView,false,false
+com.pinterest,false,false,,1,false,true,com.pinterest:id/empty_badge,false,,[753;1653][771;1671],false,false,false,18,,android.view.View,false,false
+com.pinterest,false,false,,0,false,true,com.pinterest:id/tab_icon,false,,[888;1668][960;1740],false,false,false,19,,android.widget.ImageView,false,false
+com.pinterest,false,false,,1,false,true,android:id/statusBarBackground,false,,[0;0][1080;72],false,false,false,20,,android.view.View,false,false
+com.pinterest,false,false,,2,false,true,android:id/navigationBarBackground,false,,[0;0][0;0],false,false,false,21,,android.view.View,false,false

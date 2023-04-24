@@ -1,0 +1,74 @@
+package,checkable,clickable,content-desc,index,focusable,enabled,resource-id,password,NAF,bounds,focused,checked,long-clickable,progress,text,class,scrollable,selected
+com.accuweather.android,false,false,,0,false,true,com.accuweather.android:id/content_area,false,,[0;72][1080;1776],false,false,false,0,,android.view.ViewGroup,false,false
+com.accuweather.android,false,false,,0,false,true,com.accuweather.android:id/toolbar,false,,[0;72][1080;240],false,false,false,1,,android.view.ViewGroup,false,false
+com.accuweather.android,false,true,Open navigation drawer,0,true,true,,false,,[0;72][168;240],false,false,false,2,,android.widget.ImageButton,false,false
+com.accuweather.android,false,false,,1,false,true,com.accuweather.android:id/global_toolbar,false,,[168;72][1080;240],false,false,false,3,,android.view.ViewGroup,false,false
+com.accuweather.android,false,true,,0,true,true,com.accuweather.android:id/location_button,false,,[168;72][936;240],false,false,false,4,Mountain View; CA,android.widget.Button,false,false
+com.accuweather.android,false,true,Visit the ABC 7 San Francisco Headlines website,1,true,true,com.accuweather.android:id/affiliate_logo,false,,[924;108][1020;204],false,false,false,5,,android.widget.ImageView,false,false
+com.accuweather.android,false,false,,1,false,true,com.accuweather.android:id/toolbar_devider,false,,[0;240][1080;243],false,false,false,6,,android.view.View,false,false
+com.accuweather.android,false,false,,0,false,true,com.accuweather.android:id/main_pager,false,,[0;240][1080;1776],false,false,false,7,,androidx.viewpager.widget.ViewPager,false,false
+com.accuweather.android,false,false,,0,true,true,,false,,[0;240][1080;1776],true,false,false,8,,androidx.recyclerview.widget.RecyclerView,true,false
+com.accuweather.android,false,false,,0,false,true,com.accuweather.android:id/refresh_swipe,false,,[0;240][1080;1776],false,false,false,9,,android.view.ViewGroup,false,false
+com.accuweather.android,false,false,,0,true,true,com.accuweather.android:id/scroll_view,false,,[0;240][1080;1608],false,false,false,10,,android.widget.ScrollView,true,false
+com.accuweather.android,false,false,,0,false,true,com.accuweather.android:id/content,false,,[0;240][1080;1608],false,false,false,11,,android.view.ViewGroup,false,false
+com.accuweather.android,false,true,,0,true,true,com.accuweather.android:id/summary,false,,[60;276][1020;349],false,false,false,12,Rain for at least 60 min,android.widget.TextView,false,false
+com.accuweather.android,false,true,,1,true,true,com.accuweather.android:id/dial,false,,[0;385][1080;1521],false,false,false,13,,android.view.ViewGroup,false,false
+com.accuweather.android,false,true,,0,true,true,com.accuweather.android:id/current_time,false,,[473;385][608;437],false,false,false,14,6:43 AM,android.widget.TextView,false,false
+com.accuweather.android,false,false,,1,false,true,com.accuweather.android:id/time_bar,false,,[539;437][542;473],false,false,false,15,,android.view.View,false,false
+com.accuweather.android,false,false,,2,false,true,com.accuweather.android:id/three_quarter_hour,false,,[54;877][90;921],false,false,false,16,45,android.widget.TextView,false,false
+com.accuweather.android,false,false,,3,false,true,com.accuweather.android:id/dial_frame,false,,[114;473][966;1325],false,false,false,17,,android.view.View,false,false
+com.accuweather.android,false,false,,0,false,true,com.accuweather.android:id/orbLayer,false,,[199;558][881;1240],false,false,false,18,,android.widget.ImageView,false,false
+com.accuweather.android,false,false,,1,false,true,com.accuweather.android:id/orbLayer2,false,,[199;558][881;1240],false,false,false,19,,android.widget.ImageView,false,false
+com.accuweather.android,false,false,Light Rain,5,false,true,com.accuweather.android:id/icon,false,,[456;601][624;769],false,false,false,20,,android.widget.ImageView,false,false
+com.accuweather.android,false,false,,6,false,true,com.accuweather.android:id/temperature,false,,[454;769][587;990],false,false,false,21,51,android.widget.TextView,false,false
+com.accuweather.android,false,false,,7,false,true,com.accuweather.android:id/degree_symbol,false,,[587;787][627;935],false,false,false,22,°,android.widget.TextView,false,false
+com.accuweather.android,false,false,,8,false,true,com.accuweather.android:id/temperature_unit,false,,[597;904][617;956],false,false,false,23,F,android.widget.TextView,false,false
+com.accuweather.android,false,false,,9,false,true,com.accuweather.android:id/quarter_hour,false,,[990;877][1020;921],false,false,false,24,15,android.widget.TextView,false,false
+com.accuweather.android,false,false,,10,false,true,com.accuweather.android:id/real_feel_text,false,,[407;990][576;1049],false,false,false,25,RealFeel,android.widget.TextView,false,false
+com.accuweather.android,false,false,,11,false,true,com.accuweather.android:id/real_feel_trademark,false,,[576;990][599;1024],false,false,false,26,®,android.widget.TextView,false,false
+com.accuweather.android,false,false,,12,false,true,com.accuweather.android:id/real_feel_temp,false,,[599;990][674;1049],false,false,false,27,45°,android.widget.TextView,false,false
+com.accuweather.android,false,false,,13,false,true,com.accuweather.android:id/cta,false,,[391;1097][689;1149],false,false,false,28,Next 4 Hours,android.widget.TextView,false,false
+com.accuweather.android,false,false,,14,false,true,com.accuweather.android:id/half_hour,false,,[521;1349][559;1393],false,false,false,29,30,android.widget.TextView,false,false
+com.accuweather.android,false,false,,15,false,true,com.accuweather.android:id/key,false,,[54;1393][1020;1521],false,false,false,30,,android.view.ViewGroup,false,false
+com.accuweather.android,false,false,,0,false,true,com.accuweather.android:id/keys_flow,false,,[54;1429][1020;1473],false,false,false,31,,android.view.View,false,false
+com.accuweather.android,false,false,,1,false,true,com.accuweather.android:id/rain_key,false,,[69;1429][277;1473],false,false,false,32,Rain,android.widget.TextView,false,false
+com.accuweather.android,false,false,,2,false,true,com.accuweather.android:id/snow_key,false,,[317;1429][544;1473],false,false,false,33,Snow,android.widget.TextView,false,false
+com.accuweather.android,false,false,,3,false,true,com.accuweather.android:id/ice_key,false,,[583;1429][770;1473],false,false,false,34,Ice,android.widget.TextView,false,false
+com.accuweather.android,false,false,,4,false,true,com.accuweather.android:id/mix_key,false,,[810;1429][1005;1473],false,false,false,35,Mix,android.widget.TextView,false,false
+com.accuweather.android,false,false,,1,false,true,com.accuweather.android:id/conditional_background,false,,[0;240][1080;1521],false,false,false,36,,android.view.ViewGroup,false,false
+com.accuweather.android,false,false,,0,false,true,com.accuweather.android:id/layer1,false,,[0;240][1080;1521],false,false,false,37,,android.widget.ImageView,false,false
+com.accuweather.android,false,false,,1,false,true,com.accuweather.android:id/baseLayer,false,,[0;240][1080;1521],false,false,false,38,,android.widget.ImageView,false,false
+com.accuweather.android,false,false,,2,false,true,com.accuweather.android:id/gradientTop,false,,[0;240][1080;881],false,false,false,39,,android.view.View,false,false
+com.accuweather.android,false,false,,3,false,true,com.accuweather.android:id/gradientBottom,false,,[0;881][1080;1521],false,false,false,40,,android.view.View,false,false
+com.accuweather.android,false,true,,0,true,true,com.accuweather.android:id/forecast_today,false,,[0;1521][358;1608],false,false,false,41,,android.view.ViewGroup,false,false
+com.accuweather.android,false,false,,0,false,true,com.accuweather.android:id/left_headline,false,,[57;1521][168;1566],false,false,false,42,TODAY,android.widget.TextView,false,false
+com.accuweather.android,false,false,Rain,1,false,true,com.accuweather.android:id/icon,false,,[57;1593][153;1608],false,false,false,43,,android.widget.ImageView,false,false
+com.accuweather.android,false,false,,2,false,true,com.accuweather.android:id/temp,false,,[177;1586][302;1608],false,false,false,44,54°,android.widget.TextView,false,false
+com.accuweather.android,false,false,,1,false,true,com.accuweather.android:id/dividerTodayTonight,false,,[358;1521][361;1608],false,false,false,45,,android.view.View,false,false
+com.accuweather.android,false,true,,2,true,true,com.accuweather.android:id/forecast_tonight,false,,[361;1521][719;1608],false,false,false,46,,android.view.ViewGroup,false,false
+com.accuweather.android,false,false,,0,false,true,com.accuweather.android:id/left_headline,false,,[419;1521][575;1566],false,false,false,47,TONIGHT,android.widget.TextView,false,false
+com.accuweather.android,false,false,Mostly cloudy,1,false,true,com.accuweather.android:id/icon,false,,[419;1593][515;1608],false,false,false,48,,android.widget.ImageView,false,false
+com.accuweather.android,false,false,,2,false,true,com.accuweather.android:id/temp,false,,[539;1586][662;1608],false,false,false,49,36°,android.widget.TextView,false,false
+com.accuweather.android,false,false,,3,false,true,com.accuweather.android:id/dividerTonightTomorrow,false,,[719;1521][722;1608],false,false,false,50,,android.view.View,false,false
+com.accuweather.android,false,true,,4,true,true,com.accuweather.android:id/forecast_tomorrow,false,,[722;1521][1080;1608],false,false,false,51,,android.view.ViewGroup,false,false
+com.accuweather.android,false,false,,0,false,true,com.accuweather.android:id/left_headline,false,,[779;1521][834;1566],false,false,false,52,FRI,android.widget.TextView,false,false
+com.accuweather.android,false,false,Partly sunny,1,false,true,com.accuweather.android:id/icon,false,,[779;1593][875;1608],false,false,false,53,,android.widget.ImageView,false,false
+com.accuweather.android,false,false,,2,false,true,com.accuweather.android:id/temp,false,,[899;1586][1024;1608],false,false,false,54,54°,android.widget.TextView,false,false
+com.accuweather.android,false,false,,1,false,true,,false,,[0;1605][3;1608],false,false,false,55,,android.webkit.WebView,false,false
+com.accuweather.android,false,false,,0,true,true,,false,,[0;1605][3;1608],true,false,false,56,collect (1×1),android.webkit.WebView,true,false
+com.accuweather.android,false,false,,0,false,true,,false,,[0;1605][3;1608],false,false,false,57,collect?v=1&t=event&ec=app&ea=open&t=event&tid=UA-38089168-8&z=1669905813846e90581a3-b44a-4b09-b052-41576e3591e1&cid=96e35659-827d-42eb-9753-638d3e4f17b4&an=android&av=8.7,android.widget.Image,false,false
+com.accuweather.android,false,false,,0,false,true,,false,,[0;1608][1080;1776],false,false,false,58,,android.view.ViewGroup,false,false
+com.accuweather.android,false,false,,0,false,true,com.accuweather.android:id/navigation_bar_item_icon_view,false,,[99;1632][171;1704],false,false,false,59,,android.widget.ImageView,false,true
+com.accuweather.android,false,false,,1,false,true,com.accuweather.android:id/navigation_bar_item_labels_group,false,,[97;1716][172;1776],false,false,false,60,,android.view.ViewGroup,false,true
+com.accuweather.android,false,false,,0,false,true,com.accuweather.android:id/navigation_bar_item_large_label_view,false,,[97;1716][172;1754],false,false,false,61,Today,android.widget.TextView,false,true
+com.accuweather.android,false,false,,0,false,true,com.accuweather.android:id/navigation_bar_item_icon_view,false,,[369;1632][441;1704],false,false,false,62,,android.widget.ImageView,false,false
+com.accuweather.android,false,false,,1,false,true,com.accuweather.android:id/navigation_bar_item_labels_group,false,,[363;1716][447;1776],false,false,false,63,,android.view.ViewGroup,false,false
+com.accuweather.android,false,false,,0,false,true,com.accuweather.android:id/navigation_bar_item_small_label_view,false,,[363;1716][447;1754],false,false,false,64,Hourly,android.widget.TextView,false,false
+com.accuweather.android,false,false,,0,false,true,com.accuweather.android:id/navigation_bar_item_icon_view,false,,[639;1632][711;1704],false,false,false,65,,android.widget.ImageView,false,false
+com.accuweather.android,false,false,,1,false,true,com.accuweather.android:id/navigation_bar_item_labels_group,false,,[644;1716][706;1776],false,false,false,66,,android.view.ViewGroup,false,false
+com.accuweather.android,false,false,,0,false,true,com.accuweather.android:id/navigation_bar_item_small_label_view,false,,[644;1716][706;1754],false,false,false,67,Daily,android.widget.TextView,false,false
+com.accuweather.android,false,false,,0,false,true,com.accuweather.android:id/navigation_bar_item_icon_view,false,,[909;1632][981;1704],false,false,false,68,,android.widget.ImageView,false,false
+com.accuweather.android,false,false,,1,false,true,com.accuweather.android:id/navigation_bar_item_labels_group,false,,[908;1716][981;1776],false,false,false,69,,android.view.ViewGroup,false,false
+com.accuweather.android,false,false,,0,false,true,com.accuweather.android:id/navigation_bar_item_small_label_view,false,,[908;1716][981;1754],false,false,false,70,Radar,android.widget.TextView,false,false
+com.accuweather.android,false,false,,1,false,true,android:id/statusBarBackground,false,,[0;0][1080;72],false,false,false,71,,android.view.View,false,false
+com.accuweather.android,false,false,,2,false,true,android:id/navigationBarBackground,false,,[0;0][0;0],false,false,false,72,,android.view.View,false,false

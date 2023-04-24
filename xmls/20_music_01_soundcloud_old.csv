@@ -1,0 +1,39 @@
+package,checkable,clickable,content-desc,index,focusable,enabled,resource-id,password,NAF,bounds,focused,checked,long-clickable,progress,text,class,scrollable,selected
+com.soundcloud.android,false,false,,0,false,true,,false,,[0;72][1080;1776],false,false,false,0,,android.view.ViewGroup,false,false
+com.soundcloud.android,false,false,,0,true,true,com.soundcloud.android:id/tab_layout,false,,[0;72][1080;240],false,false,false,1,,android.widget.HorizontalScrollView,false,false
+com.soundcloud.android,false,true,,0,true,true,,false,,[0;72][216;240],false,false,false,2,,android.support.v7.app.ActionBar$Tab,false,true
+com.soundcloud.android,false,false,Discover,0,false,true,,false,,[12;120][204;192],false,false,false,3,,android.widget.ImageView,false,true
+com.soundcloud.android,false,true,,1,true,true,,false,,[216;72][432;240],false,false,false,4,,android.support.v7.app.ActionBar$Tab,false,false
+com.soundcloud.android,false,false,Stream,0,false,true,,false,,[228;120][420;192],false,false,false,5,,android.widget.ImageView,false,false
+com.soundcloud.android,false,true,,2,true,true,,false,,[432;72][648;240],false,false,false,6,,android.support.v7.app.ActionBar$Tab,false,false
+com.soundcloud.android,false,false,Search,0,false,true,,false,,[444;120][636;192],false,false,false,7,,android.widget.ImageView,false,false
+com.soundcloud.android,false,true,,3,true,true,,false,,[648;72][864;240],false,false,false,8,,android.support.v7.app.ActionBar$Tab,false,false
+com.soundcloud.android,false,false,Collection,0,false,true,,false,,[660;120][852;192],false,false,false,9,,android.widget.ImageView,false,false
+com.soundcloud.android,false,true,,4,true,true,,false,,[864;72][1080;240],false,false,false,10,,android.support.v7.app.ActionBar$Tab,false,false
+com.soundcloud.android,false,false,More,0,false,true,,false,,[876;120][1068;192],false,false,false,11,,android.widget.ImageView,false,false
+com.soundcloud.android,false,false,,0,true,true,com.soundcloud.android:id/pager,false,,[0;240][1080;1776],false,false,false,12,,android.support.v4.view.ViewPager,true,false
+com.soundcloud.android,false,false,,0,false,true,com.soundcloud.android:id/str_layout,false,,[0;240][1080;1776],false,false,false,13,,android.view.ViewGroup,false,false
+com.soundcloud.android,false,false,,0,true,true,com.soundcloud.android:id/ak_recycler_view,false,,[0;240][1080;1776],true,false,false,14,,android.support.v7.widget.RecyclerView,true,false
+com.soundcloud.android,false,false,,1,false,true,com.soundcloud.android:id/selection_title,false,,[0;305][1080;412],false,false,false,15,Charts: Top 50,android.widget.TextView,false,false
+com.soundcloud.android,false,false,,2,false,true,com.soundcloud.android:id/selection_description,false,,[0;412][1080;468],false,false,false,16,The most played tracks on SoundCloud this week,android.widget.TextView,false,false
+com.soundcloud.android,false,false,,3,true,true,com.soundcloud.android:id/selection_playlists_carousel,false,,[0;468][1080;1032],false,false,false,17,,android.support.v7.widget.RecyclerView,true,false
+com.soundcloud.android,false,false,,0,false,true,com.soundcloud.android:id/square_artwork,false,,[48;516][432;900],false,false,false,18,,android.widget.ImageView,false,false
+com.soundcloud.android,false,false,,1,false,true,com.soundcloud.android:id/title,false,,[48;924][354;972],false,false,false,19,All music genres,android.widget.TextView,false,false
+com.soundcloud.android,false,false,,3,false,true,com.soundcloud.android:id/secondary_text,false,,[48;984][354;1032],false,false,false,20,Top 50,android.widget.TextView,false,false
+com.soundcloud.android,false,false,,0,false,true,com.soundcloud.android:id/square_artwork,false,,[480;516][864;900],false,false,false,21,,android.widget.ImageView,false,false
+com.soundcloud.android,false,false,,1,false,true,com.soundcloud.android:id/title,false,,[480;924][786;972],false,false,false,22,Hip-hop & Rap,android.widget.TextView,false,false
+com.soundcloud.android,false,false,,3,false,true,com.soundcloud.android:id/secondary_text,false,,[480;984][786;1032],false,false,false,23,Top 50,android.widget.TextView,false,false
+com.soundcloud.android,false,false,,0,false,true,com.soundcloud.android:id/square_artwork,false,,[912;516][1080;900],false,false,false,24,,android.widget.ImageView,false,false
+com.soundcloud.android,false,false,,1,false,true,com.soundcloud.android:id/title,false,,[912;924][1080;972],false,false,false,25,Global Beats,android.widget.TextView,false,false
+com.soundcloud.android,false,false,,3,false,true,com.soundcloud.android:id/secondary_text,false,,[912;984][1080;1032],false,false,false,26,Top 50,android.widget.TextView,false,false
+com.soundcloud.android,false,true,,4,false,true,,true,false,[0;1086][1080;1088],false,false,false,27,,android.view.View,false,false
+com.soundcloud.android,false,true,,5,false,true,,true,false,[0;1088][1080;1136],false,false,false,28,,android.view.View,false,false
+com.soundcloud.android,false,true,,0,false,true,,true,false,[0;1136][1080;1138],false,false,false,29,,android.view.View,false,false
+com.soundcloud.android,false,false,,1,false,true,com.soundcloud.android:id/selection_title,false,,[0;1210][1080;1317],false,false,false,30,Charts: New & hot,android.widget.TextView,false,false
+com.soundcloud.android,false,false,,2,false,true,com.soundcloud.android:id/selection_description,false,,[0;1317][1080;1373],false,false,false,31,Up-and-coming tracks on SoundCloud,android.widget.TextView,false,false
+com.soundcloud.android,false,false,,3,true,true,com.soundcloud.android:id/selection_playlists_carousel,false,,[0;1373][1080;1776],false,false,false,32,,android.support.v7.widget.RecyclerView,true,false
+com.soundcloud.android,false,false,,0,false,true,com.soundcloud.android:id/square_artwork,false,,[48;1421][432;1776],false,false,false,33,,android.widget.ImageView,false,false
+com.soundcloud.android,false,false,,0,false,true,com.soundcloud.android:id/square_artwork,false,,[480;1421][864;1776],false,false,false,34,,android.widget.ImageView,false,false
+com.soundcloud.android,false,false,,0,false,true,com.soundcloud.android:id/square_artwork,false,,[912;1421][1080;1776],false,false,false,35,,android.widget.ImageView,false,false
+com.soundcloud.android,false,false,,1,false,true,android:id/statusBarBackground,false,,[0;0][1080;72],false,false,false,36,,android.view.View,false,false
+com.soundcloud.android,false,false,,2,false,true,android:id/navigationBarBackground,false,,[0;0][0;0],false,false,false,37,,android.view.View,false,false

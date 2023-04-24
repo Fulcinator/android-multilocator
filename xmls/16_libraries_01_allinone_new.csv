@@ -1,0 +1,43 @@
+package,checkable,clickable,content-desc,index,focusable,enabled,resource-id,password,NAF,bounds,focused,checked,long-clickable,progress,text,class,scrollable,selected
+imoblife.toolbox.full,false,false,,0,false,true,imoblife.toolbox.full:id/titlebar_back_iv,false,,[0;79][168;247],false,false,false,0,,android.widget.TextView,false,false
+imoblife.toolbox.full,false,false,,1,false,true,imoblife.toolbox.full:id/title_tv,false,,[168;130][635;195],false,false,false,1,All-In-One Toolbox,android.widget.TextView,false,false
+imoblife.toolbox.full,false,false,,0,false,true,imoblife.toolbox.full:id/cbv_ufo,false,,[744;79][912;247],false,false,false,2,,android.view.View,false,false
+imoblife.toolbox.full,false,false,,1,false,true,imoblife.toolbox.full:id/iv_gift_shadow,false,,[807;175][849;181],false,false,false,3,,android.widget.ImageView,false,false
+imoblife.toolbox.full,false,false,,0,false,true,imoblife.toolbox.full:id/cb_blink,false,,[912;112][1080;255],false,false,false,4,,android.view.View,false,false
+imoblife.toolbox.full,false,false,,1,true,true,imoblife.toolbox.full:id/sliding_tabs,false,,[0;255][1080;399],false,false,false,5,,android.widget.HorizontalScrollView,false,false
+imoblife.toolbox.full,false,false,,0,false,true,android:id/text1,false,,[0;255][360;399],false,false,false,6,,android.widget.TextView,false,true
+imoblife.toolbox.full,false,false,,0,false,true,android:id/text1,false,,[360;255][720;399],false,false,false,7,,android.widget.TextView,false,false
+imoblife.toolbox.full,false,false,,0,false,true,android:id/text1,false,,[720;255][1080;399],false,false,false,8,,android.widget.TextView,false,false
+imoblife.toolbox.full,false,false,,1,true,true,imoblife.toolbox.full:id/pager,false,,[0;399][1080;1776],false,false,false,9,,androidx.viewpager.widget.ViewPager,true,false
+imoblife.toolbox.full,false,false,,0,true,true,imoblife.toolbox.full:id/recycler_view_home,false,,[0;399][1080;1776],false,false,false,10,,androidx.recyclerview.widget.RecyclerView,true,false
+imoblife.toolbox.full,false,false,,0,false,true,,false,,[0;399][1080;435],false,false,false,11,,android.view.View,false,false
+imoblife.toolbox.full,false,false,,0,false,true,imoblife.toolbox.full:id/view_divider_1,false,,[29;1155][1051;1158],false,false,false,12,,android.view.View,false,false
+imoblife.toolbox.full,false,false,,0,false,true,imoblife.toolbox.full:id/iv_circle,false,,[77;1231][107;1261],false,false,false,13,,android.widget.ImageView,false,false
+imoblife.toolbox.full,false,false,,1,false,true,imoblife.toolbox.full:id/tv_title,false,,[125;1221][203;1270],false,false,false,14,ROM,android.widget.TextView,false,false
+imoblife.toolbox.full,false,false,,2,false,true,imoblife.toolbox.full:id/itv_arrow,false,,[444;1193][516;1276],false,false,false,15,,android.widget.TextView,false,false
+imoblife.toolbox.full,false,false,,3,false,true,imoblife.toolbox.full:id/view_center,false,,[283;1294][286;1297],false,false,false,16,,android.view.View,false,false
+imoblife.toolbox.full,false,false,,4,false,true,imoblife.toolbox.full:id/home_progress,false,,[77;1330][426;1348],false,false,false,17,,android.widget.ProgressBar,false,false
+imoblife.toolbox.full,false,false,,5,false,true,imoblife.toolbox.full:id/tv_percent,false,,[426;1315][492;1364],false,false,false,18,30%,android.widget.TextView,false,false
+imoblife.toolbox.full,false,true,,0,true,true,imoblife.toolbox.full:id/percent_view,true,false,[264;527][816;1079],false,false,false,19,,android.view.View,false,false
+imoblife.toolbox.full,false,false,,1,false,true,imoblife.toolbox.full:id/percent_text_view,false,,[264;672][816;902],false,false,false,20,,android.view.View,false,false
+imoblife.toolbox.full,false,false,,2,false,true,imoblife.toolbox.full:id/tv_summary,false,,[493;625][587;677],false,false,false,21,RAM,android.widget.TextView,false,false
+imoblife.toolbox.full,false,false,,3,false,true,imoblife.toolbox.full:id/boost_text_view,false,,[264;699][816;819],false,false,false,22,,android.view.View,false,false
+imoblife.toolbox.full,false,false,,4,false,true,imoblife.toolbox.full:id/tv_info,false,,[396;914][683;960],false,false,false,23,876MB / 1.46GB,android.widget.TextView,false,false
+imoblife.toolbox.full,false,false,,3,false,true,imoblife.toolbox.full:id/view_divider_2,false,,[538;1218][541;1361],false,false,false,24,,android.view.View,false,false
+imoblife.toolbox.full,false,false,,0,false,true,imoblife.toolbox.full:id/iv_circle,false,,[588;1231][618;1261],false,false,false,25,,android.widget.ImageView,false,false
+imoblife.toolbox.full,false,false,,1,false,true,imoblife.toolbox.full:id/tv_title,false,,[636;1221][705;1270],false,false,false,26,CPU,android.widget.TextView,false,false
+imoblife.toolbox.full,false,false,,2,false,true,imoblife.toolbox.full:id/itv_arrow,false,,[955;1193][1027;1276],false,false,false,27,,android.widget.TextView,false,false
+imoblife.toolbox.full,false,false,,3,false,true,imoblife.toolbox.full:id/view_center,false,,[794;1294][797;1297],false,false,false,28,,android.view.View,false,false
+imoblife.toolbox.full,false,false,,4,false,true,imoblife.toolbox.full:id/home_progress,false,,[588;1330][931;1348],false,false,false,29,,android.widget.ProgressBar,false,false
+imoblife.toolbox.full,false,false,,5,false,true,imoblife.toolbox.full:id/tv_percent,false,,[931;1315][1003;1364],false,false,false,30,28℃,android.widget.TextView,false,false
+imoblife.toolbox.full,false,false,,0,true,true,imoblife.toolbox.full:id/recycler_view_function,false,,[29;1454][1051;1746],true,false,false,31,,androidx.recyclerview.widget.RecyclerView,false,false
+imoblife.toolbox.full,false,false,,0,false,true,imoblife.toolbox.full:id/iv_icon,false,,[139;1502][259;1646],false,false,false,32,,android.widget.ImageView,false,false
+imoblife.toolbox.full,false,false,,1,false,true,imoblife.toolbox.full:id/tv_name,false,,[76;1649][322;1698],false,false,false,33,Clean,android.widget.TextView,false,false
+imoblife.toolbox.full,false,false,,0,false,true,imoblife.toolbox.full:id/iv_icon,false,,[480;1502][600;1646],false,false,false,34,,android.widget.ImageView,false,false
+imoblife.toolbox.full,false,false,,1,false,true,imoblife.toolbox.full:id/tv_name,false,,[417;1649][663;1698],false,false,false,35,Boost,android.widget.TextView,false,false
+imoblife.toolbox.full,false,false,,0,false,true,imoblife.toolbox.full:id/iv_icon,false,,[820;1502][940;1646],false,false,false,36,,android.widget.ImageView,false,false
+imoblife.toolbox.full,false,false,,1,false,true,imoblife.toolbox.full:id/tv_name,false,,[757;1649][1003;1698],false,false,false,37,Battery Saver,android.widget.TextView,false,false
+imoblife.toolbox.full,false,false,,1,false,true,imoblife.toolbox.full:id/view_home_banner,false,,[0;399][1080;555],false,false,false,38,,android.view.View,false,false
+imoblife.toolbox.full,false,false,,1,false,true,android:id/statusBarBackground,false,,[0;0][1080;72],false,false,false,39,,android.view.View,false,false
+imoblife.toolbox.full,false,false,,2,false,true,,false,,[0;0][1080;72],false,false,false,40,,android.view.View,false,false
+imoblife.toolbox.full,false,false,,3,false,true,android:id/navigationBarBackground,false,,[0;0][0;0],false,false,false,41,,android.view.View,false,false

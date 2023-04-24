@@ -1,0 +1,38 @@
+package,checkable,clickable,content-desc,index,focusable,enabled,resource-id,password,NAF,bounds,focused,checked,long-clickable,progress,text,class,scrollable,selected
+com.thetransitapp.droid,false,false,,0,false,true,,false,,[0;72][1080;1776],false,false,false,0,,android.view.ViewGroup,false,false
+com.thetransitapp.droid,false,false,,0,false,true,com.thetransitapp.droid:id/toolbar,false,,[0;72][1080;240],false,false,false,1,,android.view.ViewGroup,false,false
+com.thetransitapp.droid,false,true,Search,0,true,true,com.thetransitapp.droid:id/search_button,false,,[48;93][180;219],false,false,false,2,,android.widget.ImageView,false,false
+com.thetransitapp.droid,false,true,,1,true,true,com.thetransitapp.droid:id/location_search,false,,[215;93][819;219],false,false,true,3,Search or Address,android.widget.EditText,false,false
+com.thetransitapp.droid,false,true,Trip Planner,2,true,true,com.thetransitapp.droid:id/location_direction,false,,[819;93][948;219],false,false,false,4,,android.widget.ImageButton,false,false
+com.thetransitapp.droid,false,false,,1,false,true,,false,,[960;72][1080;240],false,false,false,5,,android.support.v7.widget.ao,false,false
+com.thetransitapp.droid,false,true,More options,0,true,true,,false,,[960;84][1080;228],false,false,true,6,,android.widget.ImageView,false,false
+com.thetransitapp.droid,false,false,,0,false,true,com.thetransitapp.droid:id/shadow_line_view,false,,[0;903][1080;912],false,false,false,7,,android.view.View,false,false
+com.thetransitapp.droid,false,false,,2,true,true,com.thetransitapp.droid:id/routes_recycler,false,,[0;240][1080;1776],false,false,false,8,,android.support.v7.widget.RecyclerView,true,false
+com.thetransitapp.droid,false,false,ACE Orange Mountain View; Direction Orange Shuttle; next departure in 82 minutes; at stop Charleston / Google,0,true,true,com.thetransitapp.droid:id/pager,false,,[0;914][1080;1211],false,false,false,9,,com.thetransitapp.droid.shared.ui.ViewPager,true,false
+com.thetransitapp.droid,false,false,,0,false,true,com.thetransitapp.droid:id/route_direction_img,false,,[42;1078][72;1108],false,false,false,10,,android.widget.ImageView,false,false
+com.thetransitapp.droid,false,false,,1,false,true,com.thetransitapp.droid:id/route_name,false,,[83;1058][406;1123],false,false,false,11,Orange Shuttle,android.widget.TextView,false,false
+com.thetransitapp.droid,false,false,,1,false,true,com.thetransitapp.droid:id/route_stop_name,false,,[39;1123][319;1172],false,false,false,12,Charleston / Huff,android.widget.TextView,false,false
+com.thetransitapp.droid,false,false,,1,false,true,com.thetransitapp.droid:id/route_no_service,false,,[882;1011][1038;1089],false,false,false,13,,android.widget.ImageView,false,false
+com.thetransitapp.droid,false,false,ACE Orange,0,false,true,com.thetransitapp.droid:id/route_name,false,,[36;947][587;1054],false,false,false,14,ACE Orange,android.widget.TextView,false,false
+com.thetransitapp.droid,false,false,,2,false,true,com.thetransitapp.droid:id/pagination,false,,[0;944][1080;959],false,false,false,15,,android.widget.ImageView,false,false
+com.thetransitapp.droid,false,false,40 Foothill Coll - Mtn View TC via N Bayshore; Direction Foothill College; next departure in 14 minutes; at stop Charleston / Google,0,true,true,com.thetransitapp.droid:id/pager,false,,[0;1214][1080;1511],false,false,false,16,,com.thetransitapp.droid.shared.ui.ViewPager,true,false
+com.thetransitapp.droid,false,false,,0,false,true,com.thetransitapp.droid:id/route_direction_img,false,,[42;1378][72;1408],false,false,false,17,,android.widget.ImageView,false,false
+com.thetransitapp.droid,false,false,,1,false,true,com.thetransitapp.droid:id/route_name,false,,[83;1358][420;1423],false,false,false,18,Foothill College,android.widget.TextView,false,false
+com.thetransitapp.droid,false,false,,1,false,true,com.thetransitapp.droid:id/route_stop_name,false,,[39;1423][362;1472],false,false,false,19,Charleston / Google,android.widget.TextView,false,false
+com.thetransitapp.droid,false,false,,0,false,true,com.thetransitapp.droid:id/route_time,false,,[908;1282][1011;1389],false,false,false,20,14,android.widget.TextView,false,false
+com.thetransitapp.droid,false,false,,1,false,true,com.thetransitapp.droid:id/route_realtime_symbol,false,,[999;1273][1014;1297],false,false,false,21,,android.view.View,false,false
+com.thetransitapp.droid,false,false,,2,false,true,com.thetransitapp.droid:id/route_minutes,false,,[906;1386][1014;1427],false,false,false,22,minutes,android.widget.TextView,false,false
+com.thetransitapp.droid,false,false,40,0,false,true,com.thetransitapp.droid:id/route_name,false,,[36;1232][202;1366],false,false,false,23,40,android.widget.TextView,false,false
+com.thetransitapp.droid,false,false,B Route B - AM; Direction Mountain View Transit Center; next departure in 13 minutes; at stop Stierlin Court (Google),0,true,true,com.thetransitapp.droid:id/pager,false,,[0;1514][1080;1776],false,false,false,24,,com.thetransitapp.droid.shared.ui.ViewPager,false,false
+com.thetransitapp.droid,false,false,,0,false,true,com.thetransitapp.droid:id/route_direction_img,false,,[42;1678][72;1708],false,false,false,25,,android.widget.ImageView,false,false
+com.thetransitapp.droid,false,false,,1,false,true,com.thetransitapp.droid:id/route_name,false,,[83;1658][725;1723],false,false,false,26,Mountain View Transit Center,android.widget.TextView,false,false
+com.thetransitapp.droid,false,false,,1,false,true,com.thetransitapp.droid:id/route_stop_name,false,,[39;1723][397;1772],false,false,false,27,Stierlin Court (Google),android.widget.TextView,false,false
+com.thetransitapp.droid,false,false,,0,false,true,com.thetransitapp.droid:id/route_time,false,,[911;1582][1009;1689],false,false,false,28,13,android.widget.TextView,false,false
+com.thetransitapp.droid,false,false,,1,false,true,com.thetransitapp.droid:id/route_realtime_symbol,false,,[997;1573][1014;1597],false,false,false,29,,android.view.View,false,false
+com.thetransitapp.droid,false,false,,2,false,true,com.thetransitapp.droid:id/route_minutes,false,,[906;1686][1014;1727],false,false,false,30,minutes,android.widget.TextView,false,false
+com.thetransitapp.droid,false,false,B,0,false,true,com.thetransitapp.droid:id/route_name,false,,[36;1547][104;1654],false,false,false,31,B,android.widget.TextView,false,false
+com.thetransitapp.droid,false,false,,1,false,true,com.thetransitapp.droid:id/severe_alert,false,,[104;1546][194;1636],false,false,false,32,,android.widget.ImageView,false,false
+com.thetransitapp.droid,false,true,Google Map,0,true,true,,false,,[0;72][1080;1344],false,false,false,33,,android.view.View,false,false
+com.thetransitapp.droid,false,false,,0,false,true,,false,,[15;831][195;897],false,false,false,34,,android.widget.ImageView,false,false
+com.thetransitapp.droid,false,false,,1,false,true,android:id/statusBarBackground,false,,[0;0][1080;72],false,false,false,35,,android.view.View,false,false
+com.thetransitapp.droid,false,false,,2,false,true,android:id/navigationBarBackground,false,,[0;0][0;0],false,false,false,36,,android.view.View,false,false

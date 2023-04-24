@@ -1,0 +1,9 @@
+package,checkable,clickable,content-desc,index,focusable,enabled,resource-id,password,NAF,bounds,focused,checked,long-clickable,progress,text,class,scrollable,selected
+com.adsk.sketchbook,false,true,,0,false,true,com.adsk.sketchbook:id/top_bar_main_menu,true,false,[90;0][240;132],false,false,false,0,,android.widget.ImageView,false,false
+com.adsk.sketchbook,false,true,,1,false,true,com.adsk.sketchbook:id/top_bar_tools_menu,true,false,[240;0][390;132],false,false,false,1,,android.widget.ImageView,false,false
+com.adsk.sketchbook,false,true,,2,false,true,com.adsk.sketchbook:id/top_bar_brush,true,false,[390;0][540;132],false,false,false,2,,android.widget.ImageView,false,false
+com.adsk.sketchbook,false,true,,3,false,true,com.adsk.sketchbook:id/top_bar_color,true,false,[540;0][690;132],false,false,false,3,,android.widget.ImageView,false,false
+com.adsk.sketchbook,false,true,,4,false,true,com.adsk.sketchbook:id/top_bar_layer,true,false,[690;0][840;132],false,false,false,4,,android.widget.ImageView,false,false
+com.adsk.sketchbook,false,true,,5,false,true,com.adsk.sketchbook:id/top_bar_fullscreen,true,false,[840;0][990;132],false,false,false,5,,android.widget.ImageView,false,false
+com.adsk.sketchbook,false,false,,0,false,true,,false,,[439;1672][640;1776],false,false,false,6,,android.widget.ImageView,false,false
+com.adsk.sketchbook,false,false,,0,false,true,,false,,[0;0][1080;1776],false,false,false,7,,android.view.View,false,false

@@ -1,0 +1,19 @@
+package,checkable,clickable,content-desc,index,focusable,enabled,resource-id,password,NAF,bounds,focused,checked,long-clickable,progress,text,class,scrollable,selected
+gov.nv.dhhs.en,false,false,,0,false,true,,false,,[0;72][1080;1776],false,false,false,0,,android.widget.TextView,false,false
+gov.nv.dhhs.en,false,false,,0,true,true,,false,,[0;72][1080;1776],false,false,false,1,,android.widget.ScrollView,true,false
+gov.nv.dhhs.en,false,false,,1,false,true,gov.nv.dhhs.en:id/main_ui_flipper,false,,[48;72][1032;374],false,false,false,2,,android.widget.ViewFlipper,false,false
+gov.nv.dhhs.en,false,false,,1,false,true,gov.nv.dhhs.en:id/edge_case_content,false,,[120;72][960;146],false,false,false,3,To get notified of possible COVID-19 exposure; turn on Exposure Notifications. Using this service helps you protect your community - even if you've been vaccinated.,android.widget.TextView,false,false
+gov.nv.dhhs.en,false,true,,2,true,true,gov.nv.dhhs.en:id/edge_case_action_button,false,,[120;170][960;350],false,false,false,4,Turn on Exposure Notifications,android.widget.Button,false,false
+gov.nv.dhhs.en,false,false,,2,false,true,gov.nv.dhhs.en:id/help_protect_community_section_title,false,,[48;410][670;463],false,false,false,5,Help protect your community,android.widget.TextView,false,false
+gov.nv.dhhs.en,false,true,,0,true,true,gov.nv.dhhs.en:id/secondary_share_test_result_card,false,,[48;511][1032;991],false,false,false,6,,androidx.cardview.widget.CardView,false,false
+gov.nv.dhhs.en,false,false,,0,false,true,,false,,[96;535][348;787],false,false,false,7,,android.widget.ImageView,false,false
+gov.nv.dhhs.en,false,false,,1,false,true,,false,,[396;535][984;787],false,false,false,8,Share your test result to help stop the spread of COVID-19,android.widget.TextView,false,false
+gov.nv.dhhs.en,false,true,,0,true,true,gov.nv.dhhs.en:id/see_history_button,false,,[569;787][960;943],false,false,false,9,See history,android.widget.Button,false,false
+gov.nv.dhhs.en,false,false,,0,false,true,,false,,[48;1015][1032;1315],false,false,false,10,,androidx.cardview.widget.CardView,false,false
+gov.nv.dhhs.en,false,false,,0,false,true,,false,,[96;1039][348;1291],false,false,false,11,,android.widget.ImageView,false,false
+gov.nv.dhhs.en,false,false,,1,false,true,,false,,[396;1069][984;1261],false,false,false,12,Share this app to better protect your community,android.widget.TextView,false,false
+gov.nv.dhhs.en,false,false,,5,false,true,gov.nv.dhhs.en:id/have_questions_section_title,false,,[48;1363][418;1416],false,false,false,13,Have questions?,android.widget.TextView,false,false
+gov.nv.dhhs.en,false,true,,0,true,true,gov.nv.dhhs.en:id/learn_how_en_works_layout,false,,[48;1464][1032;1764],false,false,false,14,,androidx.cardview.widget.CardView,false,false
+gov.nv.dhhs.en,false,false,,0,false,true,,false,,[96;1488][348;1740],false,false,false,15,,android.widget.ImageView,false,false
+gov.nv.dhhs.en,false,false,,1,false,true,,false,,[396;1488][984;1740],false,false,false,16,Learn more about how Exposure Notifications works,android.widget.TextView,false,false
+gov.nv.dhhs.en,false,false,,1,false,true,android:id/navigationBarBackground,false,,[0;0][0;0],false,false,false,17,,android.view.View,false,false

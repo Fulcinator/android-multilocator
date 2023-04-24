@@ -1,0 +1,63 @@
+package,checkable,clickable,content-desc,index,focusable,enabled,resource-id,password,NAF,bounds,focused,checked,long-clickable,progress,text,class,scrollable,selected
+com.reddit.frontpage,false,false,,0,false,true,,false,,[0;0][1080;1776],false,false,false,0,,android.view.ViewGroup,false,false
+com.reddit.frontpage,false,false,,0,false,true,com.reddit.frontpage:id/toolbar,false,,[0;0][1080;240],false,false,false,1,,android.view.ViewGroup,false,false
+com.reddit.frontpage,false,false,,0,false,true,com.reddit.frontpage:id/item_community_nav,false,,[0;84][144;228],false,false,false,2,,android.view.ViewGroup,false,false
+com.reddit.frontpage,false,true,Communities,0,true,true,com.reddit.frontpage:id/item_community_nav_icon_large,false,,[0;84][144;228],false,false,false,3,,android.widget.ImageButton,false,false
+com.reddit.frontpage,false,false,,1,false,true,com.reddit.frontpage:id/toolbar_feed_control,false,,[144;84][816;228],false,false,false,4,,android.view.ViewGroup,false,false
+com.reddit.frontpage,false,false,,0,false,true,,false,,[144;84][816;228],false,false,false,5,,android.view.View,false,false
+com.reddit.frontpage,false,true,,0,true,true,,false,,[144;84][424;228],false,false,false,6,,android.view.View,false,false
+com.reddit.frontpage,false,false,,0,false,true,,false,,[168;124][337;189],false,false,false,7,Popular,android.widget.TextView,false,false
+com.reddit.frontpage,false,true,Search,2,true,true,com.reddit.frontpage:id/feed_control_search_icon,false,,[816;84][960;228],false,false,false,8,,android.widget.ImageButton,false,false
+com.reddit.frontpage,false,false,,1,false,true,com.reddit.frontpage:id/nav_icon_container,false,,[960;72][1056;240],false,false,false,9,,android.view.ViewGroup,false,false
+com.reddit.frontpage,false,true,,0,true,true,com.reddit.frontpage:id/nav_icon_clickable_area,true,false,[960;84][1056;228],false,false,true,10,,android.view.View,false,false
+com.reddit.frontpage,false,false,,0,false,true,com.reddit.frontpage:id/inner_user_icon,false,,[960;78][1056;204],false,false,false,11,,android.widget.ImageView,false,false
+com.reddit.frontpage,false,false,,1,false,true,com.reddit.frontpage:id/home_screen,false,,[0;240][1080;1620],false,false,false,12,,android.view.ViewGroup,false,false
+com.reddit.frontpage,false,false,,1,true,true,com.reddit.frontpage:id/screen_pager,false,,[0;240][1080;1620],false,false,false,13,,androidx.viewpager.widget.ViewPager,true,false
+com.reddit.frontpage,false,false,,0,false,true,com.reddit.frontpage:id/refresh_layout,false,,[0;240][1080;1620],false,false,false,14,,android.view.ViewGroup,false,false
+com.reddit.frontpage,false,false,,0,true,true,com.reddit.frontpage:id/link_list,false,,[0;240][1080;1620],false,false,false,15,,androidx.recyclerview.widget.RecyclerView,true,false
+com.reddit.frontpage,false,false,,0,false,true,,false,,[0;240][1080;665],false,false,false,16,,android.view.ViewGroup,false,false
+com.reddit.frontpage,false,false,,0,false,true,com.reddit.frontpage:id/title,false,,[48;270][1080;335],false,false,false,17,Trending today,android.widget.TextView,false,false
+com.reddit.frontpage,false,false,,1,false,true,com.reddit.frontpage:id/trending_carousel_recycler_view,false,,[0;383][1080;629],false,false,false,18,,androidx.recyclerview.widget.RecyclerView,true,false
+com.reddit.frontpage,false,true,,0,true,true,,false,,[48;383][486;629],false,false,true,19,,android.view.ViewGroup,false,false
+com.reddit.frontpage,false,false,,0,false,true,com.reddit.frontpage:id/gradient,false,,[48;383][486;629],false,false,false,20,,android.view.View,false,false
+com.reddit.frontpage,false,false,,1,false,true,com.reddit.frontpage:id/bg_image,false,,[48;383][486;629],false,false,false,21,,android.widget.ImageView,false,false
+com.reddit.frontpage,false,false,,2,false,true,com.reddit.frontpage:id/title,false,,[72;497][462;617],false,false,false,22,Kanye 'Ye' West,android.widget.TextView,false,false
+com.reddit.frontpage,false,false,,1,false,true,,false,,[498;383][499;629],false,false,false,23,,android.view.View,false,false
+com.reddit.frontpage,false,true,,2,true,true,,false,,[511;383][949;629],false,false,true,24,,android.view.ViewGroup,false,false
+com.reddit.frontpage,false,false,,0,false,true,com.reddit.frontpage:id/gradient,false,,[511;383][949;629],false,false,false,25,,android.view.View,false,false
+com.reddit.frontpage,false,false,,1,false,true,com.reddit.frontpage:id/bg_image,false,,[511;383][949;629],false,false,false,26,,android.widget.ImageView,false,false
+com.reddit.frontpage,false,false,,2,false,true,com.reddit.frontpage:id/title,false,,[535;497][925;617],false,false,false,27,Ukraine,android.widget.TextView,false,false
+com.reddit.frontpage,false,true,,3,true,true,,false,,[973;383][1080;629],false,false,true,28,,android.view.ViewGroup,false,false
+com.reddit.frontpage,false,false,,0,false,true,com.reddit.frontpage:id/gradient,false,,[973;383][1080;629],false,false,false,29,,android.view.View,false,false
+com.reddit.frontpage,false,false,,1,false,true,com.reddit.frontpage:id/bg_image,false,,[973;383][1080;629],false,false,false,30,,android.widget.ImageView,false,false
+com.reddit.frontpage,false,false,,2,false,true,com.reddit.frontpage:id/title,false,,[997;497][1080;617],false,false,false,31,B-21 Raider,android.widget.TextView,false,false
+com.reddit.frontpage,false,false,,0,false,true,com.reddit.frontpage:id/subscribe_header,false,,[0;689][1080;843],false,false,false,32,,android.view.ViewGroup,false,false
+com.reddit.frontpage,false,false,,0,false,true,com.reddit.frontpage:id/inner_user_icon,false,,[48;719][144;815],false,false,false,33,,android.widget.ImageView,false,false
+com.reddit.frontpage,false,true,,1,true,true,com.reddit.frontpage:id/detail_subreddit_name,false,,[144;713][469;770],false,false,false,34,r/todayilearned,android.widget.TextView,false,false
+com.reddit.frontpage,false,true,,0,true,true,com.reddit.frontpage:id/bottom_row_metadata_before_indicators,false,,[168;770][338;819],false,false,false,35,u/wilymon,android.widget.TextView,false,false
+com.reddit.frontpage,false,false,,1,false,true,com.reddit.frontpage:id/bottom_row_metadata_after_indicators,false,,[338;770][408;819],false,false,false,36,• 2h,android.widget.TextView,false,false
+com.reddit.frontpage,false,true,,3,true,true,com.reddit.frontpage:id/subscribe_button,false,,[848;724][1026;805],false,false,false,37,Join,android.widget.TextView,false,false
+com.reddit.frontpage,false,false,,1,false,true,com.reddit.frontpage:id/link_card_body_refactored,false,,[0;843][1080;1483],false,false,false,38,,android.view.ViewGroup,false,false
+com.reddit.frontpage,false,false,,0,false,true,,false,,[48;843][1032;1483],false,false,false,39,,android.view.ViewGroup,false,false
+com.reddit.frontpage,false,false,,2,false,true,com.reddit.frontpage:id/title,false,,[48;843][708;1483],false,false,false,40,TIL brussels sprouts used to have a bitter taste until breeders in the 90s started to cross-pollinate different varieties in order to remove the chemicals that caused the bitterness. The result of their work has lead to brussels sprouts's recent culinary popularity.,android.widget.TextView,false,false
+com.reddit.frontpage,false,false,,0,false,true,com.reddit.frontpage:id/link_thumbnail_image,false,,[732;847][1032;1072],false,false,false,41,,android.widget.ImageView,false,false
+com.reddit.frontpage,false,false,,0,false,true,com.reddit.frontpage:id/link_thumbnail_domain,false,,[744;1000][1032;1072],false,false,false,42,npr.org,android.widget.TextView,false,false
+com.reddit.frontpage,false,false,,0,false,true,com.reddit.frontpage:id/link_footer_root,false,,[0;1483][1080;1603],false,false,false,43,,android.view.ViewGroup,false,false
+com.reddit.frontpage,false,true,Upvote,0,true,true,com.reddit.frontpage:id/vote_view_upvote,false,,[48;1513][108;1573],false,false,false,44,,android.widget.ImageView,false,false
+com.reddit.frontpage,false,false,,1,false,true,com.reddit.frontpage:id/vote_view_score,false,,[132;1514][238;1571],false,false,false,45,15.3k,android.widget.TextView,false,false
+com.reddit.frontpage,false,true,Downvote,2,true,true,com.reddit.frontpage:id/vote_view_downvote,false,,[262;1513][322;1573],false,false,false,46,,android.widget.ImageView,false,false
+com.reddit.frontpage,false,true,,2,true,true,com.reddit.frontpage:id/comments,false,,[431;1483][587;1603],false,false,false,47,860,android.widget.TextView,false,false
+com.reddit.frontpage,false,true,,3,true,true,com.reddit.frontpage:id/extra_action,false,,[660;1483][853;1603],false,false,false,48,Share,android.widget.TextView,false,false
+com.reddit.frontpage,false,true,Give Award,4,true,true,com.reddit.frontpage:id/award_cta_icon,false,,[924;1483][1020;1603],false,false,false,49,,android.widget.ImageView,false,false
+com.reddit.frontpage,false,false,,1,false,true,,false,,[0;240][1080;252],false,false,false,50,,android.view.View,false,false
+com.reddit.frontpage,false,false,,1,false,true,com.reddit.frontpage:id/toolbar_feed_dropdown_container,false,,[0;0][1080;3],false,false,false,51,,android.view.ViewGroup,false,false
+com.reddit.frontpage,false,false,,0,false,true,,false,,[0;0][1080;3],false,false,false,52,,android.view.View,false,false
+com.reddit.frontpage,false,true,Home,0,true,true,,false,,[0;1620][216;1776],false,false,false,53,,android.view.ViewGroup,false,true
+com.reddit.frontpage,false,false,,0,false,true,com.reddit.frontpage:id/bottom_nav_item_icon,false,,[72;1662][144;1734],false,false,false,54,,android.widget.ImageView,false,true
+com.reddit.frontpage,false,true,Discover,1,true,true,,false,,[216;1620][432;1776],false,false,false,55,,android.view.ViewGroup,false,false
+com.reddit.frontpage,false,false,,0,false,true,com.reddit.frontpage:id/bottom_nav_item_icon,false,,[288;1662][360;1734],false,false,false,56,,android.widget.ImageView,false,false
+com.reddit.frontpage,false,false,,0,false,true,com.reddit.frontpage:id/bottom_nav_item_icon,false,,[504;1662][576;1734],false,false,false,57,,android.widget.ImageView,false,false
+com.reddit.frontpage,false,true,Chat,3,true,true,,false,,[648;1620][864;1776],false,false,false,58,,android.view.ViewGroup,false,false
+com.reddit.frontpage,false,false,,0,false,true,com.reddit.frontpage:id/bottom_nav_item_icon,false,,[720;1662][792;1734],false,false,false,59,,android.widget.ImageView,false,false
+com.reddit.frontpage,false,true,Inbox,4,true,true,,false,,[864;1620][1080;1776],false,false,false,60,,android.view.ViewGroup,false,false
+com.reddit.frontpage,false,false,,0,false,true,com.reddit.frontpage:id/bottom_nav_item_icon,false,,[936;1662][1008;1734],false,false,false,61,,android.widget.ImageView,false,false

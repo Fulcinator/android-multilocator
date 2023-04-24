@@ -1,0 +1,52 @@
+package,checkable,clickable,content-desc,index,focusable,enabled,resource-id,password,NAF,bounds,focused,checked,long-clickable,progress,text,class,scrollable,selected
+com.ups.mobile.android,false,false,,0,true,true,,false,,[0;72][1080;1776],true,false,false,0,,android.view.ViewGroup,false,false
+com.ups.mobile.android,false,false,,0,false,true,,false,,[0;72][1080;1776],false,false,false,1,,android.view.ViewGroup,false,false
+com.ups.mobile.android,false,false,,0,false,true,,false,,[0;72][1080;1776],false,false,false,2,,android.view.ViewGroup,false,false
+com.ups.mobile.android,false,false,,0,false,true,,false,,[0;72][1080;1776],false,false,false,3,,android.view.ViewGroup,false,false
+com.ups.mobile.android,false,false,,0,false,true,com.ups.mobile.android:id/app_bar,false,,[0;72][1080;240],false,false,false,4,,android.view.ViewGroup,false,false
+com.ups.mobile.android,false,true,Main Menu,0,true,true,,false,,[0;72][168;240],false,false,false,5,,android.widget.ImageButton,false,false
+com.ups.mobile.android,false,false,,1,false,true,,false,,[216;84][344;228],false,false,false,6,,android.widget.ImageView,false,false
+com.ups.mobile.android,false,false,,1,false,true,,false,,[0;240][1080;1776],false,false,false,7,,android.view.ViewGroup,false,false
+com.ups.mobile.android,false,true,,0,true,true,,false,,[0;240][1080;1776],false,false,false,8,,android.view.ViewGroup,false,false
+com.ups.mobile.android,false,false,,0,false,true,,false,,[0;240][1080;1776],false,false,false,9,,android.view.ViewGroup,false,false
+com.ups.mobile.android,false,false,,0,false,true,,false,,[0;240][1080;1776],false,false,false,10,,android.view.ViewGroup,false,false
+com.ups.mobile.android,false,false,,0,false,true,,false,,[0;240][1080;1776],false,false,false,11,,android.view.ViewGroup,false,false
+com.ups.mobile.android,false,false,,0,false,true,,false,,[0;240][1080;432],false,false,false,12,,android.view.ViewGroup,false,false
+com.ups.mobile.android,false,false,,0,false,true,,false,,[15;258][174;402],false,false,false,13,,android.view.ViewGroup,false,false
+com.ups.mobile.android,false,true,Mobile Barcode Scanner,0,true,true,,false,,[15;258][174;402],false,false,false,14,,android.widget.Button,false,false
+com.ups.mobile.android,false,false,Double click to enter a tracking number.,1,true,true,,false,,[174;258][945;402],false,false,false,15,,android.view.ViewGroup,false,false
+com.ups.mobile.android,false,false,,0,false,true,,false,,[174;258][945;402],false,false,false,16,,android.view.ViewGroup,false,false
+com.ups.mobile.android,false,false,,0,false,true,,false,,[174;258][945;402],false,false,false,17,,android.view.ViewGroup,false,false
+com.ups.mobile.android,false,false,,0,false,true,,false,,[177;261][180;399],false,false,false,18,,android.view.ViewGroup,false,false
+com.ups.mobile.android,false,false,,1,false,true,,false,,[198;264][942;396],false,false,false,19,,android.view.ViewGroup,false,false
+com.ups.mobile.android,false,true,,0,true,true,,false,,[198;264][942;396],false,false,true,20,Enter a Tracking Number,android.widget.EditText,false,false
+com.ups.mobile.android,false,false,,2,false,true,,false,,[945;258][1065;402],false,false,false,21,,android.view.ViewGroup,false,false
+com.ups.mobile.android,false,true,Submit,0,true,true,,false,,[945;258][1065;402],false,false,false,22,,android.widget.Button,false,false
+com.ups.mobile.android,false,false,,1,false,true,,false,,[0;432][1080;578],false,false,false,23,,android.view.ViewGroup,false,false
+com.ups.mobile.android,false,false,Track Tab. (0). Selected,0,true,true,,false,,[0;432][531;575],false,false,false,24,,android.view.ViewGroup,false,false
+com.ups.mobile.android,false,false,,0,false,true,,false,,[168;477][363;542],false,false,false,25,,android.view.ViewGroup,false,false
+com.ups.mobile.android,false,false,,0,false,true,,false,,[168;477][285;542],false,false,false,26,Track,android.widget.TextView,false,false
+com.ups.mobile.android,false,false,,1,false,true,,false,,[303;477][363;542],false,false,false,27,(0),android.widget.TextView,false,false
+com.ups.mobile.android,false,false,,1,false,true,,false,,[0;560][531;575],false,false,false,28,,android.view.ViewGroup,false,false
+com.ups.mobile.android,false,false,To Me Tab. (0). Selected,1,true,true,,false,,[549;447][1080;575],false,false,false,29,,android.view.ViewGroup,false,false
+com.ups.mobile.android,false,false,,0,false,true,,false,,[708;492][920;557],false,false,false,30,,android.view.ViewGroup,false,false
+com.ups.mobile.android,false,false,,0,false,true,,false,,[708;492][841;557],false,false,false,31,To Me,android.widget.TextView,false,false
+com.ups.mobile.android,false,false,,1,false,true,,false,,[859;492][919;557],false,false,false,32,(0),android.widget.TextView,false,false
+com.ups.mobile.android,false,false,,2,false,true,,false,,[0;575][1080;578],false,false,false,33,,android.view.ViewGroup,false,false
+com.ups.mobile.android,false,false,,2,false,true,,false,,[0;578][1080;1776],false,false,false,34,,androidx.recyclerview.widget.RecyclerView,true,false
+com.ups.mobile.android,false,true,,0,true,true,,false,,[0;578][1080;1776],false,false,false,35,,android.view.ViewGroup,false,false
+com.ups.mobile.android,false,false,,0,false,true,,false,,[0;578][1080;1776],false,false,false,36,,android.view.ViewGroup,false,false
+com.ups.mobile.android,false,false,,0,false,true,,false,,[0;578][1080;1776],false,false,false,37,,android.view.ViewGroup,false,false
+com.ups.mobile.android,false,false,,0,false,true,,false,,[0;578][1080;1746],false,false,false,38,,android.view.ViewGroup,false,false
+com.ups.mobile.android,false,false,,0,false,true,,false,,[0;578][1080;1746],false,false,false,39,,android.view.ViewGroup,false,false
+com.ups.mobile.android,false,false,,0,false,true,,false,,[0;578][1080;1746],false,false,true,40,,android.widget.ListView,false,false
+com.ups.mobile.android,false,false,,0,false,true,,false,,[0;578][1080;673],false,false,false,41,,android.view.ViewGroup,false,false
+com.ups.mobile.android,false,false,You don't have any recent tracking activity.,0,true,true,,false,,[60;578][1020;673],false,false,false,42,You don't have any recent tracking activity.,android.widget.TextView,false,false
+com.ups.mobile.android,false,false,,1,false,true,,false,,[0;673][1080;1320],false,false,false,43,,android.view.ViewGroup,false,false
+com.ups.mobile.android,false,false,,0,false,true,,false,,[0;673][1080;1320],false,false,false,44,,android.view.ViewGroup,false,false
+com.ups.mobile.android,false,false,,0,false,true,,false,,[30;703][1050;1290],false,false,false,45,,android.view.ViewGroup,false,false
+com.ups.mobile.android,false,false,,0,false,true,,false,,[30;703][1050;882],false,false,false,46,Sign up for a User ID and save frequently used information to your profile for faster shipping and tracking.,android.widget.TextView,false,false
+com.ups.mobile.android,false,true,,1,true,true,,false,,[30;942][1050;1086],false,false,false,47,Log In,android.widget.Button,false,false
+com.ups.mobile.android,false,true,,2,true,true,,false,,[30;1146][1050;1290],false,false,false,48,Sign Up,android.widget.Button,false,false
+com.ups.mobile.android,false,false,,1,false,true,android:id/statusBarBackground,false,,[0;0][1080;72],false,false,false,49,,android.view.View,false,false
+com.ups.mobile.android,false,false,,2,false,true,android:id/navigationBarBackground,false,,[0;0][0;0],false,false,false,50,,android.view.View,false,false

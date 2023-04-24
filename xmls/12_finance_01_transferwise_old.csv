@@ -1,0 +1,34 @@
+package,checkable,clickable,content-desc,index,focusable,enabled,resource-id,password,NAF,bounds,focused,checked,long-clickable,progress,text,class,scrollable,selected
+com.transferwise.android,false,false,,0,false,true,com.transferwise.android:id/sendMoneyCalculatorCoordinator,false,,[0;72][1080;1560],false,false,false,0,,android.view.ViewGroup,false,false
+com.transferwise.android,false,false,,0,false,true,com.transferwise.android:id/toolbar,false,,[0;72][1080;240],false,false,false,1,,android.view.ViewGroup,false,false
+com.transferwise.android,false,true,Back,0,true,true,,false,,[0;72][168;240],false,false,false,2,,android.widget.ImageButton,false,false
+com.transferwise.android,false,false,,1,true,true,com.transferwise.android:id/viewPager,false,,[0;240][1080;1560],false,false,false,3,,androidx.viewpager.widget.ViewPager,false,false
+com.transferwise.android,false,false,,0,true,true,com.transferwise.android:id/calculatorRootLayout,false,,[0;240][1080;1560],false,false,false,4,,android.widget.ScrollView,false,false
+com.transferwise.android,false,false,,0,false,true,com.transferwise.android:id/motion_layout,false,,[51;291][1029;548],false,false,false,5,,android.view.ViewGroup,false,false
+com.transferwise.android,false,true,,0,true,true,com.transferwise.android:id/amount_label,false,,[51;291][669;410],false,false,false,6,You send,android.widget.TextView,false,false
+com.transferwise.android,false,true,,1,true,true,com.transferwise.android:id/amount_input,false,,[51;410][669;548],true,false,true,7,1000,android.widget.EditText,false,false
+com.transferwise.android,false,false,,0,false,true,com.transferwise.android:id/currency_flag,false,,[717;401][771;437],false,false,false,8,,android.widget.ImageView,false,false
+com.transferwise.android,false,false,,1,false,true,com.transferwise.android:id/currency_label,false,,[789;382][908;457],false,false,false,9,EUR,android.widget.TextView,false,false
+com.transferwise.android,false,false,,2,false,true,com.transferwise.android:id/currency_selector,false,,[933;395][981;443],false,false,false,10,,android.widget.ImageView,false,false
+com.transferwise.android,false,false,,0,false,true,,false,,[48;551][120;575],false,false,false,11,,android.view.View,false,false
+com.transferwise.android,false,false,,0,false,true,com.transferwise.android:id/sequence_left_icon,false,,[84;611][132;659],false,false,false,12,,android.widget.ImageView,false,false
+com.transferwise.android,false,true,,0,true,true,com.transferwise.android:id/value,false,,[192;608][366;661],false,false,false,13,9.20 EUR,android.widget.TextView,false,false
+com.transferwise.android,false,true,,1,true,true,com.transferwise.android:id/description,false,,[390;608][765;661],false,false,false,14,Fast transfer     fee,android.widget.TextView,false,false
+com.transferwise.android,false,false,,0,false,true,com.transferwise.android:id/sequence_left_icon,false,,[84;713][132;761],false,false,false,15,,android.widget.ImageView,false,false
+com.transferwise.android,false,false,,0,false,true,com.transferwise.android:id/value,false,,[192;710][418;763],false,false,false,16,990.80 EUR,android.widget.TextView,false,false
+com.transferwise.android,false,false,,1,false,true,com.transferwise.android:id/description,false,,[442;710][804;763],false,false,false,17,Amount converted,android.widget.TextView,false,false
+com.transferwise.android,false,false,,0,false,true,com.transferwise.android:id/sequence_left_icon,false,,[84;809][132;857],false,false,false,18,,android.widget.ImageView,false,false
+com.transferwise.android,false,false,,0,false,true,com.transferwise.android:id/value,false,,[192;806][369;859],false,false,false,19,0.857700,android.widget.TextView,false,false
+com.transferwise.android,false,false,,1,false,true,com.transferwise.android:id/description,false,,[393;806][833;859],false,false,false,20,Guaranteed rate (98 h),android.widget.TextView,false,false
+com.transferwise.android,false,false,,4,false,true,,false,,[48;875][120;899],false,false,false,21,,android.view.View,false,false
+com.transferwise.android,false,false,,0,false,true,com.transferwise.android:id/motion_layout,false,,[51;902][1029;1159],false,false,false,22,,android.view.ViewGroup,false,false
+com.transferwise.android,false,true,,0,true,true,com.transferwise.android:id/amount_label,false,,[51;902][669;1021],false,false,false,23,Recipient gets,android.widget.TextView,false,false
+com.transferwise.android,false,true,,1,true,true,com.transferwise.android:id/amount_input,false,,[51;1021][669;1159],false,false,true,24,849.81,android.widget.EditText,false,false
+com.transferwise.android,false,false,,0,false,true,com.transferwise.android:id/currency_flag,false,,[717;1012][771;1048],false,false,false,25,,android.widget.ImageView,false,false
+com.transferwise.android,false,false,,1,false,true,com.transferwise.android:id/currency_label,false,,[787;993][910;1068],false,false,false,26,GBP,android.widget.TextView,false,false
+com.transferwise.android,false,false,,2,false,true,com.transferwise.android:id/currency_selector,false,,[933;1006][981;1054],false,false,false,27,,android.widget.ImageView,false,false
+com.transferwise.android,false,false,,3,false,true,,false,,[48;1162][1032;1234],false,false,false,28,,android.view.View,false,false
+com.transferwise.android,false,true,,4,true,true,com.transferwise.android:id/calculatorSavingsTextView,false,,[96;1234][984;1295],false,false,false,29,You'll save up to 23.65 EUR,android.widget.TextView,false,false
+com.transferwise.android,false,true,,5,true,true,com.transferwise.android:id/calculatorDeliveryEstimationTextView,false,,[48;1319][1032;1380],false,false,false,30,Should arrive in seconds,android.widget.TextView,false,false
+com.transferwise.android,false,true,,0,true,true,,false,,[48;1452][1032;1560],false,false,false,31,Comparison,android.widget.Button,false,false
+com.transferwise.android,false,true,,0,true,true,,false,,[0;1560][1080;1776],false,false,false,32,Get Started,android.widget.Button,false,false

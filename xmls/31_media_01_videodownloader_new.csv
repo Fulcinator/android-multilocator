@@ -1,0 +1,23 @@
+package,checkable,clickable,content-desc,index,focusable,enabled,resource-id,password,NAF,bounds,focused,checked,long-clickable,progress,text,class,scrollable,selected
+com.popularapp.videodownloaderforinstagram,false,true,,0,true,true,com.popularapp.videodownloaderforinstagram:id/nav_menu,true,false,[18;72][138;192],false,false,false,0,,android.widget.ImageView,false,false
+com.popularapp.videodownloaderforinstagram,false,false,,1,false,true,com.popularapp.videodownloaderforinstagram:id/nav_menu_night_mode_red_tip,false,,[108;96][123;111],false,false,false,1,,android.view.View,false,false
+com.popularapp.videodownloaderforinstagram,false,true,,0,true,true,com.popularapp.videodownloaderforinstagram:id/iv_home_ins,true,false,[942;72][1062;192],false,false,false,2,,android.widget.ImageView,false,false
+com.popularapp.videodownloaderforinstagram,false,false,,1,true,true,com.popularapp.videodownloaderforinstagram:id/tablayout,false,,[0;192][666;312],false,false,false,3,,android.widget.HorizontalScrollView,false,false
+com.popularapp.videodownloaderforinstagram,false,true,Instagram,0,true,true,,false,,[0;192][360;312],false,false,false,4,,androidx.appcompat.app.ActionBar$b,false,true
+com.popularapp.videodownloaderforinstagram,false,false,,0,false,true,,false,,[72;222][288;276],false,false,false,5,Instagram,android.widget.TextView,false,true
+com.popularapp.videodownloaderforinstagram,false,true,History,1,true,true,,false,,[360;192][666;312],false,false,false,6,,androidx.appcompat.app.ActionBar$b,false,false
+com.popularapp.videodownloaderforinstagram,false,false,,0,false,true,,false,,[432;222][594;276],false,false,false,7,History,android.widget.TextView,false,false
+com.popularapp.videodownloaderforinstagram,false,false,,1,true,true,com.popularapp.videodownloaderforinstagram:id/viewpager,false,,[0;312][1080;1776],false,false,false,8,,androidx.viewpager.widget.ViewPager,true,false
+com.popularapp.videodownloaderforinstagram,false,false,,0,true,true,com.popularapp.videodownloaderforinstagram:id/scroll,false,,[0;312][1080;1776],false,false,false,9,,android.widget.ScrollView,true,false
+com.popularapp.videodownloaderforinstagram,false,true,,0,true,true,com.popularapp.videodownloaderforinstagram:id/url,false,,[30;348][1050;462],false,false,true,10,Paste share URL here,android.widget.EditText,false,false
+com.popularapp.videodownloaderforinstagram,false,false,,0,false,true,com.popularapp.videodownloaderforinstagram:id/tv_check_url,false,,[191;528][366;576],false,false,false,11,HOW TO,android.widget.TextView,false,false
+com.popularapp.videodownloaderforinstagram,false,false,,0,false,true,,false,,[738;528][863;576],false,false,false,12,PASTE,android.widget.TextView,false,false
+com.popularapp.videodownloaderforinstagram,false,false,,2,false,true,com.popularapp.videodownloaderforinstagram:id/tv_tip_saved,false,,[0;636][1080;677],false,false,false,13,File saved to InstaSave/InstaDownload,android.widget.TextView,false,false
+com.popularapp.videodownloaderforinstagram,false,false,,0,false,true,,false,,[60;767][531;835],false,false,false,14,How to download,android.widget.TextView,false,false
+com.popularapp.videodownloaderforinstagram,false,false,,0,false,true,,false,,[60;895][138;973],false,false,false,15,,android.widget.ImageView,false,false
+com.popularapp.videodownloaderforinstagram,false,false,,1,false,true,,false,,[180;907][523;961],false,false,false,16,Open Instagram,android.widget.TextView,false,false
+com.popularapp.videodownloaderforinstagram,false,false,,2,false,true,,false,,[222;1003][858;1469],false,false,false,17,,android.widget.ImageView,false,false
+com.popularapp.videodownloaderforinstagram,false,false,,0,false,true,,false,,[60;1529][138;1607],false,false,false,18,,android.widget.ImageView,false,false
+com.popularapp.videodownloaderforinstagram,false,false,,1,false,true,com.popularapp.videodownloaderforinstagram:id/tv_share_with,false,,[180;1541][792;1595],false,false,false,19,Share with InstaDownloader,android.widget.TextView,false,false
+com.popularapp.videodownloaderforinstagram,false,false,,4,false,true,,false,,[222;1637][858;1776],false,false,false,20,,android.widget.ImageView,false,false
+com.popularapp.videodownloaderforinstagram,false,false,,1,false,true,android:id/navigationBarBackground,false,,[0;0][0;0],false,false,false,21,,android.view.View,false,false

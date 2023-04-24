@@ -1,0 +1,73 @@
+package,checkable,clickable,content-desc,index,focusable,enabled,resource-id,password,NAF,bounds,focused,checked,long-clickable,progress,text,class,scrollable,selected
+com.booking,false,false,,0,false,true,com.booking:id/facet_with_bui_booking_header_toolbar,false,,[0;72][1080;264],false,false,false,0,,android.view.ViewGroup,false,false
+com.booking,false,false,,0,false,true,,false,,[270;138][810;198],false,false,false,1,,android.widget.ImageView,false,false
+com.booking,false,true,Messages,0,true,true,,false,,[816;102][948;234],false,false,false,2,,android.widget.ImageView,false,false
+com.booking,false,true,Notifications,0,true,true,,false,,[948;102][1080;234],false,false,false,3,,android.widget.ImageView,false,false
+com.booking,false,false,,0,true,true,com.booking:id/facet_index_section_search_header,false,,[0;264][1080;432],false,false,false,4,,androidx.recyclerview.widget.RecyclerView,true,false
+com.booking,false,false,,0,false,true,com.booking:id/facet_entry_point_item_icon,false,,[96;300][168;372],false,false,false,5,,android.widget.ImageView,false,true
+com.booking,false,false,,1,false,true,com.booking:id/facet_entry_point_item_label,false,,[192;306][296;366],false,false,false,6,Stays,android.widget.TextView,false,true
+com.booking,false,false,,0,false,true,com.booking:id/facet_entry_point_item_icon,false,,[392;300][464;372],false,false,false,7,,android.widget.ImageView,false,false
+com.booking,false,false,,1,false,true,com.booking:id/facet_entry_point_item_label,false,,[488;306][616;366],false,false,false,8,Flights,android.widget.TextView,false,false
+com.booking,false,false,,0,false,true,com.booking:id/facet_entry_point_item_icon,false,,[712;300][784;372],false,false,false,9,,android.widget.ImageView,false,false
+com.booking,false,false,,1,false,true,com.booking:id/facet_entry_point_item_label,false,,[808;306][992;366],false,false,false,10,Car rental,android.widget.TextView,false,false
+com.booking,false,false,,1,true,true,com.booking:id/facet_index_section_search_scroll_view,false,,[0;432][1080;1605],false,false,false,11,,android.widget.ScrollView,true,false
+com.booking,false,false,,0,false,true,com.booking:id/facet_index_section_search_view_item,false,,[0;432][1080;1200],false,false,false,12,,androidx.compose.ui.platform.ComposeView,false,false
+com.booking,false,false,,0,false,true,,false,,[0;432][1080;1200],false,false,false,13,,android.view.View,false,false
+com.booking,false,false,,0,false,true,,false,,[48;480][1032;1152],false,false,false,14,,android.view.View,false,false
+com.booking,false,true,,0,true,true,,true,false,[60;492][1020;648],false,false,false,15,,android.widget.Button,false,false
+com.booking,false,true,Thu; Dec 01 - Fri; Dec 02,1,true,true,,false,,[60;660][1020;816],false,false,false,16,,android.widget.Button,false,false
+com.booking,false,true,1 room · 2 adults · 0 children,2,true,true,,false,,[60;828][1020;984],false,false,false,17,,android.widget.Button,false,false
+com.booking,false,true,,3,true,true,,false,,[60;996][1020;1140],false,false,false,18,,android.view.View,false,false
+com.booking,false,false,,0,false,true,,false,,[465;1032][615;1104],false,false,false,19,Search,android.widget.TextView,false,false
+com.booking,false,false,,1,false,true,,false,,[60;996][1020;1140],false,false,false,20,,android.widget.Button,false,false
+com.booking,false,false,,1,false,true,com.booking:id/facet_index_section_saba_placement,false,,[0;1200][1080;1605],false,false,false,21,,androidx.compose.ui.platform.ComposeView,false,false
+com.booking,false,false,,0,false,true,,false,,[0;1200][1080;1776],false,false,false,22,,android.view.View,false,false
+com.booking,false,true,,0,true,true,,false,,[48;1200][1032;1356],false,false,false,23,,android.view.View,false,false
+com.booking,false,false,,0,false,true,,false,,[180;1248][864;1308],false,false,false,24,Get the latest COVID-19 travel advice,android.widget.TextView,false,false
+com.booking,false,false,,1,false,true,,false,,[0;1404][1080;1605],false,false,false,25,,android.view.ViewGroup,false,false
+com.booking,false,false,,0,false,true,,false,,[0;1452][1080;1605],false,false,false,26,,android.view.ViewGroup,false,false
+com.booking,false,false,,0,false,true,,false,,[48;1452][1080;1536],false,false,false,27,,android.view.ViewGroup,false,false
+com.booking,false,false,,0,false,true,com.booking:id/bui_title_title,false,,[48;1452][1080;1536],false,false,false,28,Travel more; spend less,android.widget.TextView,false,false
+com.booking,false,false,,1,true,true,com.booking:id/bui_carousel_view_pager,false,,[0;1584][1080;1605],false,false,false,29,,androidx.recyclerview.widget.RecyclerView,true,false
+com.booking,false,false,,0,false,true,,false,,[48;1584][645;1605],false,false,false,30,,android.view.ViewGroup,false,false
+com.booking,false,true,,0,true,true,com.booking:id/view_benefits_carousel_item,false,,[48;1584][645;1605],false,false,false,31,,android.view.ViewGroup,false,false
+com.booking,false,false,,1,false,true,,false,,[681;1584][1080;1605],false,false,false,32,,android.view.ViewGroup,false,false
+com.booking,false,true,,0,true,true,com.booking:id/view_benefits_carousel_item,false,,[681;1584][1080;1605],false,false,false,33,,android.view.ViewGroup,false,false
+com.booking,false,false,,2,false,true,,false,,[0;0][0;0],false,false,false,34,,android.view.View,false,false
+com.booking,false,false,,0,false,true,,false,,[0;0][0;0],false,false,false,35,More for you,android.widget.TextView,false,false
+com.booking,false,true,,3,true,true,,false,,[0;0][0;0],false,false,false,36,,android.view.View,false,false
+com.booking,false,false,,0,false,true,,false,,[0;0][0;0],false,false,false,37,,android.view.View,false,false
+com.booking,false,false,,1,false,true,,false,,[0;0][0;0],false,false,false,38,Quick trips,android.widget.TextView,false,false
+com.booking,false,true,,4,true,true,,false,,[0;0][0;0],false,false,false,39,,android.view.View,false,false
+com.booking,false,false,,0,false,true,,false,,[0;0][0;0],false,false,false,40,,android.view.View,false,false
+com.booking,false,false,,1,false,true,,false,,[0;0][0;0],false,false,false,41,,android.view.View,false,false
+com.booking,false,false,,0,false,true,,false,,[0;0][0;0],false,false,false,42,New year; new adventures,android.widget.TextView,false,false
+com.booking,false,false,,1,false,true,,false,,[0;0][0;0],false,false,false,43,Save 15% or more when you book and stay before March 31; 2023,android.widget.TextView,false,false
+com.booking,false,true,,5,true,true,,false,,[0;0][0;0],false,false,false,44,,android.view.View,false,false
+com.booking,false,false,,0,false,true,,false,,[0;0][0;0],false,false,false,45,,android.view.View,false,false
+com.booking,false,false,,1,false,true,,false,,[0;0][0;0],false,false,false,46,,android.view.View,false,false
+com.booking,false,false,,0,false,true,,false,,[0;0][0;0],false,false,false,47,View all,android.widget.TextView,false,false
+com.booking,false,false,,1,false,true,,false,,[0;0][0;0],false,false,false,48,Travel talk,android.widget.TextView,false,false
+com.booking,false,true,,6,true,true,,false,,[0;0][0;0],false,false,false,49,,android.view.View,false,false
+com.booking,false,false,,0,false,true,,false,,[0;0][0;0],false,false,false,50,,android.view.View,false,false
+com.booking,false,false,,1,false,true,,false,,[0;0][0;0],false,false,false,51,,android.view.View,false,false
+com.booking,false,false,,0,false,true,,false,,[0;0][0;0],false,false,false,52,Save 15% with Late Escape Deals,android.widget.TextView,false,false
+com.booking,false,false,,1,false,true,,false,,[0;0][0;0],false,false,false,53,Wrap up 2022 with one more adventure,android.widget.TextView,false,false
+com.booking,false,true,,7,true,true,,false,,[0;0][0;0],false,false,false,54,,android.view.View,false,false
+com.booking,false,false,,0,false,true,,false,,[0;0][0;0],false,false,false,55,,android.view.View,false,false
+com.booking,false,false,,1,false,true,,false,,[0;0][0;0],false,false,false,56,Italy,android.widget.TextView,false,false
+com.booking,false,true,,8,true,true,,false,,[0;0][0;0],false,false,false,57,,android.view.View,false,false
+com.booking,false,false,,0,false,true,,false,,[0;0][0;0],false,false,false,58,,android.view.View,false,false
+com.booking,false,false,,1,false,true,,false,,[0;0][0;0],false,false,false,59,Travel articles,android.widget.TextView,false,false
+com.booking,false,false,,0,false,true,,false,,[0;1605][1080;1776],false,false,false,60,,android.view.ViewGroup,false,false
+com.booking,false,false,,0,false,true,com.booking:id/navigation_bar_item_icon_view,false,,[99;1629][171;1701],false,false,false,61,,android.widget.ImageView,false,true
+com.booking,false,false,,0,false,true,com.booking:id/navigation_bar_item_large_label_view,false,,[88;1713][182;1754],false,false,false,62,Search,android.widget.TextView,false,true
+com.booking,false,false,,0,false,true,com.booking:id/navigation_bar_item_icon_view,false,,[369;1629][441;1701],false,false,false,63,,android.widget.ImageView,false,false
+com.booking,false,false,,0,false,true,com.booking:id/navigation_bar_item_small_label_view,false,,[364;1713][446;1754],false,false,false,64,Saved,android.widget.TextView,false,false
+com.booking,false,false,,0,false,true,com.booking:id/navigation_bar_item_icon_view,false,,[639;1629][711;1701],false,false,false,65,,android.widget.ImageView,false,false
+com.booking,false,false,,0,false,true,com.booking:id/navigation_bar_item_small_label_view,false,,[611;1713][738;1754],false,false,false,66,Bookings,android.widget.TextView,false,false
+com.booking,false,false,,0,false,true,com.booking:id/navigation_bar_item_icon_view,false,,[909;1629][981;1701],false,false,false,67,,android.widget.ImageView,false,false
+com.booking,false,false,,0,false,true,com.booking:id/navigation_bar_item_small_label_view,false,,[901;1713][988;1754],false,false,false,68,Profile,android.widget.TextView,false,false
+com.booking,false,false,,1,false,true,,false,,[0;1605][1080;1608],false,false,false,69,,android.view.View,false,false
+com.booking,false,false,,1,false,true,android:id/statusBarBackground,false,,[0;0][1080;72],false,false,false,70,,android.view.View,false,false
+com.booking,false,false,,2,false,true,android:id/navigationBarBackground,false,,[0;0][0;0],false,false,false,71,,android.view.View,false,false

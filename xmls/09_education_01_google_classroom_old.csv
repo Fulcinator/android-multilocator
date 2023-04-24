@@ -1,0 +1,13 @@
+package,checkable,clickable,content-desc,index,focusable,enabled,resource-id,password,NAF,bounds,focused,checked,long-clickable,progress,text,class,scrollable,selected
+com.google.android.apps.classroom,false,false,,0,false,true,com.google.android.apps.classroom:id/courses_activity_root_view,false,,[0;72][1080;1776],false,false,false,0,,android.view.ViewGroup,false,false
+com.google.android.apps.classroom,false,false,,0,false,true,com.google.android.apps.classroom:id/nav_drawer_toolbar,false,,[0;72][1080;240],false,false,false,1,,android.view.ViewGroup,false,false
+com.google.android.apps.classroom,false,true,Open main menu,0,true,true,,false,,[0;72][168;240],false,false,false,2,,android.widget.ImageButton,false,false
+com.google.android.apps.classroom,false,false,,1,false,true,,false,,[180;115][734;196],false,false,false,3,Google Classroom,android.widget.TextView,false,false
+com.google.android.apps.classroom,false,true,Join or create class,0,true,true,com.google.android.apps.classroom:id/action_teacher_course_options,false,,[816;84][960;228],false,false,false,4,,android.widget.TextView,false,false
+com.google.android.apps.classroom,false,true,More options,1,true,true,,false,,[960;84][1080;228],false,false,true,5,,android.widget.ImageView,false,false
+com.google.android.apps.classroom,false,false,,1,false,true,,false,,[0;240][1080;243],false,false,false,6,,android.view.View,false,false
+com.google.android.apps.classroom,false,false,,0,false,true,com.google.android.apps.classroom:id/courses_swipe_refresh_widget,false,,[0;243][1080;1776],false,false,false,7,,android.view.ViewGroup,false,false
+com.google.android.apps.classroom,false,false,,0,true,true,com.google.android.apps.classroom:id/courses_recycler_view,false,,[0;243][1080;1776],true,false,false,8,,android.support.v7.widget.RecyclerView,false,false
+com.google.android.apps.classroom,false,false,,0,false,true,com.google.android.apps.classroom:id/empty_state_image,false,,[395;829][683;1117],false,false,false,9,,android.widget.ImageView,false,false
+com.google.android.apps.classroom,false,true,,1,true,true,com.google.android.apps.classroom:id/empty_state_text,false,,[312;1141][767;1190],false,false,true,10,Create a class to get started,android.widget.TextView,false,false
+com.google.android.apps.classroom,false,false,,1,false,true,android:id/navigationBarBackground,false,,[0;0][0;0],false,false,false,11,,android.view.View,false,false

@@ -1,0 +1,43 @@
+package,checkable,clickable,content-desc,index,focusable,enabled,resource-id,password,NAF,bounds,focused,checked,long-clickable,progress,text,class,scrollable,selected
+com.calm.android,false,false,,1,false,true,com.calm.android:id/scenes_carousel,false,,[0;0][1080;1776],false,false,false,0,,android.view.ViewGroup,false,false
+com.calm.android,false,false,,0,false,true,com.calm.android:id/pinned_sections,false,,[0;0][1080;1776],false,false,false,1,,android.view.ViewGroup,false,false
+com.calm.android,false,false,,0,false,true,,false,,[0;0][1080;1776],false,false,false,2,,android.view.ViewGroup,false,false
+com.calm.android,false,false,,0,false,true,,false,,[0;0][1080;1608],false,false,false,3,,android.view.ViewGroup,false,false
+com.calm.android,false,true,,0,true,true,com.calm.android:id/list,false,,[0;0][1080;1608],true,false,false,4,,androidx.recyclerview.widget.RecyclerView,true,false
+com.calm.android,false,false,,0,false,true,,false,,[24;699][452;783],false,false,false,5,,android.view.ViewGroup,false,false
+com.calm.android,false,false,,0,false,true,com.calm.android:id/icon,false,,[42;714][96;768],false,false,false,6,,android.widget.ImageView,false,false
+com.calm.android,false,false,Good afternoon,1,false,true,com.calm.android:id/title,false,,[120;716][428;767],false,false,false,7,Good afternoon,android.widget.TextView,false,false
+com.calm.android,false,false,,0,false,true,,false,,[24;807][1056;1495],false,false,false,8,,android.view.ViewGroup,false,false
+com.calm.android,false,false,,0,false,true,com.calm.android:id/background,false,,[24;807][1056;1495],false,false,false,9,,android.widget.ImageView,false,false
+com.calm.android,false,false,,1,false,true,com.calm.android:id/action_lock,false,,[48;831][108;891],false,false,false,10,,android.widget.ImageView,false,false
+com.calm.android,false,false,Daily Calm,0,false,true,com.calm.android:id/title,false,,[60;1336][1020;1408],false,false,false,11,Daily Calm,android.widget.TextView,false,false
+com.calm.android,false,false,An original; inspiring meditation every day.,1,false,true,com.calm.android:id/subtitle,false,,[60;1408][1020;1459],false,false,false,12,Dec 2 - Self Competition,android.widget.TextView,false,false
+com.calm.android,false,false,,0,false,true,,false,,[24;1555][339;1608],false,false,false,13,,android.view.ViewGroup,false,false
+com.calm.android,false,false,Quick & Easy,0,false,true,com.calm.android:id/title,false,,[66;1572][315;1608],false,false,false,14,Quick & Easy,android.widget.TextView,false,false
+com.calm.android,false,false,,0,false,true,,false,,[0;0][1080;1776],false,false,false,15,,android.view.View,false,false
+com.calm.android,false,false,,1,false,true,com.calm.android:id/background,false,,[0;0][1080;1776],false,false,false,16,,android.view.View,false,false
+com.calm.android,false,false,,1,true,true,com.calm.android:id/pager,false,,[0;0][1080;1776],false,false,false,17,,androidx.viewpager.widget.ViewPager,true,false
+com.calm.android,false,false,,0,false,true,,false,,[0;0][1080;1776],false,false,false,18,,android.view.View,false,false
+com.calm.android,false,false,,1,false,true,com.calm.android:id/exo_subtitles,false,,[0;0][1080;1776],false,false,false,19,,android.view.View,false,false
+com.calm.android,false,false,scenes_button,0,false,true,com.calm.android:id/scenes,false,,[48;48][120;120],false,false,false,20,,android.widget.ImageView,false,false
+com.calm.android,false,false,,1,false,true,,false,,[388;84][691;186],false,false,false,21,,android.widget.ImageView,false,false
+com.calm.android,false,false,,0,false,true,,false,,[0;1608][1080;1776],false,false,false,22,,android.view.ViewGroup,false,false
+com.calm.android,false,false,,0,false,true,,false,,[0;1608][1080;1776],false,false,false,23,,android.view.View,false,false
+com.calm.android,false,false,,1,false,true,com.calm.android:id/gradient,false,,[0;1608][1080;1776],false,false,false,24,,android.view.View,false,false
+com.calm.android,false,false,,0,false,true,,false,,[0;1608][1080;1776],false,false,false,25,,android.view.ViewGroup,false,false
+com.calm.android,false,false,,0,false,true,com.calm.android:id/icon,false,,[72;1626][144;1698],false,false,false,26,,android.widget.ImageView,false,true
+com.calm.android,false,false,,1,false,true,,false,,[49;1706][166;1776],false,false,false,27,,android.view.ViewGroup,false,true
+com.calm.android,false,false,,0,false,true,com.calm.android:id/largeLabel,false,,[49;1706][166;1757],false,false,false,28,Home,android.widget.TextView,false,true
+com.calm.android,false,false,,0,false,true,com.calm.android:id/icon,false,,[288;1632][360;1704],false,false,false,29,,android.widget.ImageView,false,false
+com.calm.android,false,false,,1,false,true,,false,,[269;1706][378;1776],false,false,false,30,,android.view.ViewGroup,false,false
+com.calm.android,false,false,,0,false,true,com.calm.android:id/smallLabel,false,,[277;1711][369;1755],false,false,false,31,Sleep,android.widget.TextView,false,false
+com.calm.android,false,false,,0,false,true,com.calm.android:id/icon,false,,[504;1632][576;1704],false,false,false,32,,android.widget.ImageView,false,false
+com.calm.android,false,false,,1,false,true,,false,,[455;1706][625;1776],false,false,false,33,,android.view.ViewGroup,false,false
+com.calm.android,false,false,,0,false,true,com.calm.android:id/smallLabel,false,,[467;1711][612;1755],false,false,false,34,Meditate,android.widget.TextView,false,false
+com.calm.android,false,false,,0,false,true,com.calm.android:id/icon,false,,[720;1632][792;1704],false,false,false,35,,android.widget.ImageView,false,false
+com.calm.android,false,false,,1,false,true,,false,,[701;1706][811;1776],false,false,false,36,,android.view.ViewGroup,false,false
+com.calm.android,false,false,,0,false,true,com.calm.android:id/smallLabel,false,,[708;1711][804;1755],false,false,false,37,Music,android.widget.TextView,false,false
+com.calm.android,false,false,,0,false,true,com.calm.android:id/icon,false,,[936;1632][1008;1704],false,false,false,38,,android.widget.ImageView,false,false
+com.calm.android,false,false,,1,false,true,,false,,[921;1706][1022;1776],false,false,false,39,,android.view.ViewGroup,false,false
+com.calm.android,false,false,,0,false,true,com.calm.android:id/smallLabel,false,,[929;1711][1014;1755],false,false,false,40,More,android.widget.TextView,false,false
+com.calm.android,false,false,,1,false,true,android:id/navigationBarBackground,false,,[0;0][0;0],false,false,false,41,,android.view.View,false,false

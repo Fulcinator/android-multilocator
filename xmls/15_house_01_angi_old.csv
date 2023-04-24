@@ -1,0 +1,25 @@
+package,checkable,clickable,content-desc,index,focusable,enabled,resource-id,password,NAF,bounds,focused,checked,long-clickable,progress,text,class,scrollable,selected
+com.servicemagic.consumer,false,false,,0,false,true,,false,,[0;72][1080;1608],false,false,false,0,,android.view.ViewGroup,false,false
+com.servicemagic.consumer,false,false,,0,false,true,com.servicemagic.consumer:id/logo,false,,[360;314][720;533],false,false,false,1,,android.widget.ImageView,false,false
+com.servicemagic.consumer,false,false,,1,false,true,com.servicemagic.consumer:id/title,false,,[293;629][787;708],false,false,false,2,Update required.,android.widget.TextView,false,false
+com.servicemagic.consumer,false,false,,2,false,true,com.servicemagic.consumer:id/message,false,,[191;732][889;948],false,false,false,3,We've done some remodeling and this version of the app is no longer supported.,android.widget.TextView,false,false
+com.servicemagic.consumer,false,true,,3,true,true,com.servicemagic.consumer:id/updateButton,false,,[243;1044][838;1188],false,false,false,4,Update Now,android.widget.Button,false,false
+com.servicemagic.consumer,false,false,,0,false,true,,false,,[0;1608][1080;1776],false,false,false,5,,android.view.ViewGroup,false,false
+com.servicemagic.consumer,false,true,,0,true,true,com.servicemagic.consumer:id/bottom_nav_home_button,false,,[0;1608][216;1776],false,false,false,6,,android.view.ViewGroup,false,false
+com.servicemagic.consumer,false,false,,0,false,true,,false,,[0;1632][216;1704],false,false,false,7,,android.widget.ImageView,false,false
+com.servicemagic.consumer,false,false,,1,false,true,,false,,[69;1715][148;1752],false,false,false,8,Home,android.widget.TextView,false,false
+com.servicemagic.consumer,false,false,,1,false,true,com.servicemagic.consumer:id/top_shadow,false,,[0;1608][1080;1611],false,false,false,9,,android.widget.ImageView,false,false
+com.servicemagic.consumer,false,true,,2,true,true,com.servicemagic.consumer:id/bottom_nav_projects_button,false,,[216;1608][432;1776],false,false,false,10,,android.view.ViewGroup,false,false
+com.servicemagic.consumer,false,false,,0,false,true,com.servicemagic.consumer:id/project_image,false,,[288;1632][360;1704],false,false,false,11,,android.widget.ImageView,false,false
+com.servicemagic.consumer,false,false,,1,false,true,,false,,[269;1715][379;1752],false,false,false,12,Projects,android.widget.TextView,false,false
+com.servicemagic.consumer,false,true,,3,true,true,com.servicemagic.consumer:id/bottom_nav_inbox_button,false,,[432;1608][648;1776],false,false,false,13,,android.view.ViewGroup,false,false
+com.servicemagic.consumer,false,false,,0,false,true,com.servicemagic.consumer:id/bottom_nav_inbox_icon,false,,[504;1632][576;1704],false,false,false,14,,android.widget.ImageView,false,false
+com.servicemagic.consumer,false,false,,1,false,true,,false,,[475;1715][605;1752],false,false,false,15,Messages,android.widget.TextView,false,false
+com.servicemagic.consumer,false,true,,4,true,true,com.servicemagic.consumer:id/bottom_nav_payment_button,false,,[648;1608][864;1776],false,false,false,16,,android.view.ViewGroup,false,false
+com.servicemagic.consumer,false,false,,0,false,true,com.servicemagic.consumer:id/payment_image,false,,[720;1632][792;1704],false,false,false,17,,android.widget.ImageView,false,false
+com.servicemagic.consumer,false,false,,1,false,true,,false,,[697;1715][815;1752],false,false,false,18,Payment,android.widget.TextView,false,false
+com.servicemagic.consumer,false,true,,5,true,true,com.servicemagic.consumer:id/bottom_nav_more_button,false,,[864;1608][1080;1776],false,false,false,19,,android.view.ViewGroup,false,false
+com.servicemagic.consumer,false,false,,0,false,true,,false,,[864;1632][1080;1704],false,false,false,20,,android.widget.ImageView,false,false
+com.servicemagic.consumer,false,false,,1,false,true,,false,,[938;1715][1006;1752],false,false,false,21,More,android.widget.TextView,false,false
+com.servicemagic.consumer,false,false,,1,false,true,android:id/statusBarBackground,false,,[0;0][1080;72],false,false,false,22,,android.view.View,false,false
+com.servicemagic.consumer,false,false,,2,false,true,android:id/navigationBarBackground,false,,[0;0][0;0],false,false,false,23,,android.view.View,false,false

@@ -1,0 +1,24 @@
+package,checkable,clickable,content-desc,index,focusable,enabled,resource-id,password,NAF,bounds,focused,checked,long-clickable,progress,text,class,scrollable,selected
+com.google.android.apps.translate,false,false,,0,false,true,,false,,[0;0][1080;1776],false,false,false,0,,android.view.ViewGroup,false,false
+com.google.android.apps.translate,false,false,,1,false,true,com.google.android.apps.translate:id/pad_area_drawable_view,false,,[0;0][1080;1080],false,false,false,1,,android.view.View,false,false
+com.google.android.apps.translate,false,false,,0,false,true,com.google.android.apps.translate:id/toolbar,false,,[0;72][1080;264],false,false,false,2,,android.view.ViewGroup,false,false
+com.google.android.apps.translate,false,true,Saved,0,true,true,com.google.android.apps.translate:id/phrasebook_button,false,,[12;96][156;240],false,false,false,3,,android.widget.Button,false,false
+com.google.android.apps.translate,false,false,Google Translate,1,false,true,,false,,[315;130][765;205],false,false,false,4,,android.view.ViewGroup,false,false
+com.google.android.apps.translate,false,false,,0,false,true,com.google.android.apps.translate:id/logo,false,,[315;139][518;205],false,false,false,5,,android.widget.ImageView,false,false
+com.google.android.apps.translate,false,false,,1,false,true,com.google.android.apps.translate:id/product_name,false,,[530;130][765;203],false,false,false,6,Translate,android.widget.TextView,false,false
+com.google.android.apps.translate,false,false,,0,false,true,com.google.android.apps.translate:id/og_apd_ring_view,false,,[918;102][1050;234],false,false,false,7,,android.widget.ImageView,false,false
+com.google.android.apps.translate,false,false,,1,false,true,com.google.android.apps.translate:id/og_apd_internal_image_view,false,,[918;102][1050;234],false,false,false,8,,android.widget.ImageView,false,false
+com.google.android.apps.translate,false,true,,3,true,true,com.google.android.apps.translate:id/pad_area_container,false,,[0;264][1080;1008],false,false,false,9,,android.view.ViewGroup,false,false
+com.google.android.apps.translate,false,false,,0,false,true,com.google.android.apps.translate:id/pad_area_flexbox_content,false,,[72;360][1008;1008],false,false,false,10,,android.view.ViewGroup,false,false
+com.google.android.apps.translate,false,false,,0,false,true,com.google.android.apps.translate:id/enter_text_label,false,,[72;360][489;478],false,false,false,11,Enter text,android.widget.TextView,false,false
+com.google.android.apps.translate,false,true,,1,true,true,com.google.android.apps.translate:id/paste_button,false,,[72;622][378;766],false,false,false,12,Paste,android.widget.Button,false,false
+com.google.android.apps.translate,false,false,,4,false,true,com.google.android.apps.translate:id/control_area_container,false,,[0;1080][1080;1776],false,false,false,13,,android.view.ViewGroup,false,false
+com.google.android.apps.translate,false,false,,0,false,true,com.google.android.apps.translate:id/language_selector,false,,[0;1128][1080;1344],false,false,false,14,,android.view.ViewGroup,false,false
+com.google.android.apps.translate,false,true,,0,true,true,com.google.android.apps.translate:id/language_button_a,false,,[72;1152][456;1320],false,false,false,15,English,android.widget.Button,false,false
+com.google.android.apps.translate,false,true,Swap languages,1,true,true,com.google.android.apps.translate:id/swap_languages_button,false,,[468;1164][612;1308],false,false,false,16,,android.widget.Button,false,false
+com.google.android.apps.translate,false,true,,2,true,true,com.google.android.apps.translate:id/language_button_b,false,,[624;1152][1008;1320],false,false,false,17,Spanish,android.widget.Button,false,false
+com.google.android.apps.translate,false,true,Conversation,1,true,true,com.google.android.apps.translate:id/conversation_button,false,,[84;1476][252;1644],false,false,false,18,,android.widget.Button,false,false
+com.google.android.apps.translate,false,true,Camera,2,true,true,com.google.android.apps.translate:id/camera_button,false,,[828;1476][996;1644],false,false,false,19,,android.widget.Button,false,false
+com.google.android.apps.translate,false,false,,3,false,true,com.google.android.apps.translate:id/conversation_button_label,false,,[62;1668][275;1717],false,false,false,20,Conversation,android.widget.TextView,false,false
+com.google.android.apps.translate,false,true,Start dictation,4,true,true,com.google.android.apps.translate:id/dictation_button,false,,[396;1416][684;1704],false,false,true,21,,android.widget.Button,false,false
+com.google.android.apps.translate,false,false,,5,false,true,,false,,[850;1668][975;1717],false,false,false,22,Camera,android.widget.TextView,false,false
