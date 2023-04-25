@@ -37,3 +37,7 @@ Here follows the list of used application with the links for the download from A
 |Tools | Google translate | [5.12.0](https://www.apkmirror.com/apk/google-inc/translate/translate-5-12-0-rc05-167195139-release/) (9/8/2017) | [6.49.0](https://www.apkmirror.com/apk/google-inc/translate/translate-6-49-0-485157701-1-release-release/) (11/9/2022)|
 |Travel | Booking | [24.0](https://www.apkmirror.com/apk/booking-com-hotel-reservations/booking-com-hotel-reservations/booking-com-hotel-reservations-24-0-release/) (11/9/2020) | [34.5](https://www.apkmirror.com/apk/booking-com-hotel-reservations/booking-com-hotel-reservations/booking-com-hotel-reservations-34-5-release/) (11/18/2022)|   
 |Weather | AccuWeather | [4.8.2](https://www.apkmirror.com/apk/accuweather/accuweather/accuweather-4-8-2-free-release/) (7/6/2017) | [8.7.1](https://www.apkmirror.com/apk/accuweather/accuweather/accuweather-8-7-1-1-google-release/) (11/17/2022)|
+
+#All versions
+
+//TODO: add notes

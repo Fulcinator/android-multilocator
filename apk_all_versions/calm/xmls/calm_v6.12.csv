@@ -1,0 +1,91 @@
+nodeName,package,checkable,clickable,content-desc,index,focusable,enabled,resource-id,password,NAF,bounds,focused,checked,long-clickable,progress,text,class,scrollable,selected
+node , com.calm.android , false , false ,  , 3 , false , true , com.calm.android.app:id/scenes_carousel , false ,  , [0;0][1080;1794] , false , false , false , 0 ,  , android.view.ViewGroup , false , false
+node , com.calm.android , false , false ,  , 0 , false , true ,  , false ,  , [0;0][1080;1794] , false , false , false , 1 ,  , android.view.ViewGroup , false , false
+node , com.calm.android , false , false ,  , 0 , false , true ,  , false ,  , [0;0][1080;1794] , false , false , false , 2 ,  , android.view.ViewGroup , false , false
+node , com.calm.android , false , false ,  , 1 , true , true , com.calm.android.app:id/packs_list , false ,  , [0;0][1080;1741] , false , false , false , 3 ,  , androidx.recyclerview.widget.RecyclerView , true , false
+node , com.calm.android , false , false ,  , 0 , true , true ,  , false ,  , [53;0][1027;32] , false , false , false , 4 ,  , android.view.ViewGroup , false , false
+node , com.calm.android , false , false ,  , 0 , false , true , com.calm.android:id/title , false ,  , [53;0][1006;32] , false , false , false , 5 , Good morning , android.widget.TextView , false , false
+node , com.calm.android , false , true ,  , 1 , true , true ,  , false ,  , [53;85][1027;827] , false , false , false , 6 ,  , android.view.ViewGroup , false , false
+node , com.calm.android , false , false ,  , 0 , true , true , com.calm.android:id/list , false ,  , [53;85][1027;827] , false , false , false , 7 ,  , androidx.recyclerview.widget.RecyclerView , true , false
+node , com.calm.android , false , true ,  , 0 , true , true ,  , false ,  , [54;85][841;827] , false , false , false , 8 ,  , android.view.ViewGroup , false , false
+node , com.calm.android , false , false ,  , 0 , false , true , com.calm.android:id/background , false ,  , [54;85][841;610] , false , false , false , 9 ,  , android.widget.ImageView , false , false
+node , com.calm.android , false , false ,  , 1 , false , true , com.calm.android:id/background_overlay , false ,  , [54;85][841;610] , false , false , false , 10 ,  , android.widget.ImageView , false , false
+node , com.calm.android , false , false ,  , 0 , false , true , com.calm.android:id/action_lock , false ,  , [75;547][128;578] , false , false , false , 11 ,  , android.widget.ImageView , false , false
+node , com.calm.android , false , false ,  , 3 , false , true , com.calm.android:id/chin , false ,  , [54;631][841;827] , false , false , false , 12 ,  , android.view.ViewGroup , false , false
+node , com.calm.android , false , false ,  , 0 , false , true , com.calm.android:id/detail_image , false ,  , [59;631][185;757] , false , false , false , 13 ,  , android.widget.ImageView , false , false
+node , com.calm.android , false , false ,  , 1 , false , true , com.calm.android:id/spacer , false ,  , [185;631][217;827] , false , false , false , 14 ,  , android.view.View , false , false
+node , com.calm.android , false , false ,  , 0 , false , true , com.calm.android:id/title , false ,  , [217;631][836;682] , false , false , false , 15 , Daily Calm , android.widget.TextView , false , false
+node , com.calm.android , false , false ,  , 1 , false , true , com.calm.android:id/subtitle , false ,  , [217;682][836;785] , false , false , false , 16 , An original; inspiring meditation every day. , android.widget.TextView , false , false
+node , com.calm.android , false , false ,  , 2 , false , true , com.calm.android:id/description , false ,  , [217;785][836;827] , false , false , false , 17 , Mar 13 • Tending , android.widget.TextView , false , false
+node , com.calm.android , false , true ,  , 1 , true , true ,  , false ,  , [894;85][1027;777] , false , false , false , 18 ,  , android.view.ViewGroup , false , false
+node , com.calm.android , false , false ,  , 0 , false , true , com.calm.android:id/background , false ,  , [894;85][1027;610] , false , false , false , 19 ,  , android.widget.ImageView , false , false
+node , com.calm.android , false , false ,  , 1 , false , true , com.calm.android:id/background_overlay , false ,  , [894;85][1027;610] , false , false , false , 20 ,  , android.widget.ImageView , false , false
+node , com.calm.android , false , false ,  , 0 , false , true , com.calm.android:id/action_lock , false ,  , [915;547][968;578] , false , false , false , 21 ,  , android.widget.ImageView , false , false
+node , com.calm.android , false , false ,  , 3 , false , true , com.calm.android:id/chin , false ,  , [894;631][1027;777] , false , false , false , 22 ,  , android.view.ViewGroup , false , false
+node , com.calm.android , false , false ,  , 0 , false , true , com.calm.android:id/detail_image , false ,  , [899;631][1025;757] , false , false , false , 23 ,  , android.widget.ImageView , false , false
+node , com.calm.android , false , false ,  , 1 , false , true , com.calm.android:id/spacer , false ,  , [1025;631][1027;777] , false , false , false , 24 ,  , android.view.View , false , false
+node , com.calm.android , false , false ,  , 0 , false , true , com.calm.android:id/title , false ,  , [1057;631][1027;682] , false , false , false , 25 , Daily Jay , android.widget.TextView , false , false
+node , com.calm.android , false , false ,  , 1 , false , true , com.calm.android:id/subtitle , false ,  , [1057;682][1027;735] , false , false , false , 26 , A daily piece of wisdom to inspire you. , android.widget.TextView , false , false
+node , com.calm.android , false , false ,  , 2 , false , true , com.calm.android:id/description , false ,  , [1057;735][1027;777] , false , false , false , 27 , Mar 13 • Emotional Retracing , android.widget.TextView , false , false
+node , com.calm.android , false , true ,  , 2 , true , true ,  , true , false , [53;880][1027;883] , false , false , false , 28 ,  , android.view.ViewGroup , false , false
+node , com.calm.android , false , false ,  , 0 , false , true ,  , false ,  , [53;880][1027;883] , false , false , false , 29 ,  , android.view.View , false , false
+node , com.calm.android , false , true ,  , 3 , true , true ,  , false ,  , [53;936][1027;1338] , false , false , false , 30 ,  , android.view.ViewGroup , false , false
+node , com.calm.android , false , false ,  , 0 , true , true , com.calm.android:id/list , false ,  , [53;936][1027;1338] , false , false , false , 31 ,  , androidx.recyclerview.widget.RecyclerView , true , false
+node , com.calm.android , false , false ,  , 0 , false , true ,  , false ,  , [54;936][995;1338] , false , false , false , 32 ,  , android.view.ViewGroup , false , false
+node , com.calm.android , false , true ,  , 0 , true , true ,  , false ,  , [54;936][346;1121] , false , false , false , 33 ,  , android.view.ViewGroup , false , false
+node , com.calm.android , false , false ,  , 0 , false , true , com.calm.android:id/icon , false ,  , [169;968][232;1031] , false , false , false , 34 ,  , android.widget.ImageView , false , false
+node , com.calm.android , false , false ,  , 1 , false , true , com.calm.android:id/title , false ,  , [54;1047][346;1089] , false , false , false , 35 , Meditation , android.widget.TextView , false , false
+node , com.calm.android , false , true ,  , 1 , true , true ,  , false ,  , [378;936][670;1121] , false , false , false , 36 ,  , android.view.ViewGroup , false , false
+node , com.calm.android , false , false ,  , 0 , false , true , com.calm.android:id/icon , false ,  , [493;968][556;1031] , false , false , false , 37 ,  , android.widget.ImageView , false , false
+node , com.calm.android , false , false ,  , 1 , false , true , com.calm.android:id/title , false ,  , [378;1047][670;1089] , false , false , false , 38 , Wisdom , android.widget.TextView , false , false
+node , com.calm.android , false , true ,  , 2 , true , true ,  , false ,  , [702;936][995;1121] , false , false , false , 39 ,  , android.view.ViewGroup , false , false
+node , com.calm.android , false , false ,  , 0 , false , true , com.calm.android:id/icon , false ,  , [817;968][880;1031] , false , false , false , 40 ,  , android.widget.ImageView , false , false
+node , com.calm.android , false , false ,  , 1 , false , true , com.calm.android:id/title , false ,  , [702;1047][995;1089] , false , false , false , 41 , Kids , android.widget.TextView , false , false
+node , com.calm.android , false , true ,  , 0 , true , true ,  , false ,  , [54;1153][346;1338] , false , false , false , 42 ,  , android.view.ViewGroup , false , false
+node , com.calm.android , false , false ,  , 0 , false , true , com.calm.android:id/icon , false ,  , [169;1185][232;1248] , false , false , false , 43 ,  , android.widget.ImageView , false , false
+node , com.calm.android , false , false ,  , 1 , false , true , com.calm.android:id/title , false ,  , [54;1264][346;1306] , false , false , false , 44 , Sleep , android.widget.TextView , false , false
+node , com.calm.android , false , true ,  , 1 , true , true ,  , false ,  , [378;1153][670;1338] , false , false , false , 45 ,  , android.view.ViewGroup , false , false
+node , com.calm.android , false , false ,  , 0 , false , true , com.calm.android:id/icon , false ,  , [493;1185][556;1248] , false , false , false , 46 ,  , android.widget.ImageView , false , false
+node , com.calm.android , false , false ,  , 1 , false , true , com.calm.android:id/title , false ,  , [378;1264][670;1306] , false , false , false , 47 , Music , android.widget.TextView , false , false
+node , com.calm.android , false , true ,  , 2 , true , true ,  , false ,  , [702;1153][995;1338] , false , false , false , 48 ,  , android.view.ViewGroup , false , false
+node , com.calm.android , false , false ,  , 0 , false , true , com.calm.android:id/icon , false ,  , [817;1185][880;1248] , false , false , false , 49 ,  , android.widget.ImageView , false , false
+node , com.calm.android , false , false ,  , 1 , false , true , com.calm.android:id/title , false ,  , [702;1264][995;1306] , false , false , false , 50 , Soundscapes , android.widget.TextView , false , false
+node , com.calm.android , false , false ,  , 1 , false , true ,  , false ,  , [1027;936][1027;1338] , false , false , false , 51 ,  , android.view.ViewGroup , false , false
+node , com.calm.android , false , true ,  , 0 , true , true ,  , false ,  , [1027;936][1027;1121] , false , false , false , 52 ,  , android.view.ViewGroup , false , false
+node , com.calm.android , false , false ,  , 1 , false , true , com.calm.android:id/title , false ,  , [1027;1047][1027;1089] , false , false , false , 53 , Movement , android.widget.TextView , false , false
+node , com.calm.android , false , true ,  , 0 , true , true ,  , false ,  , [1027;1153][1027;1338] , false , false , false , 54 ,  , android.view.ViewGroup , false , false
+node , com.calm.android , false , false ,  , 1 , false , true , com.calm.android:id/title , false ,  , [1027;1264][1027;1306] , false , false , false , 55 , For Work , android.widget.TextView , false , false
+node , com.calm.android , false , true ,  , 4 , true , true ,  , true , false , [53;1391][1027;1394] , false , false , false , 56 ,  , android.view.ViewGroup , false , false
+node , com.calm.android , false , false ,  , 0 , false , true ,  , false ,  , [53;1391][1027;1394] , false , false , false , 57 ,  , android.view.View , false , false
+node , com.calm.android , false , true ,  , 5 , true , true ,  , false ,  , [53;1447][1027;1504] , false , false , false , 58 ,  , android.view.ViewGroup , false , false
+node , com.calm.android , false , false , Kickstart Your Morning , 0 , false , true , com.calm.android:id/title , false ,  , [53;1447][898;1504] , false , false , false , 59 , Kickstart Your Morning , android.widget.TextView , false , false
+node , com.calm.android , false , false ,  , 1 , false , true , com.calm.android:id/see_all , false ,  , [919;1455][1027;1497] , false , false , false , 60 , See All , android.widget.TextView , false , false
+node , com.calm.android , false , true ,  , 6 , true , true ,  , false ,  , [53;1557][1027;1741] , false , false , false , 61 ,  , android.view.ViewGroup , false , false
+node , com.calm.android , false , false ,  , 0 , true , true , com.calm.android:id/list , false ,  , [53;1557][1027;1741] , false , false , false , 62 ,  , androidx.recyclerview.widget.RecyclerView , true , false
+node , com.calm.android , false , true ,  , 0 , true , true ,  , false ,  , [54;1557][579;1741] , false , false , false , 63 ,  , android.view.ViewGroup , false , false
+node , com.calm.android , false , false ,  , 0 , false , true , com.calm.android:id/background , false ,  , [54;1557][579;1741] , false , false , false , 64 ,  , android.widget.ImageView , false , false
+node , com.calm.android , false , true ,  , 1 , true , true ,  , false ,  , [632;1557][1027;1741] , false , false , false , 65 ,  , android.view.ViewGroup , false , false
+node , com.calm.android , false , false ,  , 0 , false , true , com.calm.android:id/background , false ,  , [632;1557][1027;1741] , false , false , false , 66 ,  , android.widget.ImageView , false , false
+node , com.calm.android , false , false ,  , 1 , true , true , com.calm.android.app:id/pager , false ,  , [0;0][1080;1076] , false , false , false , 67 ,  , androidx.viewpager.widget.ViewPager , true , false
+node , com.calm.android , false , false ,  , 0 , false , true ,  , false ,  , [0;0][1080;1076] , false , false , false , 68 ,  , android.view.View , false , false
+node , com.calm.android , false , false ,  , 0 , false , true , com.calm.android:id/exo_subtitles , false ,  , [0;0][1080;1076] , false , false , false , 69 ,  , android.view.View , false , false
+node , com.calm.android , false , false ,  , 2 , false , true , com.calm.android.app:id/header , false ,  , [0;0][1080;315] , false , false , false , 70 ,  , android.view.ViewGroup , false , false
+node , com.calm.android , false , false , Scenes , 0 , false , true , com.calm.android.app:id/scenes , false ,  , [42;42][105;105] , false , false , false , 71 ,  , android.widget.ImageView , false , false
+node , com.calm.android , false , false , Calm , 0 , false , true , com.calm.android.app:id/logo , false ,  , [363;98][717;216] , false , false , false , 72 ,  , android.widget.ImageView , false , false
+node , com.calm.android , false , false ,  , 4 , false , true , com.calm.android.app:id/bottom_gradient , false ,  , [0;717][1080;1076] , false , false , false , 73 ,  , android.view.View , false , false
+node , com.calm.android , false , false ,  , 0 , false , true ,  , false ,  , [0;1647][1080;1794] , false , false , false , 74 ,  , android.view.ViewGroup , false , false
+node , com.calm.android , false , false ,  , 0 , false , true , com.calm.android.app:id/gradient , false ,  , [0;1647][1080;1794] , false , false , false , 75 ,  , android.view.View , false , false
+node , com.calm.android , false , false ,  , 0 , false , true ,  , false ,  , [0;1647][1080;1794] , false , false , false , 76 ,  , android.view.ViewGroup , false , false
+node , com.calm.android , false , false ,  , 0 , false , true , com.calm.android:id/navigation_bar_item_icon_view , false ,  , [103;1663][166;1726] , false , false , false , 77 ,  , android.widget.ImageView , false , true
+node , com.calm.android , false , false ,  , 1 , false , true , com.calm.android:id/navigation_bar_item_labels_group , false ,  , [83;1733][187;1794] , false , false , false , 78 ,  , android.view.ViewGroup , false , true
+node , com.calm.android , false , false ,  , 0 , false , true , com.calm.android:id/navigation_bar_item_large_label_view , false ,  , [83;1733][187;1778] , false , false , false , 79 , Home , android.widget.TextView , false , true
+node , com.calm.android , false , false ,  , 0 , false , true , com.calm.android:id/navigation_bar_item_icon_view , false ,  , [373;1668][436;1731] , false , false , false , 80 ,  , android.widget.ImageView , false , false
+node , com.calm.android , false , false ,  , 1 , false , true , com.calm.android:id/navigation_bar_item_labels_group , false ,  , [331;1733][478;1794] , false , false , false , 81 ,  , android.view.ViewGroup , false , false
+node , com.calm.android , false , false ,  , 0 , false , true , com.calm.android:id/navigation_bar_item_small_label_view , false ,  , [340;1737][468;1776] , false , false , false , 82 , Discover , android.widget.TextView , false , false
+node , com.calm.android , false , false ,  , 0 , false , true , com.calm.android:id/navigation_bar_item_icon_view , false ,  , [643;1668][706;1731] , false , false , false , 83 ,  , android.widget.ImageView , false , false
+node , com.calm.android , false , false ,  , 1 , false , true , com.calm.android:id/navigation_bar_item_labels_group , false ,  , [622;1733][727;1794] , false , false , false , 84 ,  , android.view.ViewGroup , false , false
+node , com.calm.android , false , false ,  , 0 , false , true , com.calm.android:id/navigation_bar_item_small_label_view , false ,  , [628;1737][720;1776] , false , false , false , 85 , Profile , android.widget.TextView , false , false
+node , com.calm.android , false , false ,  , 0 , false , true , com.calm.android:id/navigation_bar_item_icon_view , false ,  , [913;1668][976;1731] , false , false , false , 86 ,  , android.widget.ImageView , false , false
+node , com.calm.android , false , false ,  , 1 , false , true , com.calm.android:id/navigation_bar_item_labels_group , false ,  , [870;1733][1020;1794] , false , false , false , 87 ,  , android.view.ViewGroup , false , false
+node , com.calm.android , false , false ,  , 0 , false , true , com.calm.android:id/navigation_bar_item_small_label_view , false ,  , [880;1737][1010;1776] , false , false , false , 88 , Premium , android.widget.TextView , false , false
+node , com.calm.android , false , false ,  , 1 , false , true , android:id/navigationBarBackground , false ,  , [0;0][0;0] , false , false , false , 89 ,  , android.view.View , false , false

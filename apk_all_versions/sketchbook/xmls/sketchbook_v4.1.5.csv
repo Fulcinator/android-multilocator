@@ -1,0 +1,9 @@
+nodeName,package,checkable,clickable,content-desc,index,focusable,enabled,resource-id,password,NAF,bounds,focused,checked,long-clickable,progress,text,class,scrollable,selected
+node , com.adsk.sketchbook , false , false ,  , 0 , false , true ,  , false ,  , [0;0][1080;1794] , false , false , false , 0 ,  , android.view.View , false , false
+node , com.adsk.sketchbook , false , true ,  , 0 , false , true , com.adsk.sketchbook:id/top_bar_main_menu , true , false , [147;0][278;119] , false , false , false , 1 ,  , android.widget.ImageView , false , false
+node , com.adsk.sketchbook , false , true ,  , 1 , false , true , com.adsk.sketchbook:id/top_bar_tools_menu , true , false , [278;0][409;119] , false , false , false , 2 ,  , android.widget.ImageView , false , false
+node , com.adsk.sketchbook , false , true ,  , 2 , false , true , com.adsk.sketchbook:id/top_bar_brush , true , false , [409;0][540;119] , false , false , false , 3 ,  , android.widget.ImageView , false , false
+node , com.adsk.sketchbook , false , true ,  , 3 , false , true , com.adsk.sketchbook:id/top_bar_color , true , false , [540;0][671;119] , false , false , false , 4 ,  , android.widget.ImageView , false , false
+node , com.adsk.sketchbook , false , true ,  , 4 , false , true , com.adsk.sketchbook:id/top_bar_layer , true , false , [671;0][802;119] , false , false , false , 5 ,  , android.widget.ImageView , false , false
+node , com.adsk.sketchbook , false , true ,  , 5 , false , true , com.adsk.sketchbook:id/top_bar_fullscreen , true , false , [802;0][933;119] , false , false , false , 6 ,  , android.widget.ImageView , false , false
+node , com.adsk.sketchbook , false , false ,  , 0 , false , true ,  , false ,  , [445;1697][634;1794] , false , false , false , 7 ,  , android.widget.ImageView , false , false
