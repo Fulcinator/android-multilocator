@@ -41,3 +41,9 @@ Here follows the list of used application with the links for the download from A
 #All versions
 
 //TODO: add notes;
+
+#Full list of Application
+
+A full list of application retrieved in F-Droid (almost 4000) is available [here](AndroidApps.csv).
+
+FDroid link contains at most 3 links with the tarball compressed source code.
